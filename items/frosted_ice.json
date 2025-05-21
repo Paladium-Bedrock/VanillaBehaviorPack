@@ -1,0 +1,15 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:frosted_ice",
+      "creative_category": "construction",
+      "custom": false
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:frosted_ice"
+      }
+    }
+  }
+}

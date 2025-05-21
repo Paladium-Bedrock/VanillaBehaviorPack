@@ -1,0 +1,18 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:stone_shovel",
+      "custom": false
+    },
+    "components": {
+      "minecraft:durability": {
+        "max_durability": 132
+      },
+      "minecraft:shovel": {
+        "tier": 3,
+        "multiplier": 4.0
+      }
+    }
+  }
+}

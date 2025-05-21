@@ -1,0 +1,15 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:mossy_stone_brick_stairs",
+      "creative_category": "construction",
+      "custom": false
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:mossy_stone_brick_stairs"
+      }
+    }
+  }
+}

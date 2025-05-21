@@ -1,0 +1,16 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:cooked_beef",
+      "creative_category": "nature",
+      "custom": false
+    },
+    "components": {
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation": 12.8
+      }
+    }
+  }
+}

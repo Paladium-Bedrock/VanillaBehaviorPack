@@ -1,0 +1,23 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:sweet_berries",
+      "category": "nature",
+      "custom": false
+    },
+    "components": {
+      "minecraft:food": {
+        "nutrition": 2,
+        "saturation": 0.4
+      },
+      "minecraft:block_placer": {
+        "block": "minecraft:sweet_berry_bush",
+        "use_on": [
+          "minecraft:grass_block",
+          "minecraft:dirt"
+        ]
+      }
+    }
+  }
+}

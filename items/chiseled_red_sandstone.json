@@ -1,0 +1,15 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:chiseled_red_sandstone",
+      "creative_category": "construction",
+      "custom": false
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:chiseled_red_sandstone"
+      }
+    }
+  }
+}

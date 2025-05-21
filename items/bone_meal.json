@@ -1,0 +1,16 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:bone_meal",
+      "custom": false
+    },
+    "components": {
+      "minecraft:fertilizer": {
+      },
+      "minecraft:dye": {
+        "color": "white" 
+      }
+    } 
+  } 
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:stripped_birch_log",
+      "creative_category": "construction",
+      "custom": false
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:stripped_birch_log"
+      },
+      "minecraft:fuel": {
+        "duration": 300
+      }
+    }
+  }
+}

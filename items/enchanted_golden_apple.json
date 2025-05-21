@@ -1,0 +1,36 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:enchanted_golden_apple",
+      "custom": false
+    },
+    "components": {
+      "minecraft:food": {
+        "nutrition": 4,
+        "effects": [
+          {
+            "name": "regeneration",
+            "duration": 30,
+            "amplifier": 4
+          },
+          {
+            "name": "absorption",
+            "duration": 120,
+            "amplifier": 3
+          },
+          {
+            "name": "resistance",
+            "duration": 300,
+            "amplifier": 0
+          },
+          {
+            "name": "fire_resistance",
+            "duration": 300,
+            "amplifier": 0
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:magenta_stained_glass_pane",
+      "creative_category": "construction",
+      "custom": false
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:magenta_stained_glass_pane"
+      }
+    }
+  }
+}

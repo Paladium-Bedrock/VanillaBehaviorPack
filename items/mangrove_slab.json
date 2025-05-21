@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:mangrove_slab",
+      "creative_category": "construction",
+      "custom": false
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:mangrove_slab"
+      },
+      "minecraft:fuel": {
+        "duration": 300
+      }
+    }
+  }
+}

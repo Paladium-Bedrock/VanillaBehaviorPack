@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:birch_planks"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:birch_log"
+        },
+        {
+          "item": "minecraft:stripped_birch_log"
+        },
+        {
+          "item": "minecraft:birch_wood"
+        },
+        {
+          "item": "minecraft:stripped_birch_wood"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:birch_planks",
+      "count": 4
+    }
+  }
+}

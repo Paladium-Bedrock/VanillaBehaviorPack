@@ -1,0 +1,18 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:golden_axe",
+      "custom": false
+    },
+    "components": {
+      "minecraft:durability": {
+        "max_durability": 33
+      },
+      "minecraft:axe": {
+        "tier": 2,
+        "multiplier": 12.0
+      }
+    }
+  }
+}

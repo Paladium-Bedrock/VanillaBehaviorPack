@@ -1,0 +1,22 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:apple",
+      "creative_category": "nature",
+      "custom": false
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "apple"
+      },
+      "minecraft:display_name": {
+        "value": "item.apple.name"
+      },
+      "minecraft:food": {
+        "nutrition": 4,
+        "saturation": 2.4
+      }
+    }
+  }
+}

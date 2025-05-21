@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:cherry_pressure_plate",
+      "creative_category": "construction",
+      "custom": false
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:cherry_pressure_plate"
+      },
+      "minecraft:fuel": {
+        "duration": 300
+      }
+    }
+  }
+}

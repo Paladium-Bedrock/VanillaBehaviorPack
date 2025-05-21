@@ -1,0 +1,18 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:stone_pickaxe",
+      "custom": false
+    },
+    "components": {
+      "minecraft:durability": {
+        "max_durability": 132
+      },
+      "minecraft:pickaxe": {
+        "tier": 3,
+        "multiplier": 4.0
+      }
+    }
+  }
+}

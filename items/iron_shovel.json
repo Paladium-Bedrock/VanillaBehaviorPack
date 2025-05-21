@@ -1,0 +1,18 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:iron_shovel",
+      "custom": false
+    },
+    "components": {
+      "minecraft:durability": {
+        "max_durability": 251
+      },
+      "minecraft:shovel": {
+        "tier": 4,
+        "multiplier": 6.0
+      }
+    }
+  }
+}

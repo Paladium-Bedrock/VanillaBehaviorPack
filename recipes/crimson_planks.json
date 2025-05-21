@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:crimson_planks"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:crimson_stem"
+        },
+        {
+          "item": "minecraft:stripped_crimson_stem"
+        },
+        {
+          "item": "minecraft:crimson_hyphae"
+        },
+        {
+          "item": "minecraft:stripped_crimson_hyphae"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:crimson_planks",
+      "count": 4
+    }
+  }
+}

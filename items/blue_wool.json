@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:blue_wool",
+      "creative_category": "construction",
+      "custom": false
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:blue_wool"
+      },
+      "minecraft:fuel": {
+        "duration": 100
+      }
+    }
+  }
+}

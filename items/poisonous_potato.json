@@ -1,0 +1,22 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:poisonous_potato",
+      "custom": false
+    },
+    "components": {
+      "minecraft:food": {
+        "nutrition": 2,
+        "saturation": 1.2,
+        "effects": [
+          {
+            "name": "poison",
+            "duration": 80,
+            "amplifier": 1
+          }
+        ]
+      }
+    }
+  }
+}

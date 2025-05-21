@@ -1,0 +1,12 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:stick",
+      "custom": false
+    },
+    "minecraft:fuel": {
+      "duration": 100
+    }
+  }
+}

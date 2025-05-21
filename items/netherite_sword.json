@@ -1,0 +1,17 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:netherite_sword",
+      "custom": false
+    },
+    "components": {
+      "minecraft:durability": {
+        "max_durability": 2032
+      },
+      "minecraft:damage": {
+        "damage": 8
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:creative_item": {
+    "item": {
+      "item": "minecraft:bed",
+      "meta": 11
+    }
+  }
+}

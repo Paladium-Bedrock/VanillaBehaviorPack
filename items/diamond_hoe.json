@@ -1,0 +1,17 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:diamond_hoe",
+      "custom": false
+    },
+    "components": {
+      "minecraft:durability": {
+        "max_durability": 1562
+      },
+      "minecraft:hoe": {
+        "tier": 5
+      }
+    }
+  }
+}

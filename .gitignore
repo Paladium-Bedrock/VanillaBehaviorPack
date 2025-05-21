@@ -1,0 +1,11 @@
+*.*~
+.DS_Store
+
+# Visual Studio Code
+.vscode
+
+# JetBrains
+.idea
+
+# Visual Studio 2015
+.vs/

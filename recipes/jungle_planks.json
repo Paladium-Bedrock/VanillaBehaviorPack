@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:jungle_planks"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:jungle_log"
+        },
+        {
+          "item": "minecraft:stripped_jungle_log"
+        },
+        {
+          "item": "minecraft:jungle_wood"
+        },
+        {
+          "item": "minecraft:stripped_jungle_wood"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:jungle_planks",
+      "count": 4
+    }
+  }
+}

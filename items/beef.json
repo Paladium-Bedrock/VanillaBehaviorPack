@@ -1,0 +1,16 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:beef",
+      "creative_category": "nature",
+      "custom": false
+    },
+    "components": {
+      "minecraft:food": {
+        "nutrition": 3,
+        "saturation": 1.8
+      }
+    }
+  }
+}

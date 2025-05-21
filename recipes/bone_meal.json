@@ -1,0 +1,23 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:bone_meal"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:bone"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:bone_meal",
+      "count": 3
+    }
+  }
+}

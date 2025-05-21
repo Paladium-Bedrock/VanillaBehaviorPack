@@ -1,0 +1,14 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "minecraft:cobblestone",
+      "custom": false
+    }
+  },
+  "components": {
+    "minecraft:loot": {
+      "table": "loot_tables/blocks/cobblestone.json"
+    }
+  }
+}

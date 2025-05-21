@@ -1,0 +1,16 @@
+{
+    "format_version": "1.0.0",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "minecraft:furnace_iron_ingot"
+        },
+        "tags": [ "furnace" ],
+        "experience": 0.15,
+        "input": {
+            "item": "minecraft:raw_iron"
+        },
+        "output": {
+            "item": "minecraft:iron_ingot"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:stone_hoe",
+      "custom": false
+    },
+    "components": {
+      "minecraft:durability": {
+        "max_durability": 132
+      },
+      "minecraft:hoe": {
+        "tier": 3
+      }
+    }
+  }
+}

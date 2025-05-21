@@ -1,0 +1,24 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:stick"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X",
+      "X"
+    ],
+    "key": {
+      "X": [
+        {
+          "tag": "minecraft:planks"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:stick",
+      "count": 4
+    }
+  }
+}

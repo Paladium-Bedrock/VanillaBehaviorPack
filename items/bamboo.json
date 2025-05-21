@@ -1,0 +1,34 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:bamboo",
+      "creative_category": "nature",
+      "custom": false
+    },
+    "components": {
+      "minecraft:block_placer": {
+        "block": "minecraft:bamboo",
+        "use_on": [
+          "minecraft:moss_block",
+          "minecraft:dirt_with_roots",
+          "minecraft:gravel",
+          "minecraft:mycelium",
+          "minecraft:suspicious_sand",
+          "minecraft:suspicious_gravel",
+          "minecraft:mud",
+          "minecraft:muddy",
+          "minecraft:mangrove_roots",
+          "minecraft:podzol",
+          "minecraft:sand",
+          "minecraft:red_sand",
+          "minecraft:grass_block",
+          "minecraft:dirt"
+        ]
+      },
+      "minecraft:fuel": {
+        "duration": 50
+      }
+    }
+  }
+}

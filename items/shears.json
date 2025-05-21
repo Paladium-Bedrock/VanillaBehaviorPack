@@ -1,0 +1,16 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:shears",
+      "custom": false
+    },
+    "components": {
+      "minecraft:durability": {
+        "max_durability": 239
+      },
+      "minecraft:shears": {
+      }
+    }
+  }
+}

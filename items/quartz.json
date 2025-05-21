@@ -1,0 +1,9 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:quartz",
+      "custom": false
+    }
+  }
+}

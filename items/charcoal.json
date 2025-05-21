@@ -1,0 +1,14 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:charcoal",
+      "custom": false
+    },
+    "components": {
+      "minecraft:fuel": {
+        "duration": 1600
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:netherite_shovel",
+      "custom": false
+    },
+    "components": {
+      "minecraft:durability": {
+        "max_durability": 2032
+      },
+      "minecraft:shovel": {
+        "tier": 6,
+        "multiplier": 9.0
+      }
+    }
+  }
+}

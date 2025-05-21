@@ -1,0 +1,16 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_stone"
+    },
+    "tags": [ "furnace" ],
+    "experience": 0.1,
+    "input": {
+      "item": "minecraft:cobblestone"
+    },
+    "output": {
+      "item": "minecraft:stone"
+    }
+  }
+}

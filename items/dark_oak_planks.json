@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:dark_oak_planks",
+      "creative_category": "construction",
+      "custom": false
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:dark_oak_planks"
+      },
+      "minecraft:fuel": {
+        "duration": 300
+      }
+    }
+  }
+}

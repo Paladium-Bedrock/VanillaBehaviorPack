@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:cherry_planks"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:cherry_log"
+        },
+        {
+          "item": "minecraft:stripped_cherry_log"
+        },
+        {
+          "item": "minecraft:cherry_wood"
+        },
+        {
+          "item": "minecraft:stripped_cherry_wood"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:cherry_planks",
+      "count": 4
+    }
+  }
+}
