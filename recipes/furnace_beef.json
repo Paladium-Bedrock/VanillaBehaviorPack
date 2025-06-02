@@ -2,7 +2,7 @@
   "format_version": "1.0.0",
   "minecraft:recipe_furnace": {
     "description": {
-      "identifier": "minecraft:furnace_acacia_wood"
+      "identifier": "minecraft:furnace_beef"
     },
     "tags": [ "furnace", "smoker", "campfire", "soul_campfire" ],
     "experience": 0.15,
