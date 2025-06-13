@@ -4,6 +4,11 @@
     "description": {
       "identifier": "minecraft:diamond_chestplate",
       "custom": false
+    },
+    "components": {
+      "minecraft:max_stack_size": {
+        "value": 1
+      }
     }
   }
 }
