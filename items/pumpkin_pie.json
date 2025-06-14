@@ -1,0 +1,15 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:pumpkin_pie",
+      "custom": false
+    },
+    "components": {
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation": 4.8
+      }
+    }
+  }
+}
