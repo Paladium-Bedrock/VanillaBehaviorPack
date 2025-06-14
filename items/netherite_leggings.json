@@ -18,7 +18,8 @@
       },
       "minecraft:wearable": {
         "slot": "slot.armor.legs"
-      }
+      },
+      "minecraft:lava_resistant": {}
     }
   }
 }

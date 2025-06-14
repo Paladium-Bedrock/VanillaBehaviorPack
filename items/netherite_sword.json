@@ -14,7 +14,8 @@
       },
       "minecraft:damage": {
         "damage": 8
-      }
+      },
+      "minecraft:lava_resistant": {}
     }
   }
 }

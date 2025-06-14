@@ -15,7 +15,8 @@
       "minecraft:pickaxe": {
         "tier": 6,
         "multiplier": 9.0
-      }
+      },
+      "minecraft:lava_resistant": {}
     }
   }
 }

@@ -9,7 +9,8 @@
     "components": {
       "minecraft:block": {
         "block": "minecraft:netherite_block"
-      }
+      },
+      "minecraft:lava_resistant": {}
     }
   }
 }

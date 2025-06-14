@@ -4,6 +4,9 @@
     "description": {
       "identifier": "minecraft:netherite_scrap",
       "custom": false
+    },
+    "components": {
+      "minecraft:lava_resistant": {}
     }
   }
 }

@@ -14,7 +14,8 @@
       },
       "minecraft:hoe": {
         "tier": 6
-      }
+      },
+      "minecraft:lava_resistant": {}
     }
   }
 }
