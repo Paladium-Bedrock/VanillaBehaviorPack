@@ -2,12 +2,12 @@
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:blue_dye",
+      "identifier": "minecraft:light_blue_dye",
       "custom": false
     },
     "components": {
       "minecraft:dye": {
-        "color": "Blue"
+        "color": "LightBlue"
       }
     }
   }
