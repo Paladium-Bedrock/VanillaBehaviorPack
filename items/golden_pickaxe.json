@@ -15,6 +15,28 @@
       "minecraft:pickaxe": {
         "tier": 2,
         "multiplier": 12.0
+      },
+      "minecraft:repairable":{
+        "repair_items": [
+          {
+            "items": [
+              "minecraft:gold_ingot"
+            ],
+            "repair_amount": "math.min(q.remaining_durability + c.other->q.remaining_durability + math.floor(q.max_durability / 20), c.other->q.max_durability)"
+          }
+        ]
+      },
+      "minecraft:enchantable": {
+        "slot": "pickaxe",
+        "value": 22
+      },
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:gold_tier",
+          "minecraft:digger",
+          "minecraft:is_pickaxe",
+          "minecraft:is_tool"
+        ]
       }
     }
   }

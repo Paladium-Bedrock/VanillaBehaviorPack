@@ -16,7 +16,29 @@
         "tier": 6,
         "multiplier": 9.0
       },
-      "minecraft:lava_resistant": {}
+      "minecraft:lava_resistant": {},
+      "minecraft:repairable":{
+        "repair_items": [
+          {
+            "items": [
+              "minecraft:netherite_ingot"
+            ],
+            "repair_amount": "math.min(q.remaining_durability + c.other->q.remaining_durability + math.floor(q.max_durability / 20), c.other->q.max_durability)"
+          }
+        ]
+      },
+      "minecraft:enchantable": {
+        "slot": "pickaxe",
+        "value": 15
+      },
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:netherite_tier",
+          "minecraft:digger",
+          "minecraft:is_pickaxe",
+          "minecraft:is_tool"
+        ]
+      }
     }
   }
 }

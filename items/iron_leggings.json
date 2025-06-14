@@ -1,8 +1,8 @@
-﻿{
+{
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:iron_hoe",
+      "identifier": "minecraft:iron_leggings",
       "custom": false
     },
     "components": {
@@ -10,10 +10,13 @@
         "value": 1
       },
       "minecraft:durability": {
-        "max_durability": 251
+        "max_durability": 196
       },
-      "minecraft:hoe": {
-        "tier": 4
+      "minecraft:armor": {
+        "protection": 2
+      },
+      "minecraft:wearable": {
+        "slot": "slot.armor.legs"
       },
       "minecraft:repairable":{
         "repair_items": [
@@ -26,15 +29,14 @@
         ]
       },
       "minecraft:enchantable": {
-        "slot": "hoe",
-        "value": 14
+        "slot": "armor_legs",
+        "value": 9
       },
       "minecraft:tags": {
         "tags": [
           "minecraft:iron_tier",
-          "minecraft:digger",
-          "minecraft:is_hoe",
-          "minecraft:is_tool"
+          "minecraft:is_armor",
+          "minecraft:trimmable_armors"
         ]
       }
     }
