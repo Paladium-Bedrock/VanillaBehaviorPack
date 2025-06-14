@@ -2,7 +2,7 @@
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:iron_boots",
+      "identifier": "minecraft:iron_helmet",
       "custom": false
     },
     "components": {
@@ -10,13 +10,13 @@
         "value": 1
       },
       "minecraft:durability": {
-        "max_durability": 196
+        "max_durability": 166
       },
       "minecraft:armor": {
         "protection": 2
       },
       "minecraft:wearable": {
-        "slot": "slot.armor.feet"
+        "slot": "slot.armor.head"
       }
     }
   }
