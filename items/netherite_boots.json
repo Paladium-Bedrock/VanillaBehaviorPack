@@ -1,8 +1,8 @@
-﻿{
+{
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:netherite_hoe",
+      "identifier": "minecraft:netherite_boots",
       "custom": false
     },
     "components": {
@@ -10,10 +10,14 @@
         "value": 1
       },
       "minecraft:durability": {
-        "max_durability": 2032
+        "max_durability": 481
       },
-      "minecraft:hoe": {
-        "tier": 6
+      "minecraft:armor": {
+        "protection": 3,
+        "toughness": 3
+      },
+      "minecraft:wearable": {
+        "slot": "slot.armor.feet"
       }
     }
   }
