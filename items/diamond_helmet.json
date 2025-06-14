@@ -8,6 +8,16 @@
     "components": {
       "minecraft:max_stack_size": {
         "value": 1
+      },
+      "minecraft:durability": {
+        "max_durability": 364
+      },
+      "minecraft:armor": {
+        "protection": 3,
+        "toughness": 2
+      },
+      "minecraft:wearable": {
+        "slot": "slot.armor.head"
       }
     }
   }

@@ -4,6 +4,20 @@
     "description": {
       "identifier": "minecraft:iron_chestplate",
       "custom": false
+    },
+    "components": {
+      "minecraft:max_stack_size": {
+        "value": 1
+      },
+      "minecraft:durability": {
+        "max_durability": 241
+      },
+      "minecraft:armor": {
+        "protection": 6
+      },
+      "minecraft:wearable": {
+        "slot": "slot.armor.chest"
+      }
     }
   }
 }
