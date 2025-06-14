@@ -2,7 +2,7 @@
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:mushroom_stew",
+      "identifier": "minecraft:rabbit_stew",
       "custom": false
     },
     "components": {
@@ -10,8 +10,8 @@
         "value": 1
       },
       "minecraft:food": {
-        "nutrition": 6,
-        "saturation": 7.2,
+        "nutrition": 10,
+        "saturation": 12.0,
         "using_converts_to": {
           "item": "minecraft:bowl"
         }
