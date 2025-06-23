@@ -1,0 +1,9 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:creative_item": {
+    "item": {
+      "item": "minecraft:enchanted_book",
+      "data": "{ench: [{id: 17s, lvl: 1s}]}"
+    }
+  }
+}

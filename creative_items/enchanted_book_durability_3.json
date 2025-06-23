@@ -2,8 +2,8 @@
   "format_version": "1.0.0",
   "minecraft:creative_item": {
     "item": {
-      "item": "minecraft:banner",
-      "meta": 0
+      "item": "minecraft:enchanted_book",
+      "data": "{ench: [{id: 17s, lvl: 3s}]}"
     }
   }
 }

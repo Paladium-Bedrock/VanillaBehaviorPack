@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:pufferfish",
+      "custom": false
+    },
+    "components": {
+      "minecraft:food": {
+        "nutrition": 1,
+        "saturation": 0.2,
+        "effects": [
+          {
+            "name": "hunger",
+            "duration": 300,
+            "amplifier": 2
+          },
+          {
+            "name": "poison",
+            "duration": 1200,
+            "amplifier": 1
+          },
+          {
+            "name": "nausea",
+            "duration": 300,
+            "amplifier": 1
+          }
+        ]
+      }
+    }
+  }
+}

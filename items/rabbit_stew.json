@@ -1,0 +1,21 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:rabbit_stew",
+      "custom": false
+    },
+    "components": {
+      "minecraft:max_stack_size": {
+        "value": 1
+      },
+      "minecraft:food": {
+        "nutrition": 10,
+        "saturation": 12.0,
+        "using_converts_to": {
+          "item": "minecraft:bowl"
+        }
+      }
+    }
+  }
+}
