@@ -1,7 +1,7 @@
 {
   "format_version": "1.0.0",
   "minecraft:items_runtime": {
-    "game_version": "1.21.80",
+    "game_version": "1.21.90",
     "items": [
       {
         "id": "minecraft:acacia_boat",
