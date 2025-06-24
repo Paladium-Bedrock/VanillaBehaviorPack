@@ -30,7 +30,7 @@
         ]
       },
       "minecraft:enchantable": {
-        "slot": "armor_chest",
+        "slot": "armor_torso",
         "value": 10
       },
       "minecraft:tags": {

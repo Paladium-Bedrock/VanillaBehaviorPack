@@ -16,6 +16,12 @@
         "tier": 6,
         "multiplier": 9.0
       },
+      "minecraft:damage": {
+        "damage": 6
+      },
+      "minecraft:hand_equipped": {
+        "enabled": true
+      },
       "minecraft:lava_resistant": {},
       "minecraft:repairable":{
         "repair_items": [
