@@ -16,6 +16,12 @@
         "tier": 1,
         "multiplier": 2.0
       },
+      "minecraft:damage": {
+        "damage": 1
+      },
+      "minecraft:hand_equipped": {
+        "enabled": true
+      },
       "minecraft:fuel": {
         "duration": 200
       }

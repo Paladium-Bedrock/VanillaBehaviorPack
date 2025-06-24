@@ -15,6 +15,12 @@
       "minecraft:hoe": {
         "tier": 4
       },
+      "minecraft:damage": {
+        "damage": 4
+      },
+      "minecraft:hand_equipped": {
+        "enabled": true
+      },
       "minecraft:repairable":{
         "repair_items": [
           {

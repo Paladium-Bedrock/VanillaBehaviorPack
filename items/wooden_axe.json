@@ -19,6 +19,9 @@
       "minecraft:damage": {
         "damage": 3
       },
+      "minecraft:hand_equipped": {
+        "enabled": true
+      },
       "minecraft:fuel": {
         "duration": 200
       }

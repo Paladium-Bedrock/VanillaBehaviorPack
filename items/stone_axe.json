@@ -18,6 +18,9 @@
       },
       "minecraft:damage": {
         "damage": 4
+      },
+      "minecraft:hand_equipped": {
+        "enabled": true
       }
     }
   }
