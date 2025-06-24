@@ -16,6 +16,9 @@
         "tier": 5,
         "multiplier": 8.0
       },
+      "minecraft:damage": {
+        "damage": 6
+      },
       "minecraft:repairable":{
         "repair_items": [
           {
