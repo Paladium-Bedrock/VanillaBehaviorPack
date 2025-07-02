@@ -21,6 +21,14 @@
       },
       "minecraft:hand_equipped": {
         "enabled": true
+      },
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:stone_tier",
+          "minecraft:digger",
+          "minecraft:is_axe",
+          "minecraft:is_tool"
+        ]
       }
     }
   }
