@@ -12,11 +12,9 @@
       "minecraft:durability": {
         "max_durability": 196
       },
-      "minecraft:armor": {
-        "protection": 2
-      },
       "minecraft:wearable": {
-        "slot": "slot.armor.feet"
+        "slot": "slot.armor.feet",
+        "protection": 2
       },
       "minecraft:repairable":{
         "repair_items": [

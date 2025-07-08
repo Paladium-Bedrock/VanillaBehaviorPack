@@ -12,12 +12,10 @@
       "minecraft:durability": {
         "max_durability": 481
       },
-      "minecraft:armor": {
+      "minecraft:wearable": {
+        "slot": "slot.armor.feet",
         "protection": 3,
         "toughness": 3
-      },
-      "minecraft:wearable": {
-        "slot": "slot.armor.feet"
       },
       "minecraft:lava_resistant": {},
       "minecraft:repairable":{

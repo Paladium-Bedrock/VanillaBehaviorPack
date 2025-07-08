@@ -23,6 +23,14 @@
       },
       "minecraft:fuel": {
         "duration": 200
+      },
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:wooden_tier",
+          "minecraft:digger",
+          "minecraft:is_hoe",
+          "minecraft:is_tool"
+        ]
       }
     }
   }
