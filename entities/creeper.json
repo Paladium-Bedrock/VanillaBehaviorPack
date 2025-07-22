@@ -1,0 +1,53 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:creeper",
+      "custom": false,
+      "is_spawnable": true,
+      "is_summonable": true
+    },
+    "components": {
+      "minecraft:collision_box": {
+        "width": 0.6,
+        "height": 1.95
+      },
+      "minecraft:physics": {
+        "has_collision": true,
+        "has_gravity": true
+      },
+      "minecraft:health": {
+        "value": 20,
+        "max": 20
+      },
+      "minecraft:attack": {
+        "damage": 3
+      },
+      "minecraft:movement": {
+        "value": 0.3
+      },
+      "minecraft:attack_cooldown": {
+        "attack_cooldown_time": 1.0
+      },
+      "minecraft:loot": {
+        "table": "loot_tables/entities/loot_zombie.molang"
+      },
+      "minecraft:behavior.melee_attack": {
+        "priority": 2,
+        "entity_types": [
+          {
+            "type": "minecraft:player",
+            "max_distance": 10.0
+          }
+        ]
+      },
+      "minecraft:behavior.random_walk": {
+        "priority": 1,
+        "walk_distance": 12.0,
+        "walk_interval": 5.0
+      },
+      "minecraft:behavior.look_at_target": {
+      }
+    }
+  }
+}
