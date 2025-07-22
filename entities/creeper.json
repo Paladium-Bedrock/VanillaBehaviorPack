@@ -10,7 +10,7 @@
     "components": {
       "minecraft:collision_box": {
         "width": 0.6,
-        "height": 1.95
+        "height": 1.8
       },
       "minecraft:physics": {
         "has_collision": true,
@@ -20,9 +20,6 @@
         "value": 20,
         "max": 20
       },
-      "minecraft:attack": {
-        "damage": 3
-      },
       "minecraft:movement": {
         "value": 0.3
       },
@@ -30,7 +27,7 @@
         "attack_cooldown_time": 1.0
       },
       "minecraft:loot": {
-        "table": "loot_tables/entities/loot_zombie.molang"
+        "table": "loot_tables/entities/loot_creeper.molang"
       },
       "minecraft:behavior.melee_attack": {
         "priority": 2,
