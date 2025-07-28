@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "ocean",
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.5,
+        "downfall": 0.5
+      },
+      "minecraft:generation_rules": {
+        "priority": 1,
+        "base_height": -1.0,
+        "height_variation": 0.1,
+        "min_temperature": -0.4,
+        "max_temperature": 0.5,
+        "max_downfall": 0.0,
+        "min_ocean": -0.65,
+        "max_ocean": -0.15
+      },
+      "minecraft:surface_parameters": {
+        "surface_depth": 1,
+        "surface_material": "minecraft:sand",
+        "ground_depth": 4,
+        "ground_material": "minecraft:gravel"
+      },
+      "minecraft:tags": {
+        "tags": [
+          "monster",
+          "ocean",
+          "overworld"
+        ]
+      }
+    }
+  }
+}
