@@ -3,12 +3,16 @@
   "minecraft:biome": {
     "description": {
       "identifier": "plains",
+      "id": 1,
       "custom": false
     },
     "components": {
       "minecraft:climate": {
         "temperature": 0.8,
         "downfall": 0.4
+      },
+      "minecraft:water_color": {
+        "color": [68, 175, 245, 165]
       },
       "minecraft:generation_rules": {
         "priority": 1,
@@ -25,13 +29,61 @@
         "ground_depth": 4,
         "ground_material": "minecraft:dirt"
       },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:oak",
+              "base_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:grass",
+            "options": {
+              "base_amount": 30
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:tall_grass"
+              ],
+              "base_amount": 5
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:dandelion",
+                "minecraft:poppy",
+                "minecraft:azure_bluet",
+                "minecraft:red_tulip",
+                "minecraft:orange_tulip",
+                "minecraft:white_tulip",
+                "minecraft:pink_tulip",
+                "minecraft:cornflower",
+                "minecraft:lilac"
+              ],
+              "base_amount": 3
+            }
+          },
+          {
+            "identifier": "minecraft:pumpkin",
+            "options": {
+              "chance": 20
+            }
+          }
+        ]
+      },
       "minecraft:tags": {
         "tags": [
           "animal",
           "monster",
           "overworld",
-          "plains",
-          "bee_habitat"
+          "plains"
         ]
       }
     }

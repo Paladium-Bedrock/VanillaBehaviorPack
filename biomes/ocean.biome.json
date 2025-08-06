@@ -3,12 +3,16 @@
   "minecraft:biome": {
     "description": {
       "identifier": "ocean",
+      "id": 0,
       "custom": false
     },
     "components": {
       "minecraft:climate": {
         "temperature": 0.5,
         "downfall": 0.5
+      },
+      "minecraft:water_color": {
+        "color": [23, 135, 212, 165]
       },
       "minecraft:generation_rules": {
         "priority": 1,
@@ -25,6 +29,62 @@
         "surface_material": "minecraft:sand",
         "ground_depth": 4,
         "ground_material": "minecraft:gravel"
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:underwater_floor",
+            "options": {
+              "block": "minecraft:sand",
+              "probability": 1.0,
+              "min_radius": 2,
+              "max_radius": 4,
+              "height_radius": 2,
+              "replacement_blocks": [
+                "minecraft:grass_block",
+                "minecraft:dirt"
+              ],
+              "base_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:underwater_floor",
+            "options": {
+              "block": "minecraft:clay",
+              "probability": 1.0,
+              "min_radius": 1,
+              "max_radius": 2,
+              "height_radius": 1,
+              "replacement_blocks": [
+                "minecraft:dirt",
+                "minecraft:clay"
+              ],
+              "base_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:underwater_floor",
+            "options": {
+              "block": "minecraft:gravel",
+              "probability": 1.0,
+              "min_radius": 2,
+              "max_radius": 3,
+              "height_radius": 2,
+              "replacement_blocks": [
+                "minecraft:grass_block",
+                "minecraft:dirt"
+              ],
+              "base_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:seagrass",
+            "options": {
+              "base_amount": 24,
+              "random_amount": 24
+            }
+          }
+        ]
       },
       "minecraft:tags": {
         "tags": [
