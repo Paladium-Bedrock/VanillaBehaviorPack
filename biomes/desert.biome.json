@@ -1,0 +1,68 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "plains",
+      "id": 2,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.0,
+        "downfall": 2.0
+      },
+      "minecraft:water_color": {
+        "color": [50, 165, 152, 165]
+      },
+      "minecraft:generation_rules": {
+        "priority": 1,
+        "base_height": 0.125,
+        "height_variation": 0.05,
+        "min_temperature": 0.5,
+        "max_downfall": 0.0,
+        "min_ocean": 0.0,
+        "min_river": 1.0,
+        "min_hills": 0.0
+      },
+      "minecraft:surface_parameters": {
+        "surface_depth": 3,
+        "surface_material": "minecraft:sand",
+        "ground_depth": 2,
+        "ground_material": "minecraft:sandstone"
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:sugarcane",
+            "options": {
+              "base_amount": 10,
+              "random_amount": 40
+            }
+          },
+          {
+            "identifier": "minecraft:cactus",
+            "options": {
+              "base_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:deadbush"
+              ],
+              "base_amount": 2
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "monster",
+          "overworld",
+          "desert"
+        ]
+      }
+    }
+  }
+}
