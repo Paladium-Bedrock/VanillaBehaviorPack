@@ -2,13 +2,13 @@
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:cod",
+      "identifier": "minecraft:vine",
+      "creative_category": "nature",
       "custom": false
     },
     "components": {
-      "minecraft:food": {
-        "nutrition": 2,
-        "saturation": 0.4
+      "minecraft:block": {
+        "block": "minecraft:vine"
       }
     }
   }
