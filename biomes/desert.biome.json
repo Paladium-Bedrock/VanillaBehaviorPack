@@ -2,7 +2,7 @@
   "format_version": "1.0.0",
   "minecraft:biome": {
     "description": {
-      "identifier": "plains",
+      "identifier": "desert",
       "id": 2,
       "custom": false
     },
