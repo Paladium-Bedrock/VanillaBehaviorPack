@@ -2,26 +2,29 @@
   "format_version": "1.0.0",
   "minecraft:biome": {
     "description": {
-      "identifier": "plains",
-      "id": 1,
+      "identifier": "extreme_hills",
+      "id": 3,
       "custom": false
     },
     "components": {
       "minecraft:climate": {
-        "temperature": 0.8,
-        "downfall": 0.4
+        "temperature": 0.2,
+        "downfall": 0.3
       },
       "minecraft:water_color": {
-        "color": [68, 175, 245, 165]
+        "color": [0, 123, 247, 165]
       },
       "minecraft:generation_rules": {
         "priority": 1,
-        "base_height": 0.125,
-        "height_variation": 0.05,
-        "max_temperature": 0.25,
-        "max_downfall": 0.0,
-        "min_ocean": 0.0,
-        "min_river": 0.04
+        "base_height": 0.2,
+        "height_variation": 0.3,
+        "max_temperature": -0.0001,
+        "min_downfall": -0.5,
+        "max_downfall": -0.0001,
+        "min_ocean": -0.12,
+        "min_river": 0.0,
+        "max_river": 1.0,
+        "max_hills": 0.2
       },
       "minecraft:surface_parameters": {
         "surface_depth": 1,
@@ -31,13 +34,6 @@
       },
       "minecraft:populators": {
         "populators": [
-          {
-            "identifier": "minecraft:tree",
-            "options": {
-              "type": "minecraft:oak",
-              "base_amount": 1
-            }
-          },
           {
             "identifier": "minecraft:grass",
             "options": {
@@ -58,14 +54,7 @@
             "options": {
               "plants": [
                 "minecraft:dandelion",
-                "minecraft:poppy",
-                "minecraft:azure_bluet",
-                "minecraft:red_tulip",
-                "minecraft:orange_tulip",
-                "minecraft:white_tulip",
-                "minecraft:pink_tulip",
-                "minecraft:cornflower",
-                "minecraft:lilac"
+                "minecraft:poppy"
               ],
               "base_amount": 3
             }
@@ -81,9 +70,9 @@
       "minecraft:tags": {
         "tags": [
           "animal",
+          "extreme_hills",
           "monster",
-          "overworld",
-          "plains"
+          "overworld"
         ]
       }
     }

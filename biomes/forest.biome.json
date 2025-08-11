@@ -2,26 +2,29 @@
   "format_version": "1.0.0",
   "minecraft:biome": {
     "description": {
-      "identifier": "plains",
-      "id": 1,
+      "identifier": "forest",
+      "id": 4,
       "custom": false
     },
     "components": {
       "minecraft:climate": {
-        "temperature": 0.8,
-        "downfall": 0.4
+        "temperature": 0.7,
+        "downfall": 0.8
       },
       "minecraft:water_color": {
-        "color": [68, 175, 245, 165]
+        "color": [30, 151, 242, 165]
       },
       "minecraft:generation_rules": {
         "priority": 1,
-        "base_height": 0.125,
-        "height_variation": 0.05,
-        "max_temperature": 0.25,
-        "max_downfall": 0.0,
+        "base_height": 0.1,
+        "height_variation": 0.3,
+        "min_temperature": 0.25,
+        "max_temperature": 0.4999,
+        "min_downfall": 0.0,
+        "max_downfall": 0.2499,
         "min_ocean": 0.0,
-        "min_river": 0.04
+        "min_river": 0.0,
+        "max_river": 1.0
       },
       "minecraft:surface_parameters": {
         "surface_depth": 1,
@@ -34,8 +37,16 @@
           {
             "identifier": "minecraft:tree",
             "options": {
+              "type": "minecraft:birch",
+              "base_amount": 3
+            }
+          },
+          {
+            "identifier": "minecraft:tree",
+            "options": {
               "type": "minecraft:oak",
-              "base_amount": 1
+              "base_amount": 1,
+              "random_amount": 7
             }
           },
           {
@@ -59,21 +70,12 @@
               "plants": [
                 "minecraft:dandelion",
                 "minecraft:poppy",
-                "minecraft:azure_bluet",
-                "minecraft:red_tulip",
-                "minecraft:orange_tulip",
-                "minecraft:white_tulip",
-                "minecraft:pink_tulip",
-                "minecraft:cornflower",
-                "minecraft:lilac"
+                "minecraft:lily_of_the_valley",
+                "minecraft:lilac",
+                "minecraft:rose_bush",
+                "minecraft:peony"
               ],
               "base_amount": 3
-            }
-          },
-          {
-            "identifier": "minecraft:pumpkin",
-            "options": {
-              "chance": 20
             }
           }
         ]
@@ -83,7 +85,7 @@
           "animal",
           "monster",
           "overworld",
-          "plains"
+          "forest"
         ]
       }
     }
