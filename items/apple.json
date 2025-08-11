@@ -17,8 +17,14 @@
         "nutrition": 4,
         "saturation": 2.4
       },
-      "minecraft:use_animation": {
-        "animation": "eat"
+      "minecraft:use_modifiers": {
+        "movement_modifier": 0.35,
+        "use_duration": 1.6
+      },
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:is_food"
+        ]
       }
     }
   }
