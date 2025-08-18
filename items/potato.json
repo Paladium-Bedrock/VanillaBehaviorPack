@@ -6,6 +6,12 @@
       "custom": false
     },
     "components": {
+      "minecraft:block_placer": {
+        "block": "minecraft:potatoes",
+        "use_on": [
+          "minecraft:farmland"
+        ]
+      },
       "minecraft:food": {
         "nutrition": 2,
         "saturation": 1.2
