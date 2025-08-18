@@ -4,6 +4,14 @@
     "description": {
       "identifier": "minecraft:wheat_seeds",
       "custom": false
+    },
+    "components": {
+      "minecraft:block_placer": {
+        "block": "minecraft:wheat",
+        "use_on": [
+          "minecraft:farmland"
+        ]
+      }
     }
   }
 }
