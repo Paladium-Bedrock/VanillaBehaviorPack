@@ -6,10 +6,10 @@
       "custom": false
     },
     "minecraft:block_placer": {
-        "block": "minecraft:beetroot",
-        "use_on": [
-          "minecraft:farmland"
-        ]
-      }
+      "block": "minecraft:beetroot",
+      "use_on": [
+        "minecraft:farmland"
+      ]
+    }
   }
 }

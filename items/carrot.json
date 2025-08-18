@@ -6,8 +6,11 @@
       "custom": false
     },
     "components": {
-      "minecraft:block": {
-        "block": "minecraft:carrots"
+      "minecraft:block_placer": {
+        "block": "minecraft:carrots",
+        "use_on": [
+          "minecraft:farmland"
+        ]
       },
       "minecraft:food": {
         "nutrition": 3,
