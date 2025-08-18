@@ -6,7 +6,7 @@ Default Behavior Pack, which contains all the default behaviors for the [Endium]
 
 ## Install
 
-1. Download the latest version of PalaBehaviorPack from the [releases](https://github.com/Paladium-Bedrock/PalaBehaviorPack/releases).
+1. Download the latest version of VanillaBehaviorPack from the [releases](https://github.com/Paladium-Bedrock/VanillaBehaviorPack/releases).
 2. Extract the downloaded file to the `behavior_packs` folder of your Endium server.
 3. Restart your server.
 
