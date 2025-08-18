@@ -7,8 +7,11 @@
       "custom": false
     },
     "components": {
-      "minecraft:block": {
-        "block": "minecraft:poppy"
+      "minecraft:block_placer": {
+        "block": "minecraft:poppy",
+        "use_on": [
+          "minecraft:grass_block"
+        ]
       }
     }
   }

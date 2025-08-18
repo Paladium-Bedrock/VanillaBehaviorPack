@@ -7,8 +7,11 @@
       "custom": false
     },
     "components": {
-      "minecraft:block": {
-        "block": "minecraft:cornflower"
+      "minecraft:block_placer": {
+        "block": "minecraft:cornflower",
+        "use_on": [
+          "minecraft:grass_block"
+        ]
       }
     }
   }

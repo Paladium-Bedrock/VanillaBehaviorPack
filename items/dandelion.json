@@ -7,8 +7,11 @@
       "custom": false
     },
     "components": {
-      "minecraft:block": {
-        "block": "minecraft:dandelion"
+      "minecraft:block_placer": {
+        "block": "minecraft:dandelion",
+        "use_on": [
+          "minecraft:grass_block"
+        ]
       }
     }
   }

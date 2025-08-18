@@ -7,8 +7,11 @@
       "custom": false
     },
     "components": {
-      "minecraft:block": {
-        "block": "minecraft:pink_tulip"
+      "minecraft:block_placer": {
+        "block": "minecraft:pink_tulip",
+        "use_on": [
+          "minecraft:grass_block"
+        ]
       }
     }
   }

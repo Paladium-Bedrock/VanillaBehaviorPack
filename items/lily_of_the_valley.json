@@ -7,8 +7,11 @@
       "custom": false
     },
     "components": {
-      "minecraft:block": {
-        "block": "minecraft:lily_of_the_valley"
+      "minecraft:block_placer": {
+        "block": "minecraft:lily_of_the_valley",
+        "use_on": [
+          "minecraft:grass_block"
+        ]
       }
     }
   }

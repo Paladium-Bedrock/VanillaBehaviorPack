@@ -7,8 +7,11 @@
       "custom": false
     },
     "components": {
-      "minecraft:block": {
-        "block": "minecraft:peony"
+      "minecraft:block_placer": {
+        "block": "minecraft:peony",
+        "use_on": [
+          "minecraft:grass_block"
+        ]
       }
     }
   }

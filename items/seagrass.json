@@ -7,8 +7,13 @@
       "custom": false
     },
     "components": {
-      "minecraft:block": {
-        "block": "minecraft:seagrass"
+      "minecraft:block_placer": {
+        "block": "minecraft:seagrass",
+        "use_on": [
+          "minecraft:dirt",
+          "minecraft:sand",
+          "minecraft:gravel"
+        ]
       }
     }
   }
