@@ -1,0 +1,22 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:brown_carpet"
+    },
+    "tags": [ "crafting_table", "crafting" ],
+    "assume_symmetry": false,
+    "pattern": [
+      "##"
+    ],
+    "key": {
+      "#": [
+        { "item": "minecraft:brown_wool" }
+      ]
+    },
+    "result": {
+      "item": "minecraft:brown_carpet",
+      "count": 3
+    }
+  }
+}
