@@ -2,7 +2,7 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:leather_leggins"
+      "identifier": "minecraft:iron_leggings"
     },
     "tags": [
       "crafting_table"
@@ -15,12 +15,12 @@
     "key": {
       "X": [
         {
-          "item": "minecraft:leather"
+          "item": "minecraft:iron_ingot"
         }
       ]
     },
     "result": {
-      "item": "minecraft:leather_leggins"
+      "item": "minecraft:iron_leggins"
     }
   }
 }
