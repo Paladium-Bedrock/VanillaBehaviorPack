@@ -4,7 +4,9 @@
     "description": {
       "identifier": "minecraft:iron_helmet"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "pattern": [
       "XXX",
       "X X"
@@ -17,8 +19,7 @@
       ]
     },
     "result": {
-      "item": "minecraft:iron_helmet",
-      "count": 1
+      "item": "minecraft:iron_helmet"
     }
   }
 }

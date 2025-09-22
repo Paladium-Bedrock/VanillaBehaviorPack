@@ -4,7 +4,9 @@
     "description": {
       "identifier": "minecraft:barrel"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "assume_symmetry": false,
     "pattern": [
       "#A#",
@@ -14,7 +16,7 @@
     "key": {
       "#": [
         {
-          "item": "minecraft:planks"
+          "tag": "minecraft:planks"
         }
       ],
       "A": [
@@ -24,8 +26,7 @@
       ]
     },
     "result": {
-      "item": "minecraft:barrel",
-      "count": 1
+      "item": "minecraft:barrel"
     }
   }
 }

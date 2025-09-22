@@ -4,9 +4,13 @@
     "description": {
       "identifier": "minecraft:copper_ingot_from_block"
     },
-    "tags": [ "crafting_table", "crafting" ],
+    "tags": [
+      "crafting_table"
+    ],
     "ingredients": [
-      { "item": "minecraft:copper_block" }
+      {
+        "item": "minecraft:copper_block"
+      }
     ],
     "result": {
       "item": "minecraft:copper_ingot",

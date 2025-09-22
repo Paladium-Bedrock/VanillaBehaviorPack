@@ -4,7 +4,9 @@
     "description": {
       "identifier": "minecraft:furnace_dark_oak_log"
     },
-    "tags": [ "furnace" ],
+    "tags": [
+      "furnace"
+    ],
     "experience": 0.15,
     "input": {
       "item": "minecraft:dark_oak_log"

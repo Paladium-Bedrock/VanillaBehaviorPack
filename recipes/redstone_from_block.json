@@ -4,9 +4,13 @@
     "description": {
       "identifier": "minecraft:redstone_from_block"
     },
-    "tags": [ "crafting_table", "crafting" ],
+    "tags": [
+      "crafting_table"
+    ],
     "ingredients": [
-      { "item": "minecraft:redstone_block" }
+      {
+        "item": "minecraft:redstone_block"
+      }
     ],
     "result": {
       "item": "minecraft:redstone",

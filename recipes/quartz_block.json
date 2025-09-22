@@ -4,18 +4,23 @@
     "description": {
       "identifier": "minecraft:quartz_block"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "assume_symmetry": false,
     "pattern": [
       "##",
       "##"
     ],
     "key": {
-      "#": [{ "item": "minecraft:quartz" }]
+      "#": [
+        {
+          "item": "minecraft:quartz"
+        }
+      ]
     },
     "result": {
-      "item": "minecraft:quartz_block",
-      "count": 1
+      "item": "minecraft:quartz_block"
     }
   }
 }

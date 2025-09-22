@@ -4,9 +4,13 @@
     "description": {
       "identifier": "minecraft:lapis_lazuli_from_block"
     },
-    "tags": [ "crafting_table", "crafting" ],
+    "tags": [
+      "crafting_table"
+    ],
     "ingredients": [
-      { "item": "minecraft:lapis_block" }
+      {
+        "item": "minecraft:lapis_block"
+      }
     ],
     "result": {
       "item": "minecraft:lapis_lazuli",

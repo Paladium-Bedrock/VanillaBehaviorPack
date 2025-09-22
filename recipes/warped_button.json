@@ -1,25 +1,25 @@
 {
-    "format_version": "1.0.0",
-    "minecraft:recipe_shaped": {
-        "description": {
-            "identifier": "minecraft:warped_button"
-        },
-        "tags": [
-            "crafting_table"
-        ],
-        "pattern": [
-            "#"
-        ],
-        "key": {
-            "#": [
-                {
-                    "item": "minecraft:warped_planks"
-                }
-            ]
-        },
-        "result": {
-            "item": "minecraft:warped_button",
-            "count": 1
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:warped_button"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:warped_planks"
         }
+      ]
+    },
+    "result": {
+      "item": "minecraft:warped_button",
+      "count": 1
     }
+  }
 }

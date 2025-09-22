@@ -4,7 +4,9 @@
     "description": {
       "identifier": "minecraft:diamond_block"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "assume_symmetry": false,
     "pattern": [
       "###",
@@ -12,11 +14,14 @@
       "###"
     ],
     "key": {
-      "#": [{ "item": "minecraft:diamond" }]
+      "#": [
+        {
+          "item": "minecraft:diamond"
+        }
+      ]
     },
     "result": {
-      "item": "minecraft:diamond_block",
-      "count": 1
+      "item": "minecraft:diamond_block"
     }
   }
 }

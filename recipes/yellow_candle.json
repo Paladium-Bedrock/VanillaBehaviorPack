@@ -4,14 +4,19 @@
     "description": {
       "identifier": "minecraft:yellow_candle"
     },
-    "tags": [ "crafting_table", "crafting" ],
+    "tags": [
+      "crafting_table"
+    ],
     "ingredients": [
-      { "item": "minecraft:candle" },
-      { "item": "minecraft:yellow_dye" }
+      {
+        "item": "minecraft:candle"
+      },
+      {
+        "item": "minecraft:yellow_dye"
+      }
     ],
     "result": {
-      "item": "minecraft:yellow_candle",
-      "count": 1
+      "item": "minecraft:yellow_candle"
     }
   }
 }

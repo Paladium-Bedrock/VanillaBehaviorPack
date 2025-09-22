@@ -4,7 +4,9 @@
     "description": {
       "identifier": "minecraft:mangrove_planks"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "pattern": [
       "#"
     ],

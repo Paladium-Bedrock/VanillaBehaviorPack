@@ -4,7 +4,9 @@
     "description": {
       "identifier": "minecraft:furnace"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "pattern": [
       "AAA",
       "A A",
@@ -18,8 +20,7 @@
       ]
     },
     "result": {
-      "item": "minecraft:furnace",
-      "count": 1
+      "item": "minecraft:furnace"
     }
   }
 }

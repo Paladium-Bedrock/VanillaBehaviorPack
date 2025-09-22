@@ -4,7 +4,9 @@
     "description": {
       "identifier": "minecraft:redstone_block"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "assume_symmetry": false,
     "pattern": [
       "###",
@@ -12,11 +14,14 @@
       "###"
     ],
     "key": {
-      "#": [{ "item": "minecraft:redstone" }]
+      "#": [
+        {
+          "item": "minecraft:redstone"
+        }
+      ]
     },
     "result": {
-      "item": "minecraft:redstone_block",
-      "count": 1
+      "item": "minecraft:redstone_block"
     }
   }
 }

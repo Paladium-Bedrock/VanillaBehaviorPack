@@ -4,7 +4,9 @@
     "description": {
       "identifier": "minecraft:emerald_block"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "assume_symmetry": false,
     "pattern": [
       "###",
@@ -12,11 +14,14 @@
       "###"
     ],
     "key": {
-      "#": [{ "item": "minecraft:emerald" }]
+      "#": [
+        {
+          "item": "minecraft:emerald"
+        }
+      ]
     },
     "result": {
-      "item": "minecraft:emerald_block",
-      "count": 1
+      "item": "minecraft:emerald_block"
     }
   }
 }

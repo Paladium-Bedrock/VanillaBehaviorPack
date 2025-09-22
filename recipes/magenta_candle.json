@@ -4,14 +4,19 @@
     "description": {
       "identifier": "minecraft:magenta_candle"
     },
-    "tags": [ "crafting_table", "crafting" ],
+    "tags": [
+      "crafting_table"
+    ],
     "ingredients": [
-      { "item": "minecraft:candle" },
-      { "item": "minecraft:magenta_dye" }
+      {
+        "item": "minecraft:candle"
+      },
+      {
+        "item": "minecraft:magenta_dye"
+      }
     ],
     "result": {
-      "item": "minecraft:magenta_candle",
-      "count": 1
+      "item": "minecraft:magenta_candle"
     }
   }
 }

@@ -4,7 +4,9 @@
     "description": {
       "identifier": "minecraft:lapis_block"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "assume_symmetry": false,
     "pattern": [
       "###",
@@ -12,11 +14,14 @@
       "###"
     ],
     "key": {
-      "#": [{ "item": "minecraft:lapis_lazuli" }]
+      "#": [
+        {
+          "item": "minecraft:lapis_lazuli"
+        }
+      ]
     },
     "result": {
-      "item": "minecraft:lapis_block",
-      "count": 1
+      "item": "minecraft:lapis_block"
     }
   }
 }

@@ -4,18 +4,23 @@
     "description": {
       "identifier": "minecraft:amethyst_block"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "assume_symmetry": false,
     "pattern": [
       "##",
       "##"
     ],
     "key": {
-      "#": [{ "item": "minecraft:amethyst_shard" }]
+      "#": [
+        {
+          "item": "minecraft:amethyst_shard"
+        }
+      ]
     },
     "result": {
-      "item": "minecraft:amethyst_block",
-      "count": 1
+      "item": "minecraft:amethyst_block"
     }
   }
 }

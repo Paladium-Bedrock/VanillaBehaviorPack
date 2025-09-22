@@ -4,14 +4,19 @@
     "description": {
       "identifier": "minecraft:cyan_candle"
     },
-    "tags": [ "crafting_table", "crafting" ],
+    "tags": [
+      "crafting_table"
+    ],
     "ingredients": [
-      { "item": "minecraft:candle" },
-      { "item": "minecraft:cyan_dye" }
+      {
+        "item": "minecraft:candle"
+      },
+      {
+        "item": "minecraft:cyan_dye"
+      }
     ],
     "result": {
-      "item": "minecraft:cyan_candle",
-      "count": 1
+      "item": "minecraft:cyan_candle"
     }
   }
 }

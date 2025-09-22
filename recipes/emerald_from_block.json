@@ -4,9 +4,13 @@
     "description": {
       "identifier": "minecraft:emerald_from_block"
     },
-    "tags": [ "crafting_table", "crafting" ],
+    "tags": [
+      "crafting_table"
+    ],
     "ingredients": [
-      { "item": "minecraft:emerald_block" }
+      {
+        "item": "minecraft:emerald_block"
+      }
     ],
     "result": {
       "item": "minecraft:emerald",

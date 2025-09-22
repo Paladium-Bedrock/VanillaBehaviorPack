@@ -4,7 +4,9 @@
     "description": {
       "identifier": "minecraft:wooden_pickaxe"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "pattern": [
       "XXX",
       " # ",
@@ -16,7 +18,7 @@
           "item": "minecraft:stick"
         }
       ],
-      "X": [ 
+      "X": [
         {
           "tag": "minecraft:planks"
         }

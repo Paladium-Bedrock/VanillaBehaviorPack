@@ -4,14 +4,19 @@
     "description": {
       "identifier": "minecraft:gray_candle"
     },
-    "tags": [ "crafting_table", "crafting" ],
+    "tags": [
+      "crafting_table"
+    ],
     "ingredients": [
-      { "item": "minecraft:candle" },
-      { "item": "minecraft:gray_dye" }
+      {
+        "item": "minecraft:candle"
+      },
+      {
+        "item": "minecraft:gray_dye"
+      }
     ],
     "result": {
-      "item": "minecraft:gray_candle",
-      "count": 1
+      "item": "minecraft:gray_candle"
     }
   }
 }

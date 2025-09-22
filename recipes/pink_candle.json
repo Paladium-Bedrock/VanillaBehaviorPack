@@ -4,14 +4,19 @@
     "description": {
       "identifier": "minecraft:pink_candle"
     },
-    "tags": [ "crafting_table", "crafting" ],
+    "tags": [
+      "crafting_table"
+    ],
     "ingredients": [
-      { "item": "minecraft:candle" },
-      { "item": "minecraft:pink_dye" }
+      {
+        "item": "minecraft:candle"
+      },
+      {
+        "item": "minecraft:pink_dye"
+      }
     ],
     "result": {
-      "item": "minecraft:pink_candle",
-      "count": 1
+      "item": "minecraft:pink_candle"
     }
   }
 }

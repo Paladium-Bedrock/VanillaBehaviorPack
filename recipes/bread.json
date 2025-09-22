@@ -4,7 +4,9 @@
     "description": {
       "identifier": "minecraft:bread"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "pattern": [
       "###"
     ],
@@ -16,8 +18,7 @@
       ]
     },
     "result": {
-      "item": "minecraft:bread",
-      "count": 1
+      "item": "minecraft:bread"
     }
   }
 }

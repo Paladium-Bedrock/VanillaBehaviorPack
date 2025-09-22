@@ -4,7 +4,9 @@
     "description": {
       "identifier": "minecraft:leather_chestplate"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "pattern": [
       "X X",
       "XXX",
@@ -18,8 +20,7 @@
       ]
     },
     "result": {
-      "item": "minecraft:leather_chestplate",
-      "count": 1
+      "item": "minecraft:leather_chestplate"
     }
   }
 }

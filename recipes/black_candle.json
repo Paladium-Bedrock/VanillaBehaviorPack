@@ -4,14 +4,19 @@
     "description": {
       "identifier": "minecraft:black_candle"
     },
-    "tags": [ "crafting_table", "crafting" ],
+    "tags": [
+      "crafting_table"
+    ],
     "ingredients": [
-      { "item": "minecraft:candle" },
-      { "item": "minecraft:black_dye" }
+      {
+        "item": "minecraft:candle"
+      },
+      {
+        "item": "minecraft:black_dye"
+      }
     ],
     "result": {
-      "item": "minecraft:black_candle",
-      "count": 1
+      "item": "minecraft:black_candle"
     }
   }
 }

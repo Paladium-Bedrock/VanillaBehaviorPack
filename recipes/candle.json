@@ -4,19 +4,28 @@
     "description": {
       "identifier": "minecraft:candle"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "assume_symmetry": false,
     "pattern": [
-      " # ",
-      " A "
+      "#",
+      "A"
     ],
     "key": {
-      "#": [{ "item": "minecraft:string" }],
-      "A": [{ "item": "minecraft:honeycomb" }]
+      "#": [
+        {
+          "item": "minecraft:string"
+        }
+      ],
+      "A": [
+        {
+          "item": "minecraft:honeycomb"
+        }
+      ]
     },
     "result": {
-      "item": "minecraft:candle",
-      "count": 1
+      "item": "minecraft:candle"
     }
   }
 }

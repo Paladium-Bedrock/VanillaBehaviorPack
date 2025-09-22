@@ -4,9 +4,14 @@
     "description": {
       "identifier": "minecraft:gold_ingot_from_block"
     },
-    "tags": [ "crafting_table", "crafting" ],
+    "tags": [
+      "crafting_table",
+      "crafting"
+    ],
     "ingredients": [
-      { "item": "minecraft:gold_block" }
+      {
+        "item": "minecraft:gold_block"
+      }
     ],
     "result": {
       "item": "minecraft:gold_ingot",

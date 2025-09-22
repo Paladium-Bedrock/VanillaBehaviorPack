@@ -4,14 +4,18 @@
     "description": {
       "identifier": "minecraft:red_carpet"
     },
-    "tags": [ "crafting_table", "crafting" ],
+    "tags": [
+      "crafting_table"
+    ],
     "assume_symmetry": false,
     "pattern": [
       "##"
     ],
     "key": {
       "#": [
-        { "item": "minecraft:red_wool" }
+        {
+          "item": "minecraft:red_wool"
+        }
       ]
     },
     "result": {
