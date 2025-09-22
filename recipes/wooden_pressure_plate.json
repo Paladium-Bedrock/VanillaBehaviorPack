@@ -2,7 +2,7 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:oak_pressure_plate"
+      "identifier": "minecraft:wooden_pressure_plate"
     },
     "tags": [
       "crafting_table"
@@ -18,7 +18,7 @@
       ]
     },
     "result": {
-      "item": "minecraft:oak_pressure_plate"
+      "item": "minecraft:wooden_pressure_plate"
     }
   }
 }

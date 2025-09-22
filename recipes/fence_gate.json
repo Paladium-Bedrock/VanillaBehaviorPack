@@ -2,7 +2,7 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:oak_fence_gate"
+      "identifier": "minecraft:fence_gate"
     },
     "tags": [
       "crafting_table"
@@ -24,7 +24,7 @@
       ]
     },
     "result": {
-      "item": "minecraft:oak_fence_gate"
+      "item": "minecraft:fence_gate"
     }
   }
 }
