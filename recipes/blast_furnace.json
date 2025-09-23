@@ -4,7 +4,9 @@
     "description": {
       "identifier": "minecraft:blast_furnace"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "pattern": [
       "III",
       "IFI",
@@ -28,8 +30,7 @@
       ]
     },
     "result": {
-      "item": "minecraft:blast_furnace",
-      "count": 1
+      "item": "minecraft:blast_furnace"
     }
   }
 }

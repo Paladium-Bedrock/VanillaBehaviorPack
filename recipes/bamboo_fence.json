@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:bamboo_fence"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#X#",
+      "#X#"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:bamboo_planks"
+        }
+      ],
+      "X": [
+        {
+          "item": "minecraft:stick"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:bamboo_fence",
+      "count": 3
+    }
+  }
+}

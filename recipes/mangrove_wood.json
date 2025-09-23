@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:mangrove_wood"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:mangrove_log"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:mangrove_wood",
+      "count": 3
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:bamboo_slab"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:bamboo_planks"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:bamboo_slab",
+      "count": 6
+    }
+  }
+}

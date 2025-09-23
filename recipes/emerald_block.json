@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:emerald_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "assume_symmetry": false,
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:emerald"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:emerald_block"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:mangrove_door"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:mangrove_planks"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:mangrove_door",
+      "count": 3
+    }
+  }
+}

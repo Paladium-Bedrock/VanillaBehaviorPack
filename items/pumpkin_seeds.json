@@ -7,8 +7,11 @@
         "custom": false
       },
       "components": {
-        "minecraft:block": {
-          "block": "minecraft:pumpkin_stem"
+        "minecraft:block_placer": {
+          "block": "minecraft:pumpkin_stem",
+          "use_on": [
+            "minecraft:farmland"
+          ]
         }
       }
     }

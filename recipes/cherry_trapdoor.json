@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:cherry_trapdoor"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:cherry_planks"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:cherry_trapdoor",
+      "count": 2
+    }
+  }
+}

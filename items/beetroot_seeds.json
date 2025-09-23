@@ -4,6 +4,12 @@
     "description": {
       "identifier": "minecraft:beetroot_seeds",
       "custom": false
+    },
+    "minecraft:block_placer": {
+      "block": "minecraft:beetroot",
+      "use_on": [
+        "minecraft:farmland"
+      ]
     }
   }
 }

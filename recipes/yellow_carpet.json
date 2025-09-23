@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:yellow_carpet"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "assume_symmetry": false,
+    "pattern": [
+      "##"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:yellow_wool"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:yellow_carpet",
+      "count": 3
+    }
+  }
+}

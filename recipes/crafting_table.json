@@ -4,7 +4,9 @@
     "description": {
       "identifier": "minecraft:crafting_table"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [
+      "crafting_table"
+    ],
     "pattern": [
       "AA",
       "AA"
@@ -17,8 +19,7 @@
       ]
     },
     "result": {
-      "item": "minecraft:crafting_table",
-      "count": 1
+      "item": "minecraft:crafting_table"
     }
   }
 }

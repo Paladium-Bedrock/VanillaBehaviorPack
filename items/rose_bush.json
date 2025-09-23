@@ -7,8 +7,11 @@
       "custom": false
     },
     "components": {
-      "minecraft:block": {
-        "block": "minecraft:rose_bush"
+      "minecraft:block_placer": {
+        "block": "minecraft:rose_bush",
+        "use_on": [
+          "minecraft:grass_block"
+        ]
       }
     }
   }

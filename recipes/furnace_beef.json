@@ -4,7 +4,12 @@
     "description": {
       "identifier": "minecraft:furnace_beef"
     },
-    "tags": [ "furnace", "smoker", "campfire", "soul_campfire" ],
+    "tags": [
+      "furnace",
+      "smoker",
+      "campfire",
+      "soul_campfire"
+    ],
     "experience": 0.15,
     "input": {
       "item": "minecraft:beef"

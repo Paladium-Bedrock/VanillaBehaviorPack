@@ -4,7 +4,10 @@
     "description": {
       "identifier": "minecraft:furnace_iron_ingot"
     },
-    "tags": [ "furnace", "blast_furnace" ],
+    "tags": [
+      "furnace",
+      "blast_furnace"
+    ],
     "experience": 0.15,
     "input": {
       "item": "minecraft:raw_iron"

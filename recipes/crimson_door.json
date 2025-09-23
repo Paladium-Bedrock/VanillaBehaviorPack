@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:crimson_door"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:crimson_planks"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:crimson_door",
+      "count": 3
+    }
+  }
+}

@@ -15,7 +15,11 @@
         "block": "minecraft:sweet_berry_bush",
         "use_on": [
           "minecraft:grass_block",
-          "minecraft:dirt"
+          "minecraft:dirt",
+          "minecraft:podzol",
+          "minecraft:coarse_dirt",
+          "minecraft:moss_block",
+          "minecraft:pale_moss_block"
         ]
       }
     }

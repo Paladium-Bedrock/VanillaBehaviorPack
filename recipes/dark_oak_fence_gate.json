@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:dark_oak_fence_gate"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "X#X",
+      "X#X"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:dark_oak_planks"
+        }
+      ],
+      "X": [
+        {
+          "item": "minecraft:stick"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:dark_oak_fence_gate"
+    }
+  }
+}

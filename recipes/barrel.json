@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:barrel"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "assume_symmetry": false,
+    "pattern": [
+      "#A#",
+      "# #",
+      "#A#"
+    ],
+    "key": {
+      "#": [
+        {
+          "tag": "minecraft:planks"
+        }
+      ],
+      "A": [
+        {
+          "item": "minecraft:stick"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:barrel"
+    }
+  }
+}

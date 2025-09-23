@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:oak_wood"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:oak_log"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:oak_wood",
+      "count": 3
+    }
+  }
+}

@@ -2,13 +2,13 @@
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:bamboo_fence",
+      "identifier": "minecraft:birch_fence",
       "creative_category": "construction",
       "custom": false
     },
     "components": {
       "minecraft:block": {
-        "block": "minecraft:bamboo_fence"
+        "block": "minecraft:birch_fence"
       },
       "minecraft:fuel": {
         "duration": 300

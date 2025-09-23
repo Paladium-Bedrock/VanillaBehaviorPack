@@ -4,7 +4,9 @@
     "description": {
       "identifier": "minecraft:furnace_cherry_log"
     },
-    "tags": [ "furnace" ],
+    "tags": [
+      "furnace"
+    ],
     "experience": 0.15,
     "input": {
       "item": "minecraft:cherry_log"

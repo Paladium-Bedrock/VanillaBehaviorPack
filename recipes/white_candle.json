@@ -1,0 +1,22 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:white_candle"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:candle"
+      },
+      {
+        "item": "minecraft:white_dye"
+      }
+    ],
+    "result": {
+      "item": "minecraft:white_candle"
+    }
+  }
+}

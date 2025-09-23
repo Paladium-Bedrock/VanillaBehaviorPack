@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:birch_fence_gate"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "X#X",
+      "X#X"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:birch_planks"
+        }
+      ],
+      "X": [
+        {
+          "item": "minecraft:stick"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:birch_fence_gate"
+    }
+  }
+}

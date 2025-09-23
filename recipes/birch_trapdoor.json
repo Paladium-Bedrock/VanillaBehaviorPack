@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:birch_trapdoor"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:birch_planks"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:birch_trapdoor",
+      "count": 2
+    }
+  }
+}

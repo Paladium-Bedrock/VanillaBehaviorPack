@@ -83,6 +83,13 @@
               "base_amount": 24,
               "random_amount": 24
             }
+          },
+          {
+            "identifier": "minecraft:kelp",
+            "options": {
+              "base_amount": 0,
+              "random_amount": 50
+            }
           }
         ]
       },

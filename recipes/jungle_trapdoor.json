@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:jungle_trapdoor"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:jungle_planks"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:jungle_trapdoor",
+      "count": 2
+    }
+  }
+}

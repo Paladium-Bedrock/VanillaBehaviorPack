@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:candle"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "assume_symmetry": false,
+    "pattern": [
+      "#",
+      "A"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:string"
+        }
+      ],
+      "A": [
+        {
+          "item": "minecraft:honeycomb"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:candle"
+    }
+  }
+}

@@ -6,10 +6,13 @@
       "custom": false
     },
     "components": {
-      "minecraft:fertilizer": {
-      },
       "minecraft:dye": {
         "color": "White"
+      },
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:is_fertilizer"
+        ]
       }
     }
   }

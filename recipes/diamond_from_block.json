@@ -1,0 +1,20 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:diamond_from_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:diamond_block"
+      }
+    ],
+    "result": {
+      "item": "minecraft:diamond",
+      "count": 9
+    }
+  }
+}
