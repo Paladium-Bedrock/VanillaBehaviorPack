@@ -2,25 +2,24 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:bamboo_door"
+      "identifier": "minecraft:brick_wall"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
-      "##",
-      "##"
+      "###",
+      "###"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:minecraft_bamboo_planks"
+          "item": "minecraft:minecraft_bricks"
         }
       ]
     },
     "result": {
-      "item": "minecraft:minecraft_bamboo_door",
+      "item": "minecraft:minecraft_brick_wall",
       "count": 3
     }
   }

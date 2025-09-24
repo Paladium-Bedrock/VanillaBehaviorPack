@@ -2,19 +2,19 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "minecraft:bamboo_button"
+      "identifier": "minecraft:blaze_powder"
     },
     "tags": [
       "crafting_table"
     ],
     "ingredients": [
       {
-        "item": "minecraft:minecraft_bamboo_planks"
+        "item": "minecraft:minecraft_blaze_rod"
       }
     ],
     "result": {
-      "item": "minecraft:minecraft_bamboo_button",
-      "count": 1
+      "item": "minecraft:minecraft_blaze_powder",
+      "count": 2
     }
   }
 }

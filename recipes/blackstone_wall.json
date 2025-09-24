@@ -2,25 +2,24 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:bamboo_door"
+      "identifier": "minecraft:blackstone_wall"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
-      "##",
-      "##"
+      "###",
+      "###"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:minecraft_bamboo_planks"
+          "item": "minecraft:minecraft_blackstone"
         }
       ]
     },
     "result": {
-      "item": "minecraft:minecraft_bamboo_door",
+      "item": "minecraft:minecraft_blackstone_wall",
       "count": 3
     }
   }

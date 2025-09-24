@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:blue_concrete"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "#*#",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:minecraft_terracotta"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:minecraft_blue_dye"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:minecraft_blue_concrete",
+      "count": 8
+    }
+  }
+}

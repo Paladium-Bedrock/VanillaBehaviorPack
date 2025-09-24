@@ -2,26 +2,25 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:minecraft_cobblestone_stairs"
+      "identifier": "minecraft:bowl"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "#  ",
-      "## ",
-      "###"
+      "# #",
+      " # "
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:minecraft_cobblestone"
+          "item": "minecraft:minecraft_oak_planks"
         }
       ]
     },
     "result": {
-      "item": "minecraft:minecraft_cobblestone_stairs",
-      "count": 4
+      "item": "minecraft:minecraft_bowl",
+      "count": 1
     }
   }
 }
