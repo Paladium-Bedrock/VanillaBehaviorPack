@@ -2,18 +2,21 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "minecraft:bamboo_button"
+      "identifier": "minecraft:waxed_oxidized_copper_grate"
     },
     "tags": [
       "crafting_table"
     ],
     "ingredients": [
       {
-        "item": "minecraft:minecraft_bamboo_planks"
+        "item": "minecraft:oxidized_copper_grate"
+      },
+      {
+        "item": "minecraft:honeycomb"
       }
     ],
     "result": {
-      "item": "minecraft:minecraft_bamboo_button",
+      "item": "minecraft:waxed_oxidized_copper_grate",
       "count": 1
     }
   }

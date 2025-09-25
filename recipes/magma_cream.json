@@ -2,18 +2,21 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "minecraft:bamboo_button"
+      "identifier": "minecraft:magma_cream"
     },
     "tags": [
       "crafting_table"
     ],
     "ingredients": [
       {
-        "item": "minecraft:minecraft_bamboo_planks"
+        "item": "minecraft:blaze_powder"
+      },
+      {
+        "item": "minecraft:slime_ball"
       }
     ],
     "result": {
-      "item": "minecraft:minecraft_bamboo_button",
+      "item": "minecraft:magma_cream",
       "count": 1
     }
   }

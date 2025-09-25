@@ -2,26 +2,26 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:bamboo_door"
+      "identifier": "minecraft:raw_iron_block"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
-      "##",
-      "##"
+      "###",
+      "###",
+      "###"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:minecraft_bamboo_planks"
+          "item": "minecraft:raw_iron"
         }
       ]
     },
     "result": {
-      "item": "minecraft:minecraft_bamboo_door",
-      "count": 3
+      "item": "minecraft:raw_iron_block",
+      "count": 1
     }
   }
 }

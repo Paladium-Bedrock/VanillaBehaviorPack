@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:black_stained_glass"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "#*#",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:minecraft_glass"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:minecraft_black_dye"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:minecraft_black_stained_glass",
+      "count": 8
+    }
+  }
+}

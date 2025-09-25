@@ -2,25 +2,25 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:bamboo_door"
+      "identifier": "minecraft:cut_copper_stairs"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
-      "##",
-      "##"
+      "#  ",
+      "## ",
+      "###"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:minecraft_bamboo_planks"
+          "item": "minecraft:cut_copper"
         }
       ]
     },
     "result": {
-      "item": "minecraft:minecraft_bamboo_door",
+      "item": "minecraft:cut_copper_stairs",
       "count": 3
     }
   }

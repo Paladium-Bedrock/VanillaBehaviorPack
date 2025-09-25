@@ -2,26 +2,25 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:bamboo_door"
+      "identifier": "minecraft:jungle_boat"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
-      "##",
-      "##"
+      "# #",
+      "###"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:minecraft_bamboo_planks"
+          "item": "minecraft:jungle_planks"
         }
       ]
     },
     "result": {
-      "item": "minecraft:minecraft_bamboo_door",
-      "count": 3
+      "item": "minecraft:jungle_boat",
+      "count": 1
     }
   }
 }

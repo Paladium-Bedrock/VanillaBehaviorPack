@@ -2,18 +2,21 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "minecraft:bamboo_button"
+      "identifier": "minecraft:white_dye"
     },
     "tags": [
       "crafting_table"
     ],
     "ingredients": [
       {
-        "item": "minecraft:minecraft_bamboo_planks"
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "minecraft:lily_of_the_valley"
       }
     ],
     "result": {
-      "item": "minecraft:minecraft_bamboo_button",
+      "item": "minecraft:white_dye",
       "count": 1
     }
   }

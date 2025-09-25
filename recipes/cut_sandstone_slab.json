@@ -2,26 +2,24 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:bamboo_door"
+      "identifier": "minecraft:cut_sandstone_slab"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
-      "##",
-      "##"
+      "###"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:minecraft_bamboo_planks"
+          "item": "minecraft:cut_sandstone"
         }
       ]
     },
     "result": {
-      "item": "minecraft:minecraft_bamboo_door",
-      "count": 3
+      "item": "minecraft:cut_sandstone_slab",
+      "count": 1
     }
   }
 }

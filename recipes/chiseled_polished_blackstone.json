@@ -2,26 +2,25 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:bamboo_door"
+      "identifier": "minecraft:chiseled_polished_blackstone"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
-      "##",
-      "##"
+      "#",
+      "#"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:minecraft_bamboo_planks"
+          "item": "minecraft:polished_blackstone_slab"
         }
       ]
     },
     "result": {
-      "item": "minecraft:minecraft_bamboo_door",
-      "count": 3
+      "item": "minecraft:chiseled_polished_blackstone",
+      "count": 1
     }
   }
 }

@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_glass"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "experience": 0.15,
+    "input": {
+      "item": "minecraft:suspicious_sand"
+    },
+    "output": {
+      "item": "minecraft:glass"
+    }
+  }
+}

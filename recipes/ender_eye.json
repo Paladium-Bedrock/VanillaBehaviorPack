@@ -2,18 +2,21 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "minecraft:bamboo_button"
+      "identifier": "minecraft:ender_eye"
     },
     "tags": [
       "crafting_table"
     ],
     "ingredients": [
       {
-        "item": "minecraft:minecraft_bamboo_planks"
+        "item": "minecraft:ender_pearl"
+      },
+      {
+        "item": "minecraft:blaze_powder"
       }
     ],
     "result": {
-      "item": "minecraft:minecraft_bamboo_button",
+      "item": "minecraft:ender_eye",
       "count": 1
     }
   }

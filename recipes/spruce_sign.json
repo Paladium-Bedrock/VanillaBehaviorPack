@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:spruce_sign"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "###",
+      " * "
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:spruce_planks"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:stick"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:spruce_sign",
+      "count": 1
+    }
+  }
+}

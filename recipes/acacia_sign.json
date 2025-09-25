@@ -2,25 +2,30 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:bamboo_door"
+      "identifier": "minecraft:acacia_sign"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
-      "##",
-      "##"
+      "###",
+      "###",
+      " * "
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:minecraft_bamboo_planks"
+          "item": "minecraft:acacia_planks"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:stick"
         }
       ]
     },
     "result": {
-      "item": "minecraft:minecraft_bamboo_door",
+      "item": "minecraft:acacia_sign",
       "count": 3
     }
   }

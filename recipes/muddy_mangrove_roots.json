@@ -2,18 +2,21 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "minecraft:bamboo_button"
+      "identifier": "minecraft:muddy_mangrove_roots"
     },
     "tags": [
       "crafting_table"
     ],
     "ingredients": [
       {
-        "item": "minecraft:minecraft_bamboo_planks"
+        "item": "minecraft:mud"
+      },
+      {
+        "item": "minecraft:mangrove_roots"
       }
     ],
     "result": {
-      "item": "minecraft:minecraft_bamboo_button",
+      "item": "minecraft:muddy_mangrove_roots",
       "count": 1
     }
   }

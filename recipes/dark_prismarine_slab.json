@@ -2,25 +2,24 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:acacia_wood"
+      "identifier": "minecraft:dark_prismarine_slab"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
-      "##"
+      "###"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:acacia_log"
+          "item": "minecraft:dark_prismarine"
         }
       ]
     },
     "result": {
-      "item": "minecraft:acacia_wood",
-      "count": 3
+      "item": "minecraft:dark_prismarine_slab",
+      "count": 1
     }
   }
 }

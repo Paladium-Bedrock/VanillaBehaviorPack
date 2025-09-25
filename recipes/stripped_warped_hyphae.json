@@ -2,26 +2,25 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:bamboo_door"
+      "identifier": "minecraft:stripped_warped_hyphae"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
       "##",
-      "##",
       "##"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:minecraft_bamboo_planks"
+          "item": "minecraft:stripped_warped_stem"
         }
       ]
     },
     "result": {
-      "item": "minecraft:minecraft_bamboo_door",
-      "count": 3
+      "item": "minecraft:stripped_warped_hyphae",
+      "count": 1
     }
   }
 }
