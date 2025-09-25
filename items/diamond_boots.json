@@ -15,7 +15,8 @@
       "minecraft:wearable": {
         "slot": "slot.armor.feet",
         "protection": 3,
-        "toughness": 2
+        "toughness": 2,
+        "equip_sound": "armor.equip_diamond"
       },
       "minecraft:repairable":{
         "repair_items": [
