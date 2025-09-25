@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:golden_chestplate"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "# #",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:gold_ingot"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:golden_chestplate",
+      "count": 1
+    }
+  }
+}

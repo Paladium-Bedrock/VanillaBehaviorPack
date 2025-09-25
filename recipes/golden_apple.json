@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:golden_apple"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "#*#",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:gold_ingot"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:apple"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:golden_apple",
+      "count": 1
+    }
+  }
+}

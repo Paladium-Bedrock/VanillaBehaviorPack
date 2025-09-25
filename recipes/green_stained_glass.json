@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:green_stained_glass"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "#*#",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:glass"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:green_dye"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:green_stained_glass",
+      "count": 1
+    }
+  }
+}

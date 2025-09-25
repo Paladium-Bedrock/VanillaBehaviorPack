@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:stripped_bamboo_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:bamboo"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:stripped_bamboo_block",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:moss_carpet"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "##"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:moss_block"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:moss_carpet",
+      "count": 1
+    }
+  }
+}

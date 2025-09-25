@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:stripped_birch_wood"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:stripped_birch_log"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:stripped_birch_wood",
+      "count": 1
+    }
+  }
+}

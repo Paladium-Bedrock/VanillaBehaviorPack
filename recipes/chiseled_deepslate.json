@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:chiseled_deepslate"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#",
+      "#"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:cobbled_deepslate_slab"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:chiseled_deepslate",
+      "count": 1
+    }
+  }
+}

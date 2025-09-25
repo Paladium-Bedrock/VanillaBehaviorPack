@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:cobbled_deepslate_wall"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:cobbled_deepslate"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:cobbled_deepslate_wall",
+      "count": 1
+    }
+  }
+}

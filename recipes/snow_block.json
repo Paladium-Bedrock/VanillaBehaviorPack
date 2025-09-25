@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:snow_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:snowball"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:snow_block",
+      "count": 1
+    }
+  }
+}
