@@ -1,24 +1,20 @@
 {
   "format_version": "1.0.0",
-  "minecraft:recipe_shaped": {
+  "minecraft:recipe_shapeless": {
     "description": {
       "identifier": "minecraft:birch_button"
     },
     "tags": [
       "crafting_table"
     ],
-    "pattern": [
-      "#"
+    "ingredients": [
+      {
+        "item": "minecraft:minecraft_birch_planks"
+      }
     ],
-    "key": {
-      "#": [
-        {
-          "item": "minecraft:birch_planks"
-        }
-      ]
-    },
     "result": {
-      "item": "minecraft:birch_button"
+      "item": "minecraft:minecraft_birch_button",
+      "count": 1
     }
   }
 }

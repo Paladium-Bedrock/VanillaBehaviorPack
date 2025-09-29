@@ -1,0 +1,25 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:cut_copper_slab"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:cut_copper"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:cut_copper_slab",
+      "count": 3
+    }
+  }
+}

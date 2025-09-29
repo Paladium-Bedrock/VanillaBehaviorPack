@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:gray_banner"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "###",
+      " * "
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:gray_wool"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:stick"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:gray_banner",
+      "count": 1
+    }
+  }
+}

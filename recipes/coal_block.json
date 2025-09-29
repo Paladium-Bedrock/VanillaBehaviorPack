@@ -8,12 +8,12 @@
       "crafting_table"
     ],
     "pattern": [
-      "XXX",
-      "XXX",
-      "XXX"
+      "###",
+      "###",
+      "###"
     ],
     "key": {
-      "X": [
+      "#": [
         {
           "item": "minecraft:coal"
         }

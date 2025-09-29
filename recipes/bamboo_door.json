@@ -15,12 +15,12 @@
     "key": {
       "#": [
         {
-          "item": "minecraft:bamboo_planks"
+          "item": "minecraft:minecraft_bamboo_planks"
         }
       ]
     },
     "result": {
-      "item": "minecraft:bamboo_door",
+      "item": "minecraft:minecraft_bamboo_door",
       "count": 3
     }
   }

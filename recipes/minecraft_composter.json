@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:minecraft_composter"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "# #",
+      "# #",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:minecraft_oak_slab"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:minecraft_composter",
+      "count": 1
+    }
+  }
+}

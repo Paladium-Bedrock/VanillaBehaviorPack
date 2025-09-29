@@ -8,29 +8,30 @@
       "crafting_table"
     ],
     "pattern": [
-      "III",
-      "IFI",
-      "###"
+      "###",
+      "#*#",
+      "+++"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:smooth_stone"
+          "item": "minecraft:minecraft_iron_ingot"
         }
       ],
-      "I": [
+      "*": [
         {
-          "item": "minecraft:iron_ingot"
+          "item": "minecraft:minecraft_furnace"
         }
       ],
-      "F": [
+      "+": [
         {
-          "item": "minecraft:furnace"
+          "item": "minecraft:minecraft_smooth_stone"
         }
       ]
     },
     "result": {
-      "item": "minecraft:blast_furnace"
+      "item": "minecraft:minecraft_blast_furnace",
+      "count": 1
     }
   }
 }

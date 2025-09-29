@@ -8,18 +8,16 @@
       "crafting_table"
     ],
     "pattern": [
-      "#"
+      " A "
     ],
     "key": {
-      "#": [
-        {
-          "item": "minecraft:coal_block"
-        }
-      ]
+      "A": {
+        "item": "minecraft:coal_block"
+      }
     },
     "result": {
       "item": "minecraft:coal",
-      "count": 9
+      "count": 1
     }
   }
 }

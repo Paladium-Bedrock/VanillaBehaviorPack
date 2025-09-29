@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:minecraft_cobblestone_stairs"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:minecraft_cobblestone"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:minecraft_cobblestone_stairs",
+      "count": 4
+    }
+  }
+}

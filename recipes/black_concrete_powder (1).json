@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:black_concrete_powder"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#**",
+      "**+",
+      "+++"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:minecraft_black_dye"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:minecraft_sand"
+        }
+      ],
+      "+": [
+        {
+          "item": "minecraft:minecraft_gravel"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:minecraft_black_concrete_powder",
+      "count": 8
+    }
+  }
+}

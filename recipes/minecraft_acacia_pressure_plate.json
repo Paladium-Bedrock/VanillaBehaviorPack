@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:minecraft_acacia_pressure_plate"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "##"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:minecraft_acacia_planks"
+      }
+    },
+    "result": {
+      "item": "minecraft:minecraft_acacia_pressure_plate",
+      "count": 1
+    }
+  }
+}

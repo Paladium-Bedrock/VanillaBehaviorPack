@@ -9,23 +9,20 @@
     ],
     "pattern": [
       "###",
-      " A ",
-      " A "
+      " * ",
+      " * "
     ],
     "key": {
-      "#": [
-        {
-          "item": "minecraft:iron_ingot"
-        }
-      ],
-      "A": [
-        {
-          "item": "minecraft:stick"
-        }
-      ]
+      "#": {
+        "item": "minecraft:iron_ingot"
+      },
+      "*": {
+        "item": "minecraft:stick"
+      }
     },
     "result": {
-      "item": "minecraft:iron_pickaxe"
+      "item": "minecraft:iron_pickaxe",
+      "count": 1
     }
   }
 }

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:recovery_compass"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "#*#",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:echo_shard"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:compass"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:recovery_compass",
+      "count": 1
+    }
+  }
+}

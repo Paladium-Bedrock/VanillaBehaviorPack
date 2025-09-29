@@ -7,7 +7,6 @@
     "tags": [
       "crafting_table"
     ],
-    "assume_symmetry": false,
     "pattern": [
       "##",
       "##"
@@ -20,7 +19,8 @@
       ]
     },
     "result": {
-      "item": "minecraft:quartz_block"
+      "item": "minecraft:quartz_block",
+      "count": 1
     }
   }
 }

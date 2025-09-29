@@ -7,26 +7,77 @@
     "tags": [
       "crafting_table"
     ],
-    "assume_symmetry": false,
     "pattern": [
-      "#A#",
+      "#*#",
       "# #",
-      "#A#"
+      "#*#"
     ],
     "key": {
       "#": [
         {
-          "tag": "minecraft:planks"
+          "item": "minecraft:acacia_planks"
+        },
+        {
+          "item": "minecraft:birch_planks"
+        },
+        {
+          "item": "minecraft:cherry_planks"
+        },
+        {
+          "item": "minecraft:dark_oak_planks"
+        },
+        {
+          "item": "minecraft:jungle_planks"
+        },
+        {
+          "item": "minecraft:mangrove_planks"
+        },
+        {
+          "item": "minecraft:oak_planks"
+        },
+        {
+          "item": "minecraft:spruce_planks"
         }
       ],
-      "A": [
+      "*": [
         {
-          "item": "minecraft:stick"
+          "item": "minecraft:acacia_slab"
+        },
+        {
+          "item": "minecraft:bamboo_slab"
+        },
+        {
+          "item": "minecraft:birch_slab"
+        },
+        {
+          "item": "minecraft:cherry_slab"
+        },
+        {
+          "item": "minecraft:crimson_slab"
+        },
+        {
+          "item": "minecraft:dark_oak_slab"
+        },
+        {
+          "item": "minecraft:jungle_slab"
+        },
+        {
+          "item": "minecraft:mangrove_slab"
+        },
+        {
+          "item": "minecraft:oak_slab"
+        },
+        {
+          "item": "minecraft:spruce_slab"
+        },
+        {
+          "item": "minecraft:warped_slab"
         }
       ]
     },
     "result": {
-      "item": "minecraft:barrel"
+      "item": "minecraft:barrel",
+      "count": 1
     }
   }
 }

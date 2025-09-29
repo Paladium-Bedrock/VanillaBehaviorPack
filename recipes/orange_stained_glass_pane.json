@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:orange_stained_glass_pane"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:orange_stained_glass"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:orange_stained_glass_pane",
+      "count": 1
+    }
+  }
+}

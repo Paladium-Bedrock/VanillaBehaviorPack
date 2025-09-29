@@ -1,24 +1,20 @@
 {
   "format_version": "1.0.0",
-  "minecraft:recipe_shaped": {
+  "minecraft:recipe_shapeless": {
     "description": {
       "identifier": "minecraft:bamboo_button"
     },
     "tags": [
       "crafting_table"
     ],
-    "pattern": [
-      "#"
+    "ingredients": [
+      {
+        "item": "minecraft:minecraft_bamboo_planks"
+      }
     ],
-    "key": {
-      "#": [
-        {
-          "item": "minecraft:bamboo_planks"
-        }
-      ]
-    },
     "result": {
-      "item": "minecraft:bamboo_button"
+      "item": "minecraft:minecraft_bamboo_button",
+      "count": 1
     }
   }
 }

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:minecraft_armor_stand"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      " # ",
+      "#*#"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:minecraft_stick"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:minecraft_polished_andesite_slab"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:minecraft_armor_stand",
+      "count": 1
+    }
+  }
+}

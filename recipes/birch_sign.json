@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:birch_sign"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "###",
+      " * "
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:minecraft_birch_planks"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:minecraft_stick"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:minecraft_birch_sign",
+      "count": 3
+    }
+  }
+}

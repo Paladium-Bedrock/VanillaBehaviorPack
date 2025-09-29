@@ -7,7 +7,6 @@
     "tags": [
       "crafting_table"
     ],
-    "assume_symmetry": false,
     "pattern": [
       "###",
       "###",
@@ -21,7 +20,8 @@
       ]
     },
     "result": {
-      "item": "minecraft:redstone_block"
+      "item": "minecraft:redstone_block",
+      "count": 1
     }
   }
 }
