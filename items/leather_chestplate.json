@@ -14,8 +14,7 @@
       },
       "minecraft:wearable": {
         "slot": "slot.armor.chest",
-        "protection": 3,
-        "equip_sound": "armor.equip_leather"
+        "protection": 3
       },
       "minecraft:repairable":{
         "repair_items": [
