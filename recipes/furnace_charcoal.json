@@ -7,12 +7,8 @@
     "tags": [
       "furnace"
     ],
-    "experience": 0.15,
-    "input": {
-      "item": "minecraft:acacia_log"
-    },
-    "output": {
-      "item": "minecraft:charcoal"
-    }
+    "input": "minecraft:oak_log",
+    "output": "minecraft:charcoal",
+    "experience": 0.15
   }
 }
