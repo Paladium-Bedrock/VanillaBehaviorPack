@@ -15,7 +15,8 @@
       "minecraft:wearable": {
         "slot": "slot.armor.head",
         "protection": 3,
-        "toughness": 3
+        "toughness": 3,
+        "equip_sound": "armor.equip_netherite"
       },
       "minecraft:lava_resistant": {},
       "minecraft:repairable":{

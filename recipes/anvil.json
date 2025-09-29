@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:anvil"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      " * ",
+      "***"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:minecraft_iron_block"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:minecraft_iron_ingot"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:minecraft_anvil",
+      "count": 1
+    }
+  }
+}

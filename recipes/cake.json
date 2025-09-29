@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:cake"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "*+*",
+      "SSS"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:milk_bucket"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:sugar"
+        }
+      ],
+      "+": [
+        {
+          "item": "minecraft:egg"
+        }
+      ],
+      "S": [
+        {
+          "item": "minecraft:wheat"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:cake",
+      "count": 1
+    }
+  }
+}

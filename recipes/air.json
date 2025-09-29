@@ -1,0 +1,23 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:air"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " A "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:acacia_stairs"
+      }
+    },
+    "result": {
+      "item": "minecraft:air",
+      "count": 1
+    }
+  }
+}

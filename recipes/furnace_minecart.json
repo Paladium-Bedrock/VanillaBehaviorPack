@@ -1,0 +1,23 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:furnace_minecart"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:furnace"
+      },
+      {
+        "item": "minecraft:minecart"
+      }
+    ],
+    "result": {
+      "item": "minecraft:furnace_minecart",
+      "count": 1
+    }
+  }
+}

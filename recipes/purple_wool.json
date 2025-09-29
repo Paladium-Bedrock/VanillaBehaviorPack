@@ -1,0 +1,23 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:purple_wool"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:white_wool"
+      },
+      {
+        "item": "minecraft:purple_dye"
+      }
+    ],
+    "result": {
+      "item": "minecraft:purple_wool",
+      "count": 1
+    }
+  }
+}

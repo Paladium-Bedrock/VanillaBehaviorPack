@@ -1,0 +1,23 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:birch_chest_boat"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:minecraft_chest"
+      },
+      {
+        "item": "minecraft:minecraft_birch_boat"
+      }
+    ],
+    "result": {
+      "item": "minecraft:minecraft_birch_chest_boat",
+      "count": 1
+    }
+  }
+}

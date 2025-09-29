@@ -1,0 +1,15 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_cooked_porkchop"
+    },
+    "tags": [
+      "furnace",
+      "smoker"
+    ],
+    "input": "minecraft:porkchop",
+    "output": "minecraft:cooked_porkchop",
+    "experience": 0.15
+  }
+}

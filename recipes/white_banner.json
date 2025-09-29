@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:white_banner"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "###",
+      " * "
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:white_wool"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:stick"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:white_banner",
+      "count": 1
+    }
+  }
+}

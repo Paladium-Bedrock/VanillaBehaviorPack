@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:black_bed"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "***"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:black_wool"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:oak_planks"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:black_bed",
+      "count": 1
+    }
+  }
+}

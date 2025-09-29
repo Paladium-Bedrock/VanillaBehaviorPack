@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:lodestone"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "#*#",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:chiseled_stone_bricks"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:netherite_ingot"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:lodestone",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:campfire"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " # ",
+      "#*#",
+      "+++"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:stick"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:charcoal"
+        },
+        {
+          "item": "minecraft:coal"
+        }
+      ],
+      "+": [
+        {
+          "item": "minecraft:acacia_log"
+        },
+        {
+          "item": "minecraft:birch_log"
+        },
+        {
+          "item": "minecraft:cherry_log"
+        },
+        {
+          "item": "minecraft:crimson_stem"
+        },
+        {
+          "item": "minecraft:dark_oak_log"
+        },
+        {
+          "item": "minecraft:jungle_log"
+        },
+        {
+          "item": "minecraft:mangrove_log"
+        },
+        {
+          "item": "minecraft:oak_log"
+        },
+        {
+          "item": "minecraft:spruce_log"
+        },
+        {
+          "item": "minecraft:warped_stem"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:campfire",
+      "count": 1
+    }
+  }
+}

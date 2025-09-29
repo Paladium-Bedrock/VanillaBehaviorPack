@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:diorite"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#*",
+      "*#"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:cobblestone"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:quartz"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:diorite",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:redstone_torch"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#",
+      "*"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:redstone"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:stick"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:redstone_torch",
+      "count": 1
+    }
+  }
+}

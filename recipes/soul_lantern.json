@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:soul_lantern"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "#*#",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:iron_nugget"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:soul_torch"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:soul_lantern",
+      "count": 1
+    }
+  }
+}
