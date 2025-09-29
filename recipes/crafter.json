@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:crafter"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "*+*",
+      "S S"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:iron_ingot"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:crafting_table"
+        }
+      ],
+      "+": [
+        {
+          "item": "minecraft:dropper"
+        }
+      ],
+      "S": [
+        {
+          "item": "minecraft:redstone"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:crafter",
+      "count": 1
+    }
+  }
+}

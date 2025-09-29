@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:oxidized_copper_bulb"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " # ",
+      "#*#",
+      " + "
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:oxidized_copper"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:blaze_rod"
+        }
+      ],
+      "+": [
+        {
+          "item": "minecraft:redstone"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:oxidized_copper_bulb",
+      "count": 1
+    }
+  }
+}

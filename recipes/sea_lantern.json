@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:sea_lantern"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#*#",
+      "***",
+      "#*#"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:prismarine_shard"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:prismarine_crystals"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:sea_lantern",
+      "count": 1
+    }
+  }
+}

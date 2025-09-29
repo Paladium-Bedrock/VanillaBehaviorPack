@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:stripped_cherry_wood"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:stripped_cherry_log"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:stripped_cherry_wood",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:chiseled_bookshelf"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "***",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:acacia_planks"
+        },
+        {
+          "item": "minecraft:birch_planks"
+        },
+        {
+          "item": "minecraft:cherry_planks"
+        },
+        {
+          "item": "minecraft:crimson_planks"
+        },
+        {
+          "item": "minecraft:dark_oak_planks"
+        },
+        {
+          "item": "minecraft:jungle_planks"
+        },
+        {
+          "item": "minecraft:mangrove_planks"
+        },
+        {
+          "item": "minecraft:oak_planks"
+        },
+        {
+          "item": "minecraft:spruce_planks"
+        },
+        {
+          "item": "minecraft:warped_planks"
+        }
+      ],
+      "*": [
+        {
+          "item": "minecraft:acacia_slab"
+        },
+        {
+          "item": "minecraft:bamboo_slab"
+        },
+        {
+          "item": "minecraft:birch_slab"
+        },
+        {
+          "item": "minecraft:cherry_slab"
+        },
+        {
+          "item": "minecraft:crimson_slab"
+        },
+        {
+          "item": "minecraft:dark_oak_slab"
+        },
+        {
+          "item": "minecraft:jungle_slab"
+        },
+        {
+          "item": "minecraft:mangrove_slab"
+        },
+        {
+          "item": "minecraft:oak_slab"
+        },
+        {
+          "item": "minecraft:spruce_slab"
+        },
+        {
+          "item": "minecraft:warped_slab"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:chiseled_bookshelf",
+      "count": 1
+    }
+  }
+}

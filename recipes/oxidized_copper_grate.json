@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:oxidized_copper_grate"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "# #",
+      " # ",
+      "# #"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:oxidized_copper"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:oxidized_copper_grate",
+      "count": 1
+    }
+  }
+}

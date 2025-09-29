@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:tuff_stairs"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:tuff"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:tuff_stairs",
+      "count": 1
+    }
+  }
+}

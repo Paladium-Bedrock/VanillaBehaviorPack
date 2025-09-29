@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_coal"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "experience": 0.15,
+    "input": {
+      "item": "minecraft:acacia_log"
+    },
+    "output": {
+      "item": "minecraft:coal"
+    }
+  }
+}
