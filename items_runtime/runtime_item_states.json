@@ -1384,7 +1384,7 @@
         "component_based": false
       },
       {
-        "id": "minecraft:chain",
+        "id": "minecraft:iron_chain",
         "runtime_id": 656,
         "version": 2,
         "component_based": true
