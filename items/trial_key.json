@@ -3,7 +3,16 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:trial_key",
+      "creative_category": "items",
       "custom": false
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "trial_key"
+      },
+      "minecraft:display_name": {
+        "value": "item.trial_key.name"
+      }
     }
   }
 }
