@@ -2,11 +2,11 @@
   "format_version": "1.0.0",
   "header": {
     "name": "behaviorPack.vanilla_server.name",
-    "version": "1.21.100",
+    "version": "1.21.110",
     "description": "behaviorPack.vanilla_server.description"
   },
   "metadata": {
-    "authors": ["Paladium-Bedrock"],
+    "authors": ["Recube"],
     "license": "All rights reserved",
     "url": "https://github.com/Paladium-Bedrock/VanillaBehaviorPack"
   }
