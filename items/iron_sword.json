@@ -18,7 +18,7 @@
       "minecraft:hand_equipped": {
         "enabled": true
       },
-      "minecraft:repairable":{
+      "minecraft:repairable": {
         "repair_items": [
           {
             "items": [
