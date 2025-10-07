@@ -1,0 +1,21 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:generation_rule": {
+    "description": {
+      "identifier": "minecraft:underground_andesite_generation"
+    },
+    "condition": "q.has_tag('overworld')",
+    "populators": [
+      {
+        "identifier": "minecraft:ore",
+        "options": {
+          "block": "minecraft:andesite",
+          "cluster_count": 10,
+          "cluster_size": 33,
+          "min_height": 0,
+          "max_height": 80
+        }
+      }
+    ]
+  }
+}
