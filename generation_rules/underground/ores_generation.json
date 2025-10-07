@@ -2,7 +2,7 @@
   "format_version": "1.0.0",
   "minecraft:generation_rule": {
     "description": {
-      "identifier": "minecraft:ores_generation"
+      "identifier": "minecraft:underground_ores_generation"
     },
     "condition": "q.has_tag('overworld')",
     "populators": [
