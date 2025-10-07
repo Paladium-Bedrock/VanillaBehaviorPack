@@ -1,0 +1,21 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:generation_rule": {
+    "description": {
+      "identifier": "minecraft:emerald_ore_generation"
+    },
+    "condition": "q.has_tag('extreme_hills')",
+    "populators": [
+      {
+        "identifier": "minecraft:ore",
+        "options": {
+          "block": "minecraft:emerald_ore",
+          "cluster_count": 11,
+          "cluster_size": 1,
+          "min_height": 0,
+          "max_height": 32
+        }
+      }
+    ]
+  }
+}
