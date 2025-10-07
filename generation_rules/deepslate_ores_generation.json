@@ -1,0 +1,88 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:generation_rule": {
+    "description": {
+      "identifier": "minecraft:ores_generation"
+    },
+    "condition": "q.has_tag('overworld')",
+    "populators": [
+      {
+        "identifier": "minecraft:ore",
+        "options": {
+          "block": "minecraft:deepslate_coal_ore",
+          "replaceable_block": "minecraft:deepslate",
+          "cluster_count": 1,
+          "cluster_size": 13,
+          "min_height": -4,
+          "max_height": 8
+        }
+      },
+      {
+        "identifier": "minecraft:ore",
+        "options": {
+          "block": "minecraft:deepslate_copper_ore",
+          "replaceable_block": "minecraft:deepslate",
+          "cluster_count": 5,
+          "cluster_size": 9,
+          "min_height": -64,
+          "max_height": 8
+        }
+      },
+      {
+        "identifier": "minecraft:ore",
+        "options": {
+          "block": "minecraft:deepslate_iron_ore",
+          "replaceable_block": "minecraft:deepslate",
+          "cluster_count": 20,
+          "cluster_size": 9,
+          "min_height": -64,
+          "max_height": 8
+        }
+      },
+      {
+        "identifier": "minecraft:ore",
+        "options": {
+          "block": "minecraft:deepslate_redstone_ore",
+          "replaceable_block": "minecraft:deepslate",
+          "cluster_count": 8,
+          "cluster_size": 8,
+          "min_height": -64,
+          "max_height": 8
+        }
+      },
+      {
+        "identifier": "minecraft:ore",
+        "options": {
+          "block": "minecraft:deepslate_lapis_ore",
+          "replaceable_block": "minecraft:deepslate",
+          "cluster_count": 6,
+          "cluster_size": 6,
+          "min_height": -64,
+          "max_height": 8
+        }
+      },
+      {
+        "identifier": "minecraft:ore",
+        "options": {
+          "block": "minecraft:deepslate_gold_ore",
+          "replaceable_block": "minecraft:deepslate",
+          "cluster_count": 2,
+          "cluster_size": 9,
+          "min_height": -64,
+          "max_height": 8
+        }
+      },
+      {
+        "identifier": "minecraft:ore",
+        "options": {
+          "block": "minecraft:deepslate_diamond_ore",
+          "replaceable_block": "minecraft:deepslate",
+          "cluster_count": 4,
+          "cluster_size": 5,
+          "min_height": -64,
+          "max_height": 8
+        }
+      }
+    ]
+  }
+}
