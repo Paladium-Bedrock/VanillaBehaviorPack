@@ -4,6 +4,14 @@
     "description": {
       "identifier": "minecraft:breeze_rod",
       "custom": false
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "breeze_rod"
+      },
+      "minecraft:display_name": {
+        "value": "item.breeze_rod.name"
+      }
     }
   }
 }
