@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:packed_mud",
+      "creative_category": "nature",
+      "custom": false
+    }
+  }
+}
