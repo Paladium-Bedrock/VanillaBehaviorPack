@@ -13,7 +13,7 @@
         "max_durability": 2032
       },
       "minecraft:hoe": {
-        "tier": 6
+        "tier": 7
       },
       "minecraft:damage": {
         "damage": 6
@@ -22,7 +22,7 @@
         "enabled": true
       },
       "minecraft:lava_resistant": {},
-      "minecraft:repairable":{
+      "minecraft:repairable": {
         "repair_items": [
           {
             "items": [

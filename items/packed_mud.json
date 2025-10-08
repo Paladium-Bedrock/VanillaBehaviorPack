@@ -5,6 +5,11 @@
       "identifier": "minecraft:packed_mud",
       "creative_category": "nature",
       "custom": false
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:packed_mud"
+      }
     }
   }
 }

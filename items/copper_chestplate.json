@@ -1,38 +1,41 @@
-﻿{
+{
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:diamond_pickaxe",
+      "identifier": "minecraft:copper_chestplate",
       "custom": false
     },
     "components": {
+      "minecraft:max_stack_size": {
+        "value": 1
+      },
       "minecraft:durability": {
-        "max_durability": 1562
+        "max_durability": 177
       },
-      "minecraft:pickaxe": {
-        "tier": 6,
-        "multiplier": 8.0
+      "minecraft:wearable": {
+        "slot": "slot.armor.chest",
+        "protection": 6,
+        "equip_sound": "armor.equip_iron"
       },
-      "minecraft:repairable": {
+      "minecraft:repairable":{
         "repair_items": [
           {
             "items": [
-              "minecraft:diamond"
+              "minecraft:copper_ingot"
             ],
             "repair_amount": "math.min(q.remaining_durability + c.other->q.remaining_durability + math.floor(q.max_durability / 20), c.other->q.max_durability)"
           }
         ]
       },
       "minecraft:enchantable": {
-        "slot": "pickaxe",
-        "value": 10
+        "slot": "armor_torso",
+        "value": 9
       },
       "minecraft:tags": {
         "tags": [
-          "minecraft:diamond_tier",
-          "minecraft:digger",
-          "minecraft:is_pickaxe",
-          "minecraft:is_tool"
+          "minecraft:copper_tier",
+          "minecraft:is_armor",
+          "minecraft:trimmable_armors"
         ]
       }
     }

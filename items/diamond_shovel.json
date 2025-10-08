@@ -10,10 +10,10 @@
         "max_durability": 1562
       },
       "minecraft:shovel": {
-        "tier": 5,
+        "tier": 6,
         "multiplier": 8.0
       },
-      "minecraft:repairable":{
+      "minecraft:repairable": {
         "repair_items": [
           {
             "items": [

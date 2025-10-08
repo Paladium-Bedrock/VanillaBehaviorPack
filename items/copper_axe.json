@@ -1,37 +1,46 @@
-﻿{
+{
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:diamond_pickaxe",
+      "identifier": "minecraft:copper_axe",
       "custom": false
     },
     "components": {
-      "minecraft:durability": {
-        "max_durability": 1562
+      "minecraft:max_stack_size": {
+        "value": 1
       },
-      "minecraft:pickaxe": {
-        "tier": 6,
-        "multiplier": 8.0
+      "minecraft:durability": {
+        "max_durability": 192
+      },
+      "minecraft:axe": {
+        "tier": 4,
+        "multiplier": 6.0
+      },
+      "minecraft:damage": {
+        "damage": 5
+      },
+      "minecraft:hand_equipped": {
+        "enabled": true
       },
       "minecraft:repairable": {
         "repair_items": [
           {
             "items": [
-              "minecraft:diamond"
+              "minecraft:copper_ingot"
             ],
             "repair_amount": "math.min(q.remaining_durability + c.other->q.remaining_durability + math.floor(q.max_durability / 20), c.other->q.max_durability)"
           }
         ]
       },
       "minecraft:enchantable": {
-        "slot": "pickaxe",
-        "value": 10
+        "slot": "axe",
+        "value": 14
       },
       "minecraft:tags": {
         "tags": [
-          "minecraft:diamond_tier",
+          "minecraft:copper_tier",
           "minecraft:digger",
-          "minecraft:is_pickaxe",
+          "minecraft:is_axe",
           "minecraft:is_tool"
         ]
       }

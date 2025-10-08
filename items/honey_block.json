@@ -5,6 +5,11 @@
       "identifier": "minecraft:honey_block",
       "creative_category": "nature",
       "custom": false
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:honey_block"
+      }
     }
   }
 }
