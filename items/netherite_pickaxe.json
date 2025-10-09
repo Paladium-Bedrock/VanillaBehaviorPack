@@ -13,7 +13,7 @@
         "max_durability": 2032
       },
       "minecraft:pickaxe": {
-        "tier": 6,
+        "tier": 7,
         "multiplier": 9.0
       },
       "minecraft:damage": {
@@ -23,7 +23,7 @@
         "enabled": true
       },
       "minecraft:lava_resistant": {},
-      "minecraft:repairable":{
+      "minecraft:repairable": {
         "repair_items": [
           {
             "items": [

@@ -13,9 +13,9 @@
         "max_durability": 1562
       },
       "minecraft:hoe": {
-        "tier": 5
+        "tier": 6
       },
-      "minecraft:repairable":{
+      "minecraft:repairable": {
         "repair_items": [
           {
             "items": [
