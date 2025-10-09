@@ -1,0 +1,3 @@
+loop(math.random(5, 15), {
+   c.projectile.get_level().send_particle('SnowballPoof', c.projectile.position.x, c.projectile.position.y, c.projectile.position.z);
+});
