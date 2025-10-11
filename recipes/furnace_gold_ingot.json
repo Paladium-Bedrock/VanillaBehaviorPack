@@ -1,0 +1,19 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_gold_ingot"
+    },
+    "tags": [
+      "furnace",
+      "blast_furnace"
+    ],
+    "experience": 0.15,
+    "input": {
+      "item": "minecraft:raw_gold"
+    },
+    "output": {
+      "item": "minecraft:gold_ingot"
+    }
+  }
+}
