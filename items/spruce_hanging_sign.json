@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:spruce_hanging_sign",
+      "creative_category": "construction",
+      "custom": false
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:spruce_hanging_sign"
+      },
+      "minecraft:fuel": {
+        "duration": 300
+      }
+    }
+  }
+}
