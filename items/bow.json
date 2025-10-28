@@ -6,9 +6,19 @@
       "custom": false
     },
     "components": {
+      "minecraft:max_stack_size": {
+        "value": 1
+      },
       "minecraft:fuel": {
         "duration": 200
-      }
+      },
+      "minecraft:durability": {
+        "max_durability": 385
+      },
+      "minecraft:use_duration": {
+        "value": 72000
+      },
+      "minecraft:bow": {}
     }
   }
 }
