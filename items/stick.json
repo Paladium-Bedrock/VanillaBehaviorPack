@@ -5,8 +5,10 @@
       "identifier": "minecraft:stick",
       "custom": false
     },
-    "minecraft:fuel": {
-      "duration": 100
+    "components": {
+      "minecraft:fuel": {
+        "duration": 100
+      }
     }
   }
 }
