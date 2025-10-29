@@ -5,7 +5,7 @@
     "items": [
       {
         "id": "minecraft:acacia_boat",
-        "runtime_id": 405,
+        "runtime_id": 404,
         "version": 2,
         "componentBased": false
       },
@@ -17,13 +17,13 @@
       },
       {
         "id": "minecraft:acacia_chest_boat",
-        "runtime_id": 678,
+        "runtime_id": 677,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:acacia_door",
-        "runtime_id": 589,
+        "runtime_id": 588,
         "version": 2,
         "componentBased": false
       },
@@ -89,7 +89,7 @@
       },
       {
         "id": "minecraft:acacia_sign",
-        "runtime_id": 612,
+        "runtime_id": 611,
         "version": 2,
         "componentBased": false
       },
@@ -137,7 +137,7 @@
       },
       {
         "id": "minecraft:agent_spawn_egg",
-        "runtime_id": 515,
+        "runtime_id": 514,
         "version": 2,
         "componentBased": false
       },
@@ -149,7 +149,7 @@
       },
       {
         "id": "minecraft:allay_spawn_egg",
-        "runtime_id": 667,
+        "runtime_id": 666,
         "version": 2,
         "componentBased": false
       },
@@ -179,7 +179,7 @@
       },
       {
         "id": "minecraft:amethyst_shard",
-        "runtime_id": 660,
+        "runtime_id": 659,
         "version": 2,
         "componentBased": false
       },
@@ -221,7 +221,7 @@
       },
       {
         "id": "minecraft:angler_pottery_sherd",
-        "runtime_id": 692,
+        "runtime_id": 691,
         "version": 2,
         "componentBased": false
       },
@@ -239,31 +239,31 @@
       },
       {
         "id": "minecraft:archer_pottery_sherd",
-        "runtime_id": 693,
+        "runtime_id": 692,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:armadillo_scute",
-        "runtime_id": 739,
-        "version": 2,
-        "componentBased": false
-      },
-      {
-        "id": "minecraft:armadillo_spawn_egg",
         "runtime_id": 738,
         "version": 2,
         "componentBased": false
       },
       {
+        "id": "minecraft:armadillo_spawn_egg",
+        "runtime_id": 737,
+        "version": 2,
+        "componentBased": false
+      },
+      {
         "id": "minecraft:armor_stand",
-        "runtime_id": 585,
+        "runtime_id": 584,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:arms_up_pottery_sherd",
-        "runtime_id": 694,
+        "runtime_id": 693,
         "version": 2,
         "componentBased": false
       },
@@ -281,7 +281,7 @@
       },
       {
         "id": "minecraft:axolotl_spawn_egg",
-        "runtime_id": 530,
+        "runtime_id": 529,
         "version": 2,
         "componentBased": false
       },
@@ -317,7 +317,7 @@
       },
       {
         "id": "minecraft:balloon",
-        "runtime_id": 635,
+        "runtime_id": 634,
         "version": 2,
         "componentBased": false
       },
@@ -341,7 +341,7 @@
       },
       {
         "id": "minecraft:bamboo_chest_raft",
-        "runtime_id": 690,
+        "runtime_id": 689,
         "version": 2,
         "componentBased": false
       },
@@ -413,7 +413,7 @@
       },
       {
         "id": "minecraft:bamboo_raft",
-        "runtime_id": 689,
+        "runtime_id": 688,
         "version": 2,
         "componentBased": false
       },
@@ -431,7 +431,7 @@
       },
       {
         "id": "minecraft:bamboo_sign",
-        "runtime_id": 688,
+        "runtime_id": 687,
         "version": 2,
         "componentBased": false
       },
@@ -467,13 +467,13 @@
       },
       {
         "id": "minecraft:banner",
-        "runtime_id": 600,
+        "runtime_id": 599,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:banner_pattern",
-        "runtime_id": 825,
+        "runtime_id": 822,
         "version": 2,
         "componentBased": false
       },
@@ -497,7 +497,7 @@
       },
       {
         "id": "minecraft:bat_spawn_egg",
-        "runtime_id": 480,
+        "runtime_id": 479,
         "version": 2,
         "componentBased": false
       },
@@ -509,7 +509,7 @@
       },
       {
         "id": "minecraft:bed",
-        "runtime_id": 444,
+        "runtime_id": 443,
         "version": 2,
         "componentBased": false
       },
@@ -527,7 +527,7 @@
       },
       {
         "id": "minecraft:bee_spawn_egg",
-        "runtime_id": 522,
+        "runtime_id": 521,
         "version": 2,
         "componentBased": false
       },
@@ -575,7 +575,7 @@
       },
       {
         "id": "minecraft:birch_boat",
-        "runtime_id": 402,
+        "runtime_id": 401,
         "version": 2,
         "componentBased": false
       },
@@ -587,13 +587,13 @@
       },
       {
         "id": "minecraft:birch_chest_boat",
-        "runtime_id": 675,
+        "runtime_id": 674,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:birch_door",
-        "runtime_id": 587,
+        "runtime_id": 586,
         "version": 2,
         "componentBased": false
       },
@@ -659,7 +659,7 @@
       },
       {
         "id": "minecraft:birch_sign",
-        "runtime_id": 610,
+        "runtime_id": 609,
         "version": 2,
         "componentBased": false
       },
@@ -737,7 +737,7 @@
       },
       {
         "id": "minecraft:black_dye",
-        "runtime_id": 421,
+        "runtime_id": 420,
         "version": 2,
         "componentBased": false
       },
@@ -749,7 +749,7 @@
       },
       {
         "id": "minecraft:black_harness",
-        "runtime_id": 751,
+        "runtime_id": 748,
         "version": 2,
         "componentBased": false
       },
@@ -815,7 +815,7 @@
       },
       {
         "id": "minecraft:blade_pottery_sherd",
-        "runtime_id": 695,
+        "runtime_id": 694,
         "version": 2,
         "componentBased": false
       },
@@ -827,25 +827,25 @@
       },
       {
         "id": "minecraft:blaze_powder",
-        "runtime_id": 456,
+        "runtime_id": 455,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:blaze_rod",
-        "runtime_id": 449,
+        "runtime_id": 448,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:blaze_spawn_egg",
-        "runtime_id": 483,
+        "runtime_id": 482,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:bleach",
-        "runtime_id": 633,
+        "runtime_id": 632,
         "version": 2,
         "componentBased": false
       },
@@ -887,13 +887,13 @@
       },
       {
         "id": "minecraft:blue_dye",
-        "runtime_id": 425,
+        "runtime_id": 424,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:blue_egg",
-        "runtime_id": 748,
+        "runtime_id": 745,
         "version": 2,
         "componentBased": false
       },
@@ -905,7 +905,7 @@
       },
       {
         "id": "minecraft:blue_harness",
-        "runtime_id": 752,
+        "runtime_id": 749,
         "version": 2,
         "componentBased": false
       },
@@ -953,31 +953,31 @@
       },
       {
         "id": "minecraft:board",
-        "runtime_id": 629,
+        "runtime_id": 628,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:boat",
-        "runtime_id": 823,
+        "runtime_id": 820,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:bogged_spawn_egg",
-        "runtime_id": 490,
+        "runtime_id": 489,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:bolt_armor_trim_smithing_template",
-        "runtime_id": 734,
+        "runtime_id": 733,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:bone",
-        "runtime_id": 441,
+        "runtime_id": 440,
         "version": 2,
         "componentBased": false
       },
@@ -989,13 +989,13 @@
       },
       {
         "id": "minecraft:bone_meal",
-        "runtime_id": 437,
+        "runtime_id": 436,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:book",
-        "runtime_id": 413,
+        "runtime_id": 412,
         "version": 2,
         "componentBased": false
       },
@@ -1013,7 +1013,7 @@
       },
       {
         "id": "minecraft:bordure_indented_banner_pattern",
-        "runtime_id": 619,
+        "runtime_id": 618,
         "version": 2,
         "componentBased": false
       },
@@ -1067,25 +1067,25 @@
       },
       {
         "id": "minecraft:breeze_spawn_egg",
-        "runtime_id": 529,
+        "runtime_id": 528,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:brewer_pottery_sherd",
-        "runtime_id": 696,
+        "runtime_id": 695,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:brewing_stand",
-        "runtime_id": 458,
+        "runtime_id": 457,
         "version": 2,
         "componentBased": true
       },
       {
         "id": "minecraft:brick",
-        "runtime_id": 409,
+        "runtime_id": 408,
         "version": 2,
         "componentBased": false
       },
@@ -1157,13 +1157,13 @@
       },
       {
         "id": "minecraft:brown_dye",
-        "runtime_id": 424,
+        "runtime_id": 423,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:brown_egg",
-        "runtime_id": 749,
+        "runtime_id": 746,
         "version": 2,
         "componentBased": false
       },
@@ -1175,7 +1175,7 @@
       },
       {
         "id": "minecraft:brown_harness",
-        "runtime_id": 753,
+        "runtime_id": 750,
         "version": 2,
         "componentBased": false
       },
@@ -1223,7 +1223,7 @@
       },
       {
         "id": "minecraft:brush",
-        "runtime_id": 715,
+        "runtime_id": 714,
         "version": 2,
         "componentBased": false
       },
@@ -1277,7 +1277,7 @@
       },
       {
         "id": "minecraft:burn_pottery_sherd",
-        "runtime_id": 697,
+        "runtime_id": 696,
         "version": 2,
         "componentBased": false
       },
@@ -1301,7 +1301,7 @@
       },
       {
         "id": "minecraft:cake",
-        "runtime_id": 443,
+        "runtime_id": 442,
         "version": 2,
         "componentBased": true
       },
@@ -1319,19 +1319,19 @@
       },
       {
         "id": "minecraft:camel_spawn_egg",
-        "runtime_id": 691,
+        "runtime_id": 690,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:camera",
-        "runtime_id": 630,
+        "runtime_id": 629,
         "version": 0,
         "componentBased": false
       },
       {
         "id": "minecraft:campfire",
-        "runtime_id": 624,
+        "runtime_id": 623,
         "version": 2,
         "componentBased": true
       },
@@ -1349,7 +1349,7 @@
       },
       {
         "id": "minecraft:carpet",
-        "runtime_id": 780,
+        "runtime_id": 777,
         "version": 2,
         "componentBased": false
       },
@@ -1361,7 +1361,7 @@
       },
       {
         "id": "minecraft:carrot_on_a_stick",
-        "runtime_id": 550,
+        "runtime_id": 549,
         "version": 2,
         "componentBased": false
       },
@@ -1385,19 +1385,19 @@
       },
       {
         "id": "minecraft:cat_spawn_egg",
-        "runtime_id": 516,
+        "runtime_id": 515,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:cauldron",
-        "runtime_id": 459,
+        "runtime_id": 458,
         "version": 2,
         "componentBased": true
       },
       {
         "id": "minecraft:cave_spider_spawn_egg",
-        "runtime_id": 484,
+        "runtime_id": 483,
         "version": 2,
         "componentBased": false
       },
@@ -1469,13 +1469,13 @@
       },
       {
         "id": "minecraft:chemistry_table",
-        "runtime_id": 817,
+        "runtime_id": 814,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:cherry_boat",
-        "runtime_id": 685,
+        "runtime_id": 684,
         "version": 2,
         "componentBased": false
       },
@@ -1487,7 +1487,7 @@
       },
       {
         "id": "minecraft:cherry_chest_boat",
-        "runtime_id": 686,
+        "runtime_id": 685,
         "version": 2,
         "componentBased": false
       },
@@ -1559,7 +1559,7 @@
       },
       {
         "id": "minecraft:cherry_sign",
-        "runtime_id": 687,
+        "runtime_id": 686,
         "version": 2,
         "componentBased": false
       },
@@ -1607,13 +1607,13 @@
       },
       {
         "id": "minecraft:chest_boat",
-        "runtime_id": 681,
+        "runtime_id": 680,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:chest_minecart",
-        "runtime_id": 415,
+        "runtime_id": 414,
         "version": 2,
         "componentBased": false
       },
@@ -1625,7 +1625,7 @@
       },
       {
         "id": "minecraft:chicken_spawn_egg",
-        "runtime_id": 462,
+        "runtime_id": 461,
         "version": 2,
         "componentBased": false
       },
@@ -1715,7 +1715,7 @@
       },
       {
         "id": "minecraft:chorus_fruit",
-        "runtime_id": 591,
+        "runtime_id": 590,
         "version": 0,
         "componentBased": false
       },
@@ -1733,7 +1733,7 @@
       },
       {
         "id": "minecraft:clay_ball",
-        "runtime_id": 410,
+        "runtime_id": 409,
         "version": 2,
         "componentBased": false
       },
@@ -1745,7 +1745,7 @@
       },
       {
         "id": "minecraft:clock",
-        "runtime_id": 419,
+        "runtime_id": 418,
         "version": 2,
         "componentBased": false
       },
@@ -1781,7 +1781,7 @@
       },
       {
         "id": "minecraft:coast_armor_trim_smithing_template",
-        "runtime_id": 719,
+        "runtime_id": 718,
         "version": 2,
         "componentBased": false
       },
@@ -1847,7 +1847,7 @@
       },
       {
         "id": "minecraft:cocoa_beans",
-        "runtime_id": 438,
+        "runtime_id": 437,
         "version": 2,
         "componentBased": false
       },
@@ -1865,7 +1865,7 @@
       },
       {
         "id": "minecraft:cod_spawn_egg",
-        "runtime_id": 508,
+        "runtime_id": 507,
         "version": 2,
         "componentBased": false
       },
@@ -1877,7 +1877,7 @@
       },
       {
         "id": "minecraft:colored_torch_bp",
-        "runtime_id": 821,
+        "runtime_id": 818,
         "version": 2,
         "componentBased": false
       },
@@ -1901,7 +1901,7 @@
       },
       {
         "id": "minecraft:colored_torch_rg",
-        "runtime_id": 820,
+        "runtime_id": 817,
         "version": 2,
         "componentBased": false
       },
@@ -1913,19 +1913,19 @@
       },
       {
         "id": "minecraft:command_block_minecart",
-        "runtime_id": 596,
+        "runtime_id": 595,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:comparator",
-        "runtime_id": 555,
+        "runtime_id": 554,
         "version": 2,
         "componentBased": true
       },
       {
         "id": "minecraft:compass",
-        "runtime_id": 417,
+        "runtime_id": 416,
         "version": 2,
         "componentBased": false
       },
@@ -1937,7 +1937,7 @@
       },
       {
         "id": "minecraft:compound",
-        "runtime_id": 631,
+        "runtime_id": 630,
         "version": 2,
         "componentBased": false
       },
@@ -1949,13 +1949,13 @@
       },
       {
         "id": "minecraft:concrete",
-        "runtime_id": 806,
+        "runtime_id": 803,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:concrete_powder",
-        "runtime_id": 807,
+        "runtime_id": 804,
         "version": 2,
         "componentBased": false
       },
@@ -1985,7 +1985,7 @@
       },
       {
         "id": "minecraft:cooked_mutton",
-        "runtime_id": 584,
+        "runtime_id": 583,
         "version": 0,
         "componentBased": false
       },
@@ -2015,7 +2015,7 @@
       },
       {
         "id": "minecraft:copper_axe",
-        "runtime_id": 771,
+        "runtime_id": 768,
         "version": 2,
         "componentBased": false
       },
@@ -2033,7 +2033,7 @@
       },
       {
         "id": "minecraft:copper_boots",
-        "runtime_id": 776,
+        "runtime_id": 773,
         "version": 2,
         "componentBased": false
       },
@@ -2057,7 +2057,7 @@
       },
       {
         "id": "minecraft:copper_chestplate",
-        "runtime_id": 774,
+        "runtime_id": 771,
         "version": 2,
         "componentBased": false
       },
@@ -2069,7 +2069,7 @@
       },
       {
         "id": "minecraft:copper_golem_spawn_egg",
-        "runtime_id": 767,
+        "runtime_id": 764,
         "version": 2,
         "componentBased": false
       },
@@ -2087,25 +2087,25 @@
       },
       {
         "id": "minecraft:copper_helmet",
-        "runtime_id": 773,
+        "runtime_id": 770,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:copper_hoe",
-        "runtime_id": 772,
+        "runtime_id": 769,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:copper_horse_armor",
-        "runtime_id": 778,
+        "runtime_id": 775,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:copper_ingot",
-        "runtime_id": 538,
+        "runtime_id": 537,
         "version": 2,
         "componentBased": false
       },
@@ -2117,13 +2117,13 @@
       },
       {
         "id": "minecraft:copper_leggings",
-        "runtime_id": 775,
+        "runtime_id": 772,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:copper_nugget",
-        "runtime_id": 777,
+        "runtime_id": 774,
         "version": 2,
         "componentBased": false
       },
@@ -2135,19 +2135,19 @@
       },
       {
         "id": "minecraft:copper_pickaxe",
-        "runtime_id": 770,
+        "runtime_id": 767,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:copper_shovel",
-        "runtime_id": 769,
+        "runtime_id": 766,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:copper_sword",
-        "runtime_id": 768,
+        "runtime_id": 765,
         "version": 2,
         "componentBased": false
       },
@@ -2165,25 +2165,25 @@
       },
       {
         "id": "minecraft:coral",
-        "runtime_id": 802,
+        "runtime_id": 799,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:coral_block",
-        "runtime_id": 784,
+        "runtime_id": 781,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:coral_fan",
-        "runtime_id": 793,
+        "runtime_id": 790,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:coral_fan_dead",
-        "runtime_id": 794,
+        "runtime_id": 791,
         "version": 2,
         "componentBased": false
       },
@@ -2195,7 +2195,7 @@
       },
       {
         "id": "minecraft:cow_spawn_egg",
-        "runtime_id": 463,
+        "runtime_id": 462,
         "version": 2,
         "componentBased": false
       },
@@ -2249,13 +2249,13 @@
       },
       {
         "id": "minecraft:creaking_spawn_egg",
-        "runtime_id": 746,
+        "runtime_id": 743,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:creeper_banner_pattern",
-        "runtime_id": 615,
+        "runtime_id": 614,
         "version": 2,
         "componentBased": false
       },
@@ -2267,7 +2267,7 @@
       },
       {
         "id": "minecraft:creeper_spawn_egg",
-        "runtime_id": 468,
+        "runtime_id": 467,
         "version": 2,
         "componentBased": false
       },
@@ -2279,7 +2279,7 @@
       },
       {
         "id": "minecraft:crimson_door",
-        "runtime_id": 653,
+        "runtime_id": 652,
         "version": 2,
         "componentBased": false
       },
@@ -2351,7 +2351,7 @@
       },
       {
         "id": "minecraft:crimson_sign",
-        "runtime_id": 651,
+        "runtime_id": 650,
         "version": 2,
         "componentBased": false
       },
@@ -2393,7 +2393,7 @@
       },
       {
         "id": "minecraft:crossbow",
-        "runtime_id": 608,
+        "runtime_id": 607,
         "version": 2,
         "componentBased": false
       },
@@ -2495,7 +2495,7 @@
       },
       {
         "id": "minecraft:cyan_dye",
-        "runtime_id": 427,
+        "runtime_id": 426,
         "version": 2,
         "componentBased": false
       },
@@ -2507,7 +2507,7 @@
       },
       {
         "id": "minecraft:cyan_harness",
-        "runtime_id": 754,
+        "runtime_id": 751,
         "version": 2,
         "componentBased": false
       },
@@ -2555,13 +2555,13 @@
       },
       {
         "id": "minecraft:danger_pottery_sherd",
-        "runtime_id": 698,
+        "runtime_id": 697,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:dark_oak_boat",
-        "runtime_id": 406,
+        "runtime_id": 405,
         "version": 2,
         "componentBased": false
       },
@@ -2573,13 +2573,13 @@
       },
       {
         "id": "minecraft:dark_oak_chest_boat",
-        "runtime_id": 679,
+        "runtime_id": 678,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:dark_oak_door",
-        "runtime_id": 590,
+        "runtime_id": 589,
         "version": 2,
         "componentBased": false
       },
@@ -2645,7 +2645,7 @@
       },
       {
         "id": "minecraft:dark_oak_sign",
-        "runtime_id": 613,
+        "runtime_id": 612,
         "version": 2,
         "componentBased": false
       },
@@ -3041,7 +3041,7 @@
       },
       {
         "id": "minecraft:diamond_horse_armor",
-        "runtime_id": 566,
+        "runtime_id": 565,
         "version": 2,
         "componentBased": false
       },
@@ -3119,7 +3119,7 @@
       },
       {
         "id": "minecraft:disc_fragment_5",
-        "runtime_id": 673,
+        "runtime_id": 672,
         "version": 2,
         "componentBased": false
       },
@@ -3131,13 +3131,13 @@
       },
       {
         "id": "minecraft:dolphin_spawn_egg",
-        "runtime_id": 512,
+        "runtime_id": 511,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:donkey_spawn_egg",
-        "runtime_id": 493,
+        "runtime_id": 492,
         "version": 2,
         "componentBased": false
       },
@@ -3149,37 +3149,37 @@
       },
       {
         "id": "minecraft:double_plant",
-        "runtime_id": 800,
+        "runtime_id": 797,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:double_stone_block_slab",
-        "runtime_id": 789,
+        "runtime_id": 786,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:double_stone_block_slab2",
-        "runtime_id": 790,
+        "runtime_id": 787,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:double_stone_block_slab3",
-        "runtime_id": 791,
+        "runtime_id": 788,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:double_stone_block_slab4",
-        "runtime_id": 792,
+        "runtime_id": 789,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:dragon_breath",
-        "runtime_id": 593,
+        "runtime_id": 592,
         "version": 2,
         "componentBased": false
       },
@@ -3227,37 +3227,37 @@
       },
       {
         "id": "minecraft:drowned_spawn_egg",
-        "runtime_id": 511,
+        "runtime_id": 510,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:dune_armor_trim_smithing_template",
-        "runtime_id": 718,
+        "runtime_id": 717,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:dye",
-        "runtime_id": 824,
+        "runtime_id": 821,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:echo_shard",
-        "runtime_id": 683,
+        "runtime_id": 682,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:egg",
-        "runtime_id": 416,
+        "runtime_id": 415,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:elder_guardian_spawn_egg",
-        "runtime_id": 499,
+        "runtime_id": 498,
         "version": 2,
         "componentBased": false
       },
@@ -3983,13 +3983,13 @@
       },
       {
         "id": "minecraft:elytra",
-        "runtime_id": 597,
+        "runtime_id": 596,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:emerald",
-        "runtime_id": 546,
+        "runtime_id": 545,
         "version": 2,
         "componentBased": false
       },
@@ -4007,13 +4007,13 @@
       },
       {
         "id": "minecraft:empty_map",
-        "runtime_id": 549,
+        "runtime_id": 548,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:enchanted_book",
-        "runtime_id": 554,
+        "runtime_id": 553,
         "version": 2,
         "componentBased": false
       },
@@ -4043,7 +4043,7 @@
       },
       {
         "id": "minecraft:end_crystal",
-        "runtime_id": 827,
+        "runtime_id": 824,
         "version": 2,
         "componentBased": false
       },
@@ -4103,49 +4103,49 @@
       },
       {
         "id": "minecraft:ender_dragon_spawn_egg",
-        "runtime_id": 535,
+        "runtime_id": 534,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:ender_eye",
-        "runtime_id": 460,
+        "runtime_id": 459,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:ender_pearl",
-        "runtime_id": 448,
+        "runtime_id": 447,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:enderman_spawn_egg",
-        "runtime_id": 469,
+        "runtime_id": 468,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:endermite_spawn_egg",
-        "runtime_id": 487,
+        "runtime_id": 486,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:evoker_spawn_egg",
-        "runtime_id": 503,
+        "runtime_id": 502,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:experience_bottle",
-        "runtime_id": 542,
+        "runtime_id": 541,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:explorer_pottery_sherd",
-        "runtime_id": 699,
+        "runtime_id": 698,
         "version": 2,
         "componentBased": false
       },
@@ -4247,7 +4247,7 @@
       },
       {
         "id": "minecraft:eye_armor_trim_smithing_template",
-        "runtime_id": 722,
+        "runtime_id": 721,
         "version": 2,
         "componentBased": false
       },
@@ -4265,7 +4265,7 @@
       },
       {
         "id": "minecraft:fence",
-        "runtime_id": 782,
+        "runtime_id": 779,
         "version": 2,
         "componentBased": false
       },
@@ -4277,7 +4277,7 @@
       },
       {
         "id": "minecraft:fermented_spider_eye",
-        "runtime_id": 455,
+        "runtime_id": 454,
         "version": 2,
         "componentBased": false
       },
@@ -4289,13 +4289,13 @@
       },
       {
         "id": "minecraft:field_masoned_banner_pattern",
-        "runtime_id": 618,
+        "runtime_id": 617,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:filled_map",
-        "runtime_id": 446,
+        "runtime_id": 445,
         "version": 2,
         "componentBased": false
       },
@@ -4307,7 +4307,7 @@
       },
       {
         "id": "minecraft:fire_charge",
-        "runtime_id": 543,
+        "runtime_id": 542,
         "version": 2,
         "componentBased": false
       },
@@ -4343,19 +4343,19 @@
       },
       {
         "id": "minecraft:firework_rocket",
-        "runtime_id": 552,
+        "runtime_id": 551,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:firework_star",
-        "runtime_id": 553,
+        "runtime_id": 552,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:fishing_rod",
-        "runtime_id": 418,
+        "runtime_id": 417,
         "version": 2,
         "componentBased": true
       },
@@ -4379,31 +4379,31 @@
       },
       {
         "id": "minecraft:flow_armor_trim_smithing_template",
-        "runtime_id": 733,
+        "runtime_id": 732,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:flow_banner_pattern",
-        "runtime_id": 622,
+        "runtime_id": 621,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:flow_pottery_sherd",
-        "runtime_id": 700,
+        "runtime_id": 699,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:flower_banner_pattern",
-        "runtime_id": 614,
+        "runtime_id": 613,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:flower_pot",
-        "runtime_id": 548,
+        "runtime_id": 547,
         "version": 2,
         "componentBased": true
       },
@@ -4427,19 +4427,19 @@
       },
       {
         "id": "minecraft:fox_spawn_egg",
-        "runtime_id": 518,
+        "runtime_id": 517,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:frame",
-        "runtime_id": 547,
+        "runtime_id": 546,
         "version": 2,
         "componentBased": true
       },
       {
         "id": "minecraft:friend_pottery_sherd",
-        "runtime_id": 701,
+        "runtime_id": 700,
         "version": 2,
         "componentBased": false
       },
@@ -4451,7 +4451,7 @@
       },
       {
         "id": "minecraft:frog_spawn_egg",
-        "runtime_id": 664,
+        "runtime_id": 663,
         "version": 2,
         "componentBased": false
       },
@@ -4469,13 +4469,13 @@
       },
       {
         "id": "minecraft:ghast_spawn_egg",
-        "runtime_id": 481,
+        "runtime_id": 480,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:ghast_tear",
-        "runtime_id": 451,
+        "runtime_id": 450,
         "version": 2,
         "componentBased": false
       },
@@ -4493,7 +4493,7 @@
       },
       {
         "id": "minecraft:glass_bottle",
-        "runtime_id": 454,
+        "runtime_id": 453,
         "version": 2,
         "componentBased": false
       },
@@ -4505,31 +4505,31 @@
       },
       {
         "id": "minecraft:glistering_melon_slice",
-        "runtime_id": 461,
+        "runtime_id": 460,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:globe_banner_pattern",
-        "runtime_id": 621,
+        "runtime_id": 620,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:glow_berries",
-        "runtime_id": 828,
+        "runtime_id": 825,
         "version": 0,
         "componentBased": false
       },
       {
         "id": "minecraft:glow_frame",
-        "runtime_id": 659,
+        "runtime_id": 658,
         "version": 2,
         "componentBased": true
       },
       {
         "id": "minecraft:glow_ink_sac",
-        "runtime_id": 537,
+        "runtime_id": 536,
         "version": 2,
         "componentBased": false
       },
@@ -4541,13 +4541,13 @@
       },
       {
         "id": "minecraft:glow_squid_spawn_egg",
-        "runtime_id": 532,
+        "runtime_id": 531,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:glow_stick",
-        "runtime_id": 638,
+        "runtime_id": 637,
         "version": 2,
         "componentBased": false
       },
@@ -4565,19 +4565,19 @@
       },
       {
         "id": "minecraft:glowstone_dust",
-        "runtime_id": 420,
+        "runtime_id": 419,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:goat_horn",
-        "runtime_id": 663,
+        "runtime_id": 662,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:goat_spawn_egg",
-        "runtime_id": 531,
+        "runtime_id": 530,
         "version": 2,
         "componentBased": false
       },
@@ -4595,7 +4595,7 @@
       },
       {
         "id": "minecraft:gold_nugget",
-        "runtime_id": 452,
+        "runtime_id": 451,
         "version": 2,
         "componentBased": false
       },
@@ -4649,7 +4649,7 @@
       },
       {
         "id": "minecraft:golden_horse_armor",
-        "runtime_id": 565,
+        "runtime_id": 564,
         "version": 2,
         "componentBased": false
       },
@@ -4769,7 +4769,7 @@
       },
       {
         "id": "minecraft:gray_dye",
-        "runtime_id": 429,
+        "runtime_id": 428,
         "version": 2,
         "componentBased": false
       },
@@ -4781,7 +4781,7 @@
       },
       {
         "id": "minecraft:gray_harness",
-        "runtime_id": 755,
+        "runtime_id": 752,
         "version": 2,
         "componentBased": false
       },
@@ -4853,7 +4853,7 @@
       },
       {
         "id": "minecraft:green_dye",
-        "runtime_id": 423,
+        "runtime_id": 422,
         "version": 2,
         "componentBased": false
       },
@@ -4865,7 +4865,7 @@
       },
       {
         "id": "minecraft:green_harness",
-        "runtime_id": 756,
+        "runtime_id": 753,
         "version": 2,
         "componentBased": false
       },
@@ -4907,7 +4907,7 @@
       },
       {
         "id": "minecraft:guardian_spawn_egg",
-        "runtime_id": 488,
+        "runtime_id": 487,
         "version": 2,
         "componentBased": false
       },
@@ -4919,13 +4919,13 @@
       },
       {
         "id": "minecraft:guster_banner_pattern",
-        "runtime_id": 623,
+        "runtime_id": 622,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:guster_pottery_sherd",
-        "runtime_id": 702,
+        "runtime_id": 701,
         "version": 2,
         "componentBased": false
       },
@@ -4937,7 +4937,7 @@
       },
       {
         "id": "minecraft:happy_ghast_spawn_egg",
-        "runtime_id": 750,
+        "runtime_id": 747,
         "version": 2,
         "componentBased": false
       },
@@ -5123,13 +5123,13 @@
       },
       {
         "id": "minecraft:hard_stained_glass",
-        "runtime_id": 818,
+        "runtime_id": 815,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:hard_stained_glass_pane",
-        "runtime_id": 819,
+        "runtime_id": 816,
         "version": 2,
         "componentBased": false
       },
@@ -5171,19 +5171,19 @@
       },
       {
         "id": "minecraft:heart_of_the_sea",
-        "runtime_id": 604,
+        "runtime_id": 603,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:heart_pottery_sherd",
-        "runtime_id": 703,
+        "runtime_id": 702,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:heartbreak_pottery_sherd",
-        "runtime_id": 704,
+        "runtime_id": 703,
         "version": 2,
         "componentBased": false
       },
@@ -5201,7 +5201,7 @@
       },
       {
         "id": "minecraft:hoglin_spawn_egg",
-        "runtime_id": 524,
+        "runtime_id": 523,
         "version": 2,
         "componentBased": false
       },
@@ -5213,13 +5213,13 @@
       },
       {
         "id": "minecraft:honey_bottle",
-        "runtime_id": 627,
+        "runtime_id": 626,
         "version": 0,
         "componentBased": false
       },
       {
         "id": "minecraft:honeycomb",
-        "runtime_id": 626,
+        "runtime_id": 625,
         "version": 0,
         "componentBased": false
       },
@@ -5231,13 +5231,13 @@
       },
       {
         "id": "minecraft:hopper",
-        "runtime_id": 560,
+        "runtime_id": 559,
         "version": 2,
         "componentBased": true
       },
       {
         "id": "minecraft:hopper_minecart",
-        "runtime_id": 559,
+        "runtime_id": 558,
         "version": 2,
         "componentBased": false
       },
@@ -5267,25 +5267,25 @@
       },
       {
         "id": "minecraft:horse_spawn_egg",
-        "runtime_id": 485,
+        "runtime_id": 484,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:host_armor_trim_smithing_template",
-        "runtime_id": 732,
+        "runtime_id": 731,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:howl_pottery_sherd",
-        "runtime_id": 705,
+        "runtime_id": 704,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:husk_spawn_egg",
-        "runtime_id": 491,
+        "runtime_id": 490,
         "version": 2,
         "componentBased": false
       },
@@ -5297,7 +5297,7 @@
       },
       {
         "id": "minecraft:ice_bomb",
-        "runtime_id": 632,
+        "runtime_id": 631,
         "version": 2,
         "componentBased": false
       },
@@ -5357,7 +5357,7 @@
       },
       {
         "id": "minecraft:ink_sac",
-        "runtime_id": 439,
+        "runtime_id": 438,
         "version": 2,
         "componentBased": false
       },
@@ -5411,7 +5411,7 @@
       },
       {
         "id": "minecraft:iron_golem_spawn_egg",
-        "runtime_id": 533,
+        "runtime_id": 532,
         "version": 2,
         "componentBased": false
       },
@@ -5429,7 +5429,7 @@
       },
       {
         "id": "minecraft:iron_horse_armor",
-        "runtime_id": 564,
+        "runtime_id": 563,
         "version": 2,
         "componentBased": false
       },
@@ -5447,7 +5447,7 @@
       },
       {
         "id": "minecraft:iron_nugget",
-        "runtime_id": 602,
+        "runtime_id": 601,
         "version": 2,
         "componentBased": false
       },
@@ -5657,7 +5657,7 @@
       },
       {
         "id": "minecraft:jungle_boat",
-        "runtime_id": 403,
+        "runtime_id": 402,
         "version": 2,
         "componentBased": false
       },
@@ -5669,13 +5669,13 @@
       },
       {
         "id": "minecraft:jungle_chest_boat",
-        "runtime_id": 676,
+        "runtime_id": 675,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:jungle_door",
-        "runtime_id": 588,
+        "runtime_id": 587,
         "version": 2,
         "componentBased": false
       },
@@ -5741,7 +5741,7 @@
       },
       {
         "id": "minecraft:jungle_sign",
-        "runtime_id": 611,
+        "runtime_id": 610,
         "version": 2,
         "componentBased": false
       },
@@ -5783,7 +5783,7 @@
       },
       {
         "id": "minecraft:kelp",
-        "runtime_id": 408,
+        "runtime_id": 407,
         "version": 2,
         "componentBased": true
       },
@@ -5813,7 +5813,7 @@
       },
       {
         "id": "minecraft:lapis_lazuli",
-        "runtime_id": 440,
+        "runtime_id": 439,
         "version": 2,
         "componentBased": false
       },
@@ -5849,7 +5849,7 @@
       },
       {
         "id": "minecraft:lead",
-        "runtime_id": 580,
+        "runtime_id": 579,
         "version": 2,
         "componentBased": false
       },
@@ -5861,7 +5861,7 @@
       },
       {
         "id": "minecraft:leather",
-        "runtime_id": 407,
+        "runtime_id": 406,
         "version": 2,
         "componentBased": false
       },
@@ -5885,7 +5885,7 @@
       },
       {
         "id": "minecraft:leather_horse_armor",
-        "runtime_id": 563,
+        "runtime_id": 562,
         "version": 2,
         "componentBased": false
       },
@@ -5897,13 +5897,13 @@
       },
       {
         "id": "minecraft:leaves",
-        "runtime_id": 796,
+        "runtime_id": 793,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:leaves2",
-        "runtime_id": 797,
+        "runtime_id": 794,
         "version": 2,
         "componentBased": false
       },
@@ -5921,7 +5921,7 @@
       },
       {
         "id": "minecraft:light_block",
-        "runtime_id": 822,
+        "runtime_id": 819,
         "version": 2,
         "componentBased": false
       },
@@ -6059,7 +6059,7 @@
       },
       {
         "id": "minecraft:light_blue_dye",
-        "runtime_id": 433,
+        "runtime_id": 432,
         "version": 2,
         "componentBased": false
       },
@@ -6071,7 +6071,7 @@
       },
       {
         "id": "minecraft:light_blue_harness",
-        "runtime_id": 757,
+        "runtime_id": 754,
         "version": 2,
         "componentBased": false
       },
@@ -6143,13 +6143,13 @@
       },
       {
         "id": "minecraft:light_gray_dye",
-        "runtime_id": 428,
+        "runtime_id": 427,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:light_gray_harness",
-        "runtime_id": 758,
+        "runtime_id": 755,
         "version": 2,
         "componentBased": false
       },
@@ -6245,7 +6245,7 @@
       },
       {
         "id": "minecraft:lime_dye",
-        "runtime_id": 431,
+        "runtime_id": 430,
         "version": 2,
         "componentBased": false
       },
@@ -6257,7 +6257,7 @@
       },
       {
         "id": "minecraft:lime_harness",
-        "runtime_id": 759,
+        "runtime_id": 756,
         "version": 2,
         "componentBased": false
       },
@@ -6293,7 +6293,7 @@
       },
       {
         "id": "minecraft:lingering_potion",
-        "runtime_id": 595,
+        "runtime_id": 594,
         "version": 2,
         "componentBased": false
       },
@@ -6341,7 +6341,7 @@
       },
       {
         "id": "minecraft:llama_spawn_egg",
-        "runtime_id": 501,
+        "runtime_id": 500,
         "version": 2,
         "componentBased": false
       },
@@ -6353,19 +6353,19 @@
       },
       {
         "id": "minecraft:lodestone_compass",
-        "runtime_id": 639,
+        "runtime_id": 638,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:log",
-        "runtime_id": 781,
+        "runtime_id": 778,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:log2",
-        "runtime_id": 804,
+        "runtime_id": 801,
         "version": 2,
         "componentBased": false
       },
@@ -6419,7 +6419,7 @@
       },
       {
         "id": "minecraft:magenta_dye",
-        "runtime_id": 434,
+        "runtime_id": 433,
         "version": 2,
         "componentBased": false
       },
@@ -6431,7 +6431,7 @@
       },
       {
         "id": "minecraft:magenta_harness",
-        "runtime_id": 760,
+        "runtime_id": 757,
         "version": 2,
         "componentBased": false
       },
@@ -6473,19 +6473,19 @@
       },
       {
         "id": "minecraft:magma_cream",
-        "runtime_id": 457,
+        "runtime_id": 456,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:magma_cube_spawn_egg",
-        "runtime_id": 482,
+        "runtime_id": 481,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:mangrove_boat",
-        "runtime_id": 671,
+        "runtime_id": 670,
         "version": 2,
         "componentBased": false
       },
@@ -6497,13 +6497,13 @@
       },
       {
         "id": "minecraft:mangrove_chest_boat",
-        "runtime_id": 680,
+        "runtime_id": 679,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:mangrove_door",
-        "runtime_id": 669,
+        "runtime_id": 668,
         "version": 2,
         "componentBased": false
       },
@@ -6575,7 +6575,7 @@
       },
       {
         "id": "minecraft:mangrove_sign",
-        "runtime_id": 670,
+        "runtime_id": 669,
         "version": 2,
         "componentBased": false
       },
@@ -6623,7 +6623,7 @@
       },
       {
         "id": "minecraft:medicine",
-        "runtime_id": 636,
+        "runtime_id": 635,
         "version": 2,
         "componentBased": false
       },
@@ -6671,7 +6671,7 @@
       },
       {
         "id": "minecraft:miner_pottery_sherd",
-        "runtime_id": 706,
+        "runtime_id": 705,
         "version": 2,
         "componentBased": false
       },
@@ -6683,19 +6683,19 @@
       },
       {
         "id": "minecraft:mojang_banner_pattern",
-        "runtime_id": 617,
+        "runtime_id": 616,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:monster_egg",
-        "runtime_id": 805,
+        "runtime_id": 802,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:mooshroom_spawn_egg",
-        "runtime_id": 467,
+        "runtime_id": 466,
         "version": 2,
         "componentBased": false
       },
@@ -6773,7 +6773,7 @@
       },
       {
         "id": "minecraft:mourner_pottery_sherd",
-        "runtime_id": 707,
+        "runtime_id": 706,
         "version": 2,
         "componentBased": false
       },
@@ -6827,7 +6827,7 @@
       },
       {
         "id": "minecraft:mule_spawn_egg",
-        "runtime_id": 494,
+        "runtime_id": 493,
         "version": 2,
         "componentBased": false
       },
@@ -6845,133 +6845,133 @@
       },
       {
         "id": "minecraft:music_disc_11",
-        "runtime_id": 577,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_13",
-        "runtime_id": 567,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_5",
-        "runtime_id": 672,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_blocks",
-        "runtime_id": 569,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_cat",
-        "runtime_id": 568,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_chirp",
-        "runtime_id": 570,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_creator",
-        "runtime_id": 812,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_creator_music_box",
-        "runtime_id": 813,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_far",
-        "runtime_id": 571,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_lava_chicken",
-        "runtime_id": 816,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_mall",
-        "runtime_id": 572,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_mellohi",
-        "runtime_id": 573,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_otherside",
-        "runtime_id": 662,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_pigstep",
-        "runtime_id": 656,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_precipice",
-        "runtime_id": 814,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_relic",
-        "runtime_id": 735,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_stal",
-        "runtime_id": 574,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_strad",
-        "runtime_id": 575,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_tears",
-        "runtime_id": 815,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_wait",
-        "runtime_id": 578,
-        "version": 2,
-        "componentBased": true
-      },
-      {
-        "id": "minecraft:music_disc_ward",
         "runtime_id": 576,
         "version": 2,
         "componentBased": true
       },
       {
+        "id": "minecraft:music_disc_13",
+        "runtime_id": 566,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_5",
+        "runtime_id": 671,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_blocks",
+        "runtime_id": 568,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_cat",
+        "runtime_id": 567,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_chirp",
+        "runtime_id": 569,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_creator",
+        "runtime_id": 809,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_creator_music_box",
+        "runtime_id": 810,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_far",
+        "runtime_id": 570,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_lava_chicken",
+        "runtime_id": 813,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_mall",
+        "runtime_id": 571,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_mellohi",
+        "runtime_id": 572,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_otherside",
+        "runtime_id": 661,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_pigstep",
+        "runtime_id": 655,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_precipice",
+        "runtime_id": 811,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_relic",
+        "runtime_id": 734,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_stal",
+        "runtime_id": 573,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_strad",
+        "runtime_id": 574,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_tears",
+        "runtime_id": 812,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_wait",
+        "runtime_id": 577,
+        "version": 2,
+        "componentBased": true
+      },
+      {
+        "id": "minecraft:music_disc_ward",
+        "runtime_id": 575,
+        "version": 2,
+        "componentBased": true
+      },
+      {
         "id": "minecraft:mutton",
-        "runtime_id": 583,
+        "runtime_id": 582,
         "version": 0,
         "componentBased": false
       },
@@ -6983,13 +6983,13 @@
       },
       {
         "id": "minecraft:name_tag",
-        "runtime_id": 581,
+        "runtime_id": 580,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:nautilus_shell",
-        "runtime_id": 603,
+        "runtime_id": 602,
         "version": 2,
         "componentBased": false
       },
@@ -7037,13 +7037,13 @@
       },
       {
         "id": "minecraft:nether_sprouts",
-        "runtime_id": 657,
+        "runtime_id": 656,
         "version": 2,
         "componentBased": true
       },
       {
         "id": "minecraft:nether_star",
-        "runtime_id": 551,
+        "runtime_id": 550,
         "version": 2,
         "componentBased": false
       },
@@ -7061,13 +7061,13 @@
       },
       {
         "id": "minecraft:netherbrick",
-        "runtime_id": 556,
+        "runtime_id": 555,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:netherite_axe",
-        "runtime_id": 643,
+        "runtime_id": 642,
         "version": 2,
         "componentBased": false
       },
@@ -7079,67 +7079,67 @@
       },
       {
         "id": "minecraft:netherite_boots",
-        "runtime_id": 649,
-        "version": 2,
-        "componentBased": false
-      },
-      {
-        "id": "minecraft:netherite_chestplate",
-        "runtime_id": 647,
-        "version": 2,
-        "componentBased": false
-      },
-      {
-        "id": "minecraft:netherite_helmet",
-        "runtime_id": 646,
-        "version": 2,
-        "componentBased": false
-      },
-      {
-        "id": "minecraft:netherite_hoe",
-        "runtime_id": 644,
-        "version": 2,
-        "componentBased": false
-      },
-      {
-        "id": "minecraft:netherite_ingot",
-        "runtime_id": 645,
-        "version": 2,
-        "componentBased": false
-      },
-      {
-        "id": "minecraft:netherite_leggings",
         "runtime_id": 648,
         "version": 2,
         "componentBased": false
       },
       {
+        "id": "minecraft:netherite_chestplate",
+        "runtime_id": 646,
+        "version": 2,
+        "componentBased": false
+      },
+      {
+        "id": "minecraft:netherite_helmet",
+        "runtime_id": 645,
+        "version": 2,
+        "componentBased": false
+      },
+      {
+        "id": "minecraft:netherite_hoe",
+        "runtime_id": 643,
+        "version": 2,
+        "componentBased": false
+      },
+      {
+        "id": "minecraft:netherite_ingot",
+        "runtime_id": 644,
+        "version": 2,
+        "componentBased": false
+      },
+      {
+        "id": "minecraft:netherite_leggings",
+        "runtime_id": 647,
+        "version": 2,
+        "componentBased": false
+      },
+      {
         "id": "minecraft:netherite_pickaxe",
-        "runtime_id": 642,
-        "version": 2,
-        "componentBased": false
-      },
-      {
-        "id": "minecraft:netherite_scrap",
-        "runtime_id": 650,
-        "version": 2,
-        "componentBased": false
-      },
-      {
-        "id": "minecraft:netherite_shovel",
         "runtime_id": 641,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:netherite_sword",
+        "id": "minecraft:netherite_scrap",
+        "runtime_id": 649,
+        "version": 2,
+        "componentBased": false
+      },
+      {
+        "id": "minecraft:netherite_shovel",
         "runtime_id": 640,
         "version": 2,
         "componentBased": false
       },
       {
+        "id": "minecraft:netherite_sword",
+        "runtime_id": 639,
+        "version": 2,
+        "componentBased": false
+      },
+      {
         "id": "minecraft:netherite_upgrade_smithing_template",
-        "runtime_id": 716,
+        "runtime_id": 715,
         "version": 2,
         "componentBased": false
       },
@@ -7181,19 +7181,19 @@
       },
       {
         "id": "minecraft:npc_spawn_egg",
-        "runtime_id": 498,
+        "runtime_id": 497,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:oak_boat",
-        "runtime_id": 401,
+        "runtime_id": 400,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:oak_chest_boat",
-        "runtime_id": 674,
+        "runtime_id": 673,
         "version": 2,
         "componentBased": false
       },
@@ -7283,7 +7283,7 @@
       },
       {
         "id": "minecraft:ocelot_spawn_egg",
-        "runtime_id": 478,
+        "runtime_id": 477,
         "version": 2,
         "componentBased": false
       },
@@ -7295,7 +7295,7 @@
       },
       {
         "id": "minecraft:ominous_bottle",
-        "runtime_id": 628,
+        "runtime_id": 627,
         "version": 2,
         "componentBased": false
       },
@@ -7349,7 +7349,7 @@
       },
       {
         "id": "minecraft:orange_dye",
-        "runtime_id": 435,
+        "runtime_id": 434,
         "version": 2,
         "componentBased": false
       },
@@ -7361,7 +7361,7 @@
       },
       {
         "id": "minecraft:orange_harness",
-        "runtime_id": 761,
+        "runtime_id": 758,
         "version": 2,
         "componentBased": false
       },
@@ -7541,7 +7541,7 @@
       },
       {
         "id": "minecraft:pale_oak_boat",
-        "runtime_id": 743,
+        "runtime_id": 740,
         "version": 2,
         "componentBased": false
       },
@@ -7553,7 +7553,7 @@
       },
       {
         "id": "minecraft:pale_oak_chest_boat",
-        "runtime_id": 744,
+        "runtime_id": 741,
         "version": 2,
         "componentBased": false
       },
@@ -7625,7 +7625,7 @@
       },
       {
         "id": "minecraft:pale_oak_sign",
-        "runtime_id": 745,
+        "runtime_id": 742,
         "version": 2,
         "componentBased": false
       },
@@ -7667,19 +7667,19 @@
       },
       {
         "id": "minecraft:panda_spawn_egg",
-        "runtime_id": 517,
+        "runtime_id": 516,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:paper",
-        "runtime_id": 412,
+        "runtime_id": 411,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:parrot_spawn_egg",
-        "runtime_id": 506,
+        "runtime_id": 505,
         "version": 2,
         "componentBased": false
       },
@@ -7709,31 +7709,31 @@
       },
       {
         "id": "minecraft:phantom_membrane",
-        "runtime_id": 607,
+        "runtime_id": 606,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:phantom_spawn_egg",
-        "runtime_id": 514,
+        "runtime_id": 513,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:pig_spawn_egg",
-        "runtime_id": 464,
+        "runtime_id": 463,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:piglin_banner_pattern",
-        "runtime_id": 620,
+        "runtime_id": 619,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:piglin_brute_spawn_egg",
-        "runtime_id": 527,
+        "runtime_id": 526,
         "version": 2,
         "componentBased": false
       },
@@ -7745,13 +7745,13 @@
       },
       {
         "id": "minecraft:piglin_spawn_egg",
-        "runtime_id": 525,
+        "runtime_id": 524,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:pillager_spawn_egg",
-        "runtime_id": 519,
+        "runtime_id": 518,
         "version": 2,
         "componentBased": false
       },
@@ -7793,7 +7793,7 @@
       },
       {
         "id": "minecraft:pink_dye",
-        "runtime_id": 430,
+        "runtime_id": 429,
         "version": 2,
         "componentBased": false
       },
@@ -7805,7 +7805,7 @@
       },
       {
         "id": "minecraft:pink_harness",
-        "runtime_id": 762,
+        "runtime_id": 759,
         "version": 2,
         "componentBased": false
       },
@@ -7883,7 +7883,7 @@
       },
       {
         "id": "minecraft:planks",
-        "runtime_id": 801,
+        "runtime_id": 798,
         "version": 2,
         "componentBased": false
       },
@@ -7895,7 +7895,7 @@
       },
       {
         "id": "minecraft:plenty_pottery_sherd",
-        "runtime_id": 708,
+        "runtime_id": 707,
         "version": 2,
         "componentBased": false
       },
@@ -7919,7 +7919,7 @@
       },
       {
         "id": "minecraft:polar_bear_spawn_egg",
-        "runtime_id": 500,
+        "runtime_id": 499,
         "version": 2,
         "componentBased": false
       },
@@ -8135,7 +8135,7 @@
       },
       {
         "id": "minecraft:popped_chorus_fruit",
-        "runtime_id": 592,
+        "runtime_id": 591,
         "version": 2,
         "componentBased": false
       },
@@ -8171,7 +8171,7 @@
       },
       {
         "id": "minecraft:potion",
-        "runtime_id": 453,
+        "runtime_id": 452,
         "version": 2,
         "componentBased": false
       },
@@ -8231,7 +8231,7 @@
       },
       {
         "id": "minecraft:prismarine_crystals",
-        "runtime_id": 582,
+        "runtime_id": 581,
         "version": 2,
         "componentBased": false
       },
@@ -8243,7 +8243,7 @@
       },
       {
         "id": "minecraft:prismarine_shard",
-        "runtime_id": 598,
+        "runtime_id": 597,
         "version": 2,
         "componentBased": false
       },
@@ -8267,7 +8267,7 @@
       },
       {
         "id": "minecraft:prize_pottery_sherd",
-        "runtime_id": 709,
+        "runtime_id": 708,
         "version": 2,
         "componentBased": false
       },
@@ -8285,7 +8285,7 @@
       },
       {
         "id": "minecraft:pufferfish_spawn_egg",
-        "runtime_id": 509,
+        "runtime_id": 508,
         "version": 2,
         "componentBased": false
       },
@@ -8351,7 +8351,7 @@
       },
       {
         "id": "minecraft:purple_dye",
-        "runtime_id": 426,
+        "runtime_id": 425,
         "version": 2,
         "componentBased": false
       },
@@ -8363,7 +8363,7 @@
       },
       {
         "id": "minecraft:purple_harness",
-        "runtime_id": 763,
+        "runtime_id": 760,
         "version": 2,
         "componentBased": false
       },
@@ -8429,7 +8429,7 @@
       },
       {
         "id": "minecraft:quartz",
-        "runtime_id": 557,
+        "runtime_id": 556,
         "version": 2,
         "componentBased": false
       },
@@ -8483,19 +8483,19 @@
       },
       {
         "id": "minecraft:rabbit_foot",
-        "runtime_id": 561,
+        "runtime_id": 560,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:rabbit_hide",
-        "runtime_id": 562,
+        "runtime_id": 561,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:rabbit_spawn_egg",
-        "runtime_id": 486,
+        "runtime_id": 485,
         "version": 2,
         "componentBased": false
       },
@@ -8513,25 +8513,25 @@
       },
       {
         "id": "minecraft:raiser_armor_trim_smithing_template",
-        "runtime_id": 730,
+        "runtime_id": 729,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:rapid_fertilizer",
-        "runtime_id": 634,
+        "runtime_id": 633,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:ravager_spawn_egg",
-        "runtime_id": 521,
+        "runtime_id": 520,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:raw_copper",
-        "runtime_id": 541,
+        "runtime_id": 540,
         "version": 2,
         "componentBased": false
       },
@@ -8543,7 +8543,7 @@
       },
       {
         "id": "minecraft:raw_gold",
-        "runtime_id": 540,
+        "runtime_id": 539,
         "version": 2,
         "componentBased": false
       },
@@ -8555,7 +8555,7 @@
       },
       {
         "id": "minecraft:raw_iron",
-        "runtime_id": 539,
+        "runtime_id": 538,
         "version": 2,
         "componentBased": false
       },
@@ -8567,7 +8567,7 @@
       },
       {
         "id": "minecraft:recovery_compass",
-        "runtime_id": 682,
+        "runtime_id": 681,
         "version": 2,
         "componentBased": false
       },
@@ -8609,13 +8609,13 @@
       },
       {
         "id": "minecraft:red_dye",
-        "runtime_id": 422,
+        "runtime_id": 421,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:red_flower",
-        "runtime_id": 799,
+        "runtime_id": 796,
         "version": 2,
         "componentBased": false
       },
@@ -8627,7 +8627,7 @@
       },
       {
         "id": "minecraft:red_harness",
-        "runtime_id": 764,
+        "runtime_id": 761,
         "version": 2,
         "componentBased": false
       },
@@ -8789,7 +8789,7 @@
       },
       {
         "id": "minecraft:repeater",
-        "runtime_id": 445,
+        "runtime_id": 444,
         "version": 2,
         "componentBased": true
       },
@@ -8813,7 +8813,7 @@
       },
       {
         "id": "minecraft:resin_brick",
-        "runtime_id": 747,
+        "runtime_id": 744,
         "version": 2,
         "componentBased": false
       },
@@ -8861,7 +8861,7 @@
       },
       {
         "id": "minecraft:rib_armor_trim_smithing_template",
-        "runtime_id": 726,
+        "runtime_id": 725,
         "version": 2,
         "componentBased": false
       },
@@ -8897,7 +8897,7 @@
       },
       {
         "id": "minecraft:salmon_spawn_egg",
-        "runtime_id": 510,
+        "runtime_id": 509,
         "version": 2,
         "componentBased": false
       },
@@ -8939,7 +8939,7 @@
       },
       {
         "id": "minecraft:sapling",
-        "runtime_id": 795,
+        "runtime_id": 792,
         "version": 2,
         "componentBased": false
       },
@@ -8951,7 +8951,7 @@
       },
       {
         "id": "minecraft:scrape_pottery_sherd",
-        "runtime_id": 710,
+        "runtime_id": 709,
         "version": 2,
         "componentBased": false
       },
@@ -9005,37 +9005,37 @@
       },
       {
         "id": "minecraft:sentry_armor_trim_smithing_template",
-        "runtime_id": 717,
+        "runtime_id": 716,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:shaper_armor_trim_smithing_template",
-        "runtime_id": 731,
+        "runtime_id": 730,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:sheaf_pottery_sherd",
-        "runtime_id": 711,
+        "runtime_id": 710,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:shears",
-        "runtime_id": 447,
+        "runtime_id": 446,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:sheep_spawn_egg",
-        "runtime_id": 465,
+        "runtime_id": 464,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:shelter_pottery_sherd",
-        "runtime_id": 712,
+        "runtime_id": 711,
         "version": 2,
         "componentBased": false
       },
@@ -9065,25 +9065,25 @@
       },
       {
         "id": "minecraft:shulker_box",
-        "runtime_id": 810,
+        "runtime_id": 807,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:shulker_shell",
-        "runtime_id": 599,
+        "runtime_id": 598,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:shulker_spawn_egg",
-        "runtime_id": 497,
+        "runtime_id": 496,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:silence_armor_trim_smithing_template",
-        "runtime_id": 728,
+        "runtime_id": 727,
         "version": 2,
         "componentBased": false
       },
@@ -9095,13 +9095,13 @@
       },
       {
         "id": "minecraft:silverfish_spawn_egg",
-        "runtime_id": 470,
+        "runtime_id": 469,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:skeleton_horse_spawn_egg",
-        "runtime_id": 495,
+        "runtime_id": 494,
         "version": 2,
         "componentBased": false
       },
@@ -9113,25 +9113,25 @@
       },
       {
         "id": "minecraft:skeleton_spawn_egg",
-        "runtime_id": 471,
+        "runtime_id": 470,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:skull",
-        "runtime_id": 736,
+        "runtime_id": 735,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:skull_banner_pattern",
-        "runtime_id": 616,
+        "runtime_id": 615,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:skull_pottery_sherd",
-        "runtime_id": 713,
+        "runtime_id": 712,
         "version": 2,
         "componentBased": false
       },
@@ -9143,13 +9143,13 @@
       },
       {
         "id": "minecraft:slime_ball",
-        "runtime_id": 414,
+        "runtime_id": 413,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:slime_spawn_egg",
-        "runtime_id": 472,
+        "runtime_id": 471,
         "version": 2,
         "componentBased": false
       },
@@ -9281,19 +9281,19 @@
       },
       {
         "id": "minecraft:sniffer_spawn_egg",
-        "runtime_id": 528,
+        "runtime_id": 527,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:snort_pottery_sherd",
-        "runtime_id": 714,
+        "runtime_id": 713,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:snout_armor_trim_smithing_template",
-        "runtime_id": 725,
+        "runtime_id": 724,
         "version": 2,
         "componentBased": false
       },
@@ -9305,7 +9305,7 @@
       },
       {
         "id": "minecraft:snow_golem_spawn_egg",
-        "runtime_id": 534,
+        "runtime_id": 533,
         "version": 2,
         "componentBased": false
       },
@@ -9323,7 +9323,7 @@
       },
       {
         "id": "minecraft:soul_campfire",
-        "runtime_id": 658,
+        "runtime_id": 657,
         "version": 2,
         "componentBased": true
       },
@@ -9359,13 +9359,13 @@
       },
       {
         "id": "minecraft:sparkler",
-        "runtime_id": 637,
+        "runtime_id": 636,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:spawn_egg",
-        "runtime_id": 826,
+        "runtime_id": 823,
         "version": 2,
         "componentBased": false
       },
@@ -9377,19 +9377,19 @@
       },
       {
         "id": "minecraft:spider_spawn_egg",
-        "runtime_id": 473,
+        "runtime_id": 472,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:spire_armor_trim_smithing_template",
-        "runtime_id": 727,
+        "runtime_id": 726,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:splash_potion",
-        "runtime_id": 594,
+        "runtime_id": 593,
         "version": 2,
         "componentBased": false
       },
@@ -9407,7 +9407,7 @@
       },
       {
         "id": "minecraft:spruce_boat",
-        "runtime_id": 404,
+        "runtime_id": 403,
         "version": 2,
         "componentBased": false
       },
@@ -9419,13 +9419,13 @@
       },
       {
         "id": "minecraft:spruce_chest_boat",
-        "runtime_id": 677,
+        "runtime_id": 676,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:spruce_door",
-        "runtime_id": 586,
+        "runtime_id": 585,
         "version": 2,
         "componentBased": false
       },
@@ -9491,7 +9491,7 @@
       },
       {
         "id": "minecraft:spruce_sign",
-        "runtime_id": 609,
+        "runtime_id": 608,
         "version": 2,
         "componentBased": false
       },
@@ -9533,31 +9533,31 @@
       },
       {
         "id": "minecraft:spyglass",
-        "runtime_id": 661,
+        "runtime_id": 660,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:squid_spawn_egg",
-        "runtime_id": 477,
+        "runtime_id": 476,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:stained_glass",
-        "runtime_id": 808,
+        "runtime_id": 805,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:stained_glass_pane",
-        "runtime_id": 809,
+        "runtime_id": 806,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:stained_hardened_clay",
-        "runtime_id": 737,
+        "runtime_id": 736,
         "version": 2,
         "componentBased": false
       },
@@ -9605,25 +9605,25 @@
       },
       {
         "id": "minecraft:stone_block_slab",
-        "runtime_id": 785,
+        "runtime_id": 782,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:stone_block_slab2",
-        "runtime_id": 786,
+        "runtime_id": 783,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:stone_block_slab3",
-        "runtime_id": 787,
+        "runtime_id": 784,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:stone_block_slab4",
-        "runtime_id": 788,
+        "runtime_id": 785,
         "version": 2,
         "componentBased": false
       },
@@ -9701,7 +9701,7 @@
       },
       {
         "id": "minecraft:stonebrick",
-        "runtime_id": 783,
+        "runtime_id": 780,
         "version": 2,
         "componentBased": false
       },
@@ -9719,13 +9719,13 @@
       },
       {
         "id": "minecraft:stray_spawn_egg",
-        "runtime_id": 489,
+        "runtime_id": 488,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:strider_spawn_egg",
-        "runtime_id": 523,
+        "runtime_id": 522,
         "version": 2,
         "componentBased": false
       },
@@ -9887,13 +9887,13 @@
       },
       {
         "id": "minecraft:sugar",
-        "runtime_id": 442,
+        "runtime_id": 441,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:sugar_cane",
-        "runtime_id": 411,
+        "runtime_id": 410,
         "version": 2,
         "componentBased": true
       },
@@ -9917,7 +9917,7 @@
       },
       {
         "id": "minecraft:suspicious_stew",
-        "runtime_id": 625,
+        "runtime_id": 624,
         "version": 0,
         "componentBased": false
       },
@@ -9935,13 +9935,13 @@
       },
       {
         "id": "minecraft:tadpole_bucket",
-        "runtime_id": 666,
+        "runtime_id": 665,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:tadpole_spawn_egg",
-        "runtime_id": 665,
+        "runtime_id": 664,
         "version": 2,
         "componentBased": false
       },
@@ -9959,7 +9959,7 @@
       },
       {
         "id": "minecraft:tallgrass",
-        "runtime_id": 803,
+        "runtime_id": 800,
         "version": 2,
         "componentBased": false
       },
@@ -9971,7 +9971,7 @@
       },
       {
         "id": "minecraft:tide_armor_trim_smithing_template",
-        "runtime_id": 724,
+        "runtime_id": 723,
         "version": 2,
         "componentBased": false
       },
@@ -9989,7 +9989,7 @@
       },
       {
         "id": "minecraft:tnt_minecart",
-        "runtime_id": 558,
+        "runtime_id": 557,
         "version": 2,
         "componentBased": false
       },
@@ -10019,13 +10019,13 @@
       },
       {
         "id": "minecraft:totem_of_undying",
-        "runtime_id": 601,
+        "runtime_id": 600,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:trader_llama_spawn_egg",
-        "runtime_id": 684,
+        "runtime_id": 683,
         "version": 2,
         "componentBased": false
       },
@@ -10055,7 +10055,7 @@
       },
       {
         "id": "minecraft:trident",
-        "runtime_id": 579,
+        "runtime_id": 578,
         "version": 2,
         "componentBased": false
       },
@@ -10085,7 +10085,7 @@
       },
       {
         "id": "minecraft:tropical_fish_spawn_egg",
-        "runtime_id": 507,
+        "runtime_id": 506,
         "version": 2,
         "componentBased": false
       },
@@ -10181,19 +10181,19 @@
       },
       {
         "id": "minecraft:turtle_helmet",
-        "runtime_id": 606,
-        "version": 2,
-        "componentBased": false
-      },
-      {
-        "id": "minecraft:turtle_scute",
         "runtime_id": 605,
         "version": 2,
         "componentBased": false
       },
       {
+        "id": "minecraft:turtle_scute",
+        "runtime_id": 604,
+        "version": 2,
+        "componentBased": false
+      },
+      {
         "id": "minecraft:turtle_spawn_egg",
-        "runtime_id": 513,
+        "runtime_id": 512,
         "version": 2,
         "componentBased": false
       },
@@ -10259,25 +10259,25 @@
       },
       {
         "id": "minecraft:vex_armor_trim_smithing_template",
-        "runtime_id": 723,
+        "runtime_id": 722,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:vex_spawn_egg",
-        "runtime_id": 504,
+        "runtime_id": 503,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:villager_spawn_egg",
-        "runtime_id": 476,
+        "runtime_id": 475,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:vindicator_spawn_egg",
-        "runtime_id": 502,
+        "runtime_id": 501,
         "version": 2,
         "componentBased": false
       },
@@ -10301,19 +10301,19 @@
       },
       {
         "id": "minecraft:wandering_trader_spawn_egg",
-        "runtime_id": 520,
+        "runtime_id": 519,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:ward_armor_trim_smithing_template",
-        "runtime_id": 721,
+        "runtime_id": 720,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:warden_spawn_egg",
-        "runtime_id": 668,
+        "runtime_id": 667,
         "version": 2,
         "componentBased": false
       },
@@ -10325,7 +10325,7 @@
       },
       {
         "id": "minecraft:warped_door",
-        "runtime_id": 654,
+        "runtime_id": 653,
         "version": 2,
         "componentBased": false
       },
@@ -10355,7 +10355,7 @@
       },
       {
         "id": "minecraft:warped_fungus_on_a_stick",
-        "runtime_id": 655,
+        "runtime_id": 654,
         "version": 2,
         "componentBased": true
       },
@@ -10403,7 +10403,7 @@
       },
       {
         "id": "minecraft:warped_sign",
-        "runtime_id": 652,
+        "runtime_id": 651,
         "version": 2,
         "componentBased": false
       },
@@ -10853,7 +10853,7 @@
       },
       {
         "id": "minecraft:wayfinder_armor_trim_smithing_template",
-        "runtime_id": 729,
+        "runtime_id": 728,
         "version": 2,
         "componentBased": false
       },
@@ -11021,7 +11021,7 @@
       },
       {
         "id": "minecraft:white_dye",
-        "runtime_id": 436,
+        "runtime_id": 435,
         "version": 2,
         "componentBased": false
       },
@@ -11033,7 +11033,7 @@
       },
       {
         "id": "minecraft:white_harness",
-        "runtime_id": 765,
+        "runtime_id": 762,
         "version": 2,
         "componentBased": false
       },
@@ -11075,7 +11075,7 @@
       },
       {
         "id": "minecraft:wild_armor_trim_smithing_template",
-        "runtime_id": 720,
+        "runtime_id": 719,
         "version": 2,
         "componentBased": false
       },
@@ -11093,7 +11093,7 @@
       },
       {
         "id": "minecraft:witch_spawn_egg",
-        "runtime_id": 479,
+        "runtime_id": 478,
         "version": 2,
         "componentBased": false
       },
@@ -11111,31 +11111,31 @@
       },
       {
         "id": "minecraft:wither_skeleton_spawn_egg",
-        "runtime_id": 492,
+        "runtime_id": 491,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:wither_spawn_egg",
-        "runtime_id": 536,
+        "runtime_id": 535,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:wolf_armor",
-        "runtime_id": 740,
+        "runtime_id": 739,
         "version": 2,
         "componentBased": true
       },
       {
         "id": "minecraft:wolf_spawn_egg",
-        "runtime_id": 466,
+        "runtime_id": 465,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:wood",
-        "runtime_id": 811,
+        "runtime_id": 808,
         "version": 2,
         "componentBased": false
       },
@@ -11183,7 +11183,7 @@
       },
       {
         "id": "minecraft:wooden_slab",
-        "runtime_id": 798,
+        "runtime_id": 795,
         "version": 2,
         "componentBased": false
       },
@@ -11195,19 +11195,19 @@
       },
       {
         "id": "minecraft:wool",
-        "runtime_id": 779,
+        "runtime_id": 776,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:writable_book",
-        "runtime_id": 544,
+        "runtime_id": 543,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:written_book",
-        "runtime_id": 545,
+        "runtime_id": 544,
         "version": 2,
         "componentBased": false
       },
@@ -11249,7 +11249,7 @@
       },
       {
         "id": "minecraft:yellow_dye",
-        "runtime_id": 432,
+        "runtime_id": 431,
         "version": 2,
         "componentBased": false
       },
@@ -11261,7 +11261,7 @@
       },
       {
         "id": "minecraft:yellow_harness",
-        "runtime_id": 766,
+        "runtime_id": 763,
         "version": 2,
         "componentBased": false
       },
@@ -11297,7 +11297,7 @@
       },
       {
         "id": "minecraft:zoglin_spawn_egg",
-        "runtime_id": 526,
+        "runtime_id": 525,
         "version": 2,
         "componentBased": false
       },
@@ -11309,25 +11309,25 @@
       },
       {
         "id": "minecraft:zombie_horse_spawn_egg",
-        "runtime_id": 496,
+        "runtime_id": 495,
         "version": 2,
         "componentBased": false
       },
       {
         "id": "minecraft:zombie_pigman_spawn_egg",
-        "runtime_id": 475,
-        "version": 2,
-        "componentBased": false
-      },
-      {
-        "id": "minecraft:zombie_spawn_egg",
         "runtime_id": 474,
         "version": 2,
         "componentBased": false
       },
       {
+        "id": "minecraft:zombie_spawn_egg",
+        "runtime_id": 473,
+        "version": 2,
+        "componentBased": false
+      },
+      {
         "id": "minecraft:zombie_villager_spawn_egg",
-        "runtime_id": 505,
+        "runtime_id": 504,
         "version": 2,
         "componentBased": false
       }
