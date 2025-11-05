@@ -9,6 +9,11 @@
     "components": {
       "minecraft:block": {
         "block": "minecraft:emerald_ore"
+      },
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:ores"
+        ]
       }
     }
   }
