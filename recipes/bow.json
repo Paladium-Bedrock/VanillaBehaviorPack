@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:bow"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "assume_symmetry": false,
+    "pattern": [
+      " #X",
+      "# X",
+      " #X"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:stick"
+        }
+      ],
+      "X": [
+        {
+          "item": "minecraft:string"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:bow"
+    }
+  }
+}
