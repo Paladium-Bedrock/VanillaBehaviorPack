@@ -8,6 +8,11 @@
     "components": {
       "minecraft:fuel": {
         "duration": 1600
+      },
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:coals"
+        ]
       }
     }
   }
