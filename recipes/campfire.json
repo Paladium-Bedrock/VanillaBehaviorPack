@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:campfire"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "assume_symmetry": false,
+    "pattern": [
+      " | ",
+      "|C|",
+      "###"
+    ],
+    "key": {
+      "|": [
+        {
+          "item": "minecraft:stick"
+        }
+      ],
+      "#": [
+        {
+          "tag": "minecraft:logs"
+        }
+      ],
+      "C": [
+        {
+          "tag": "minecraft:coals"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:campfire"
+    }
+  }
+}
