@@ -2,13 +2,13 @@
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:large_fern",
-      "creative_category": "nature",
+      "identifier": "minecraft:noteblock",
+      "creative_category": "construction",
       "custom": false
     },
     "components": {
       "minecraft:block": {
-        "block": "minecraft:large_fern"
+        "block": "minecraft:noteblock"
       }
     }
   }
