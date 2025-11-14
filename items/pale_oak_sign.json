@@ -12,6 +12,9 @@
       },
       "minecraft:block_placer": {
         "block": "minecraft:pale_oak_hanging_sign"
+      },
+      "minecraft:fuel": {
+        "duration": 300
       }
     }
   }

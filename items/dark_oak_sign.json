@@ -12,6 +12,9 @@
       },
       "minecraft:block_placer": {
         "block": "minecraft:darkoak_standing_sign"
+      },
+      "minecraft:fuel": {
+        "duration": 300
       }
     }
   }
