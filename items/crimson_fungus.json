@@ -2,13 +2,13 @@
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:flowering_azalea",
+      "identifier": "minecraft:crimson_fungus",
       "creative_category": "nature",
       "custom": false
     },
     "components": {
       "minecraft:block": {
-        "block": "minecraft:flowering_azalea"
+        "block": "minecraft:crimson_fungus"
       }
     }
   }
