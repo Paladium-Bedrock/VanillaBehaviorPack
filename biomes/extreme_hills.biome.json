@@ -12,7 +12,12 @@
         "downfall": 0.3
       },
       "minecraft:water_color": {
-        "color": [0, 123, 247, 165]
+        "color": [
+          0,
+          123,
+          247,
+          165
+        ]
       },
       "minecraft:generation_rules": {
         "priority": 1,

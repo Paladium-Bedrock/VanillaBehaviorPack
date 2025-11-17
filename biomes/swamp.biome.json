@@ -2,31 +2,31 @@
   "format_version": "1.0.0",
   "minecraft:biome": {
     "description": {
-      "identifier": "forest",
-      "id": 4,
+      "identifier": "swamp",
+      "id": 6,
       "custom": false
     },
     "components": {
       "minecraft:climate": {
-        "temperature": 0.7,
+        "temperature": 0.25,
         "downfall": 0.8
       },
       "minecraft:water_color": {
         "color": [
-          30,
-          151,
-          242,
+          40,
+          112,
+          130,
           165
         ]
       },
       "minecraft:generation_rules": {
         "priority": 1,
-        "base_height": 0.1,
-        "height_variation": 0.3,
-        "min_temperature": 0.25,
+        "base_height": -0.2,
+        "height_variation": 0.1,
+        "min_temperature": 0.0,
         "max_temperature": 0.4999,
-        "min_downfall": 0.0,
-        "max_downfall": 0.2499,
+        "min_downfall": -0.1999,
+        "max_downfall": 0.1,
         "min_ocean": 0.0,
         "min_river": 0.0,
         "max_river": 1.0
@@ -42,16 +42,8 @@
           {
             "identifier": "minecraft:tree",
             "options": {
-              "type": "minecraft:birch",
-              "base_amount": 3
-            }
-          },
-          {
-            "identifier": "minecraft:tree",
-            "options": {
-              "type": "minecraft:oak",
-              "base_amount": 1,
-              "random_amount": 7
+              "type": "minecraft:swamp",
+              "base_amount": 1
             }
           },
           {
@@ -73,14 +65,24 @@
             "identifier": "minecraft:plant",
             "options": {
               "plants": [
-                "minecraft:dandelion",
-                "minecraft:poppy",
-                "minecraft:lily_of_the_valley",
-                "minecraft:lilac",
-                "minecraft:rose_bush",
-                "minecraft:peony"
+                "minecraft:blue_orchid",
+                "minecraft:brown_mushroom"
               ],
               "base_amount": 3
+            }
+          },
+          {
+            "identifier": "minecraft:lily_pad",
+            "options": {
+              "base_amount": 4,
+              "random_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:sugarcane",
+            "options": {
+              "base_amount": 10,
+              "random_amount": 10
             }
           }
         ]
@@ -90,7 +92,7 @@
           "animal",
           "monster",
           "overworld",
-          "forest"
+          "taiga"
         ]
       }
     }
