@@ -1,0 +1,109 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "river",
+      "id": 7,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.5,
+        "downfall": 0.5
+      },
+      "minecraft:water_color": {
+        "color": [
+          0,
+          132,
+          255,
+          165
+        ]
+      },
+      "minecraft:generation_rules": {
+        "priority": 1,
+        "base_height": -0.5,
+        "height_variation": 0.0,
+        "min_temperature": -0.4,
+        "min_river": 0.0,
+        "max_river": 0.0399
+      },
+      "minecraft:surface_parameters": {
+        "surface_depth": 1,
+        "surface_material": "minecraft:grass_block",
+        "ground_depth": 4,
+        "ground_material": "minecraft:dirt"
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:underwater_floor",
+            "options": {
+              "block": "minecraft:sand",
+              "probability": 1.0,
+              "min_radius": 2,
+              "max_radius": 4,
+              "height_radius": 2,
+              "replacement_blocks": [
+                "minecraft:grass_block",
+                "minecraft:dirt"
+              ],
+              "base_amount": 3
+            }
+          },
+          {
+            "identifier": "minecraft:underwater_floor",
+            "options": {
+              "block": "minecraft:clay",
+              "probability": 1.0,
+              "min_radius": 1,
+              "max_radius": 2,
+              "height_radius": 1,
+              "replacement_blocks": [
+                "minecraft:dirt",
+                "minecraft:clay"
+              ],
+              "base_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:underwater_floor",
+            "options": {
+              "block": "minecraft:gravel",
+              "probability": 1.0,
+              "min_radius": 2,
+              "max_radius": 3,
+              "height_radius": 2,
+              "replacement_blocks": [
+                "minecraft:grass_block",
+                "minecraft:dirt"
+              ],
+              "base_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:sugarcane",
+            "options": {
+              "base_amount": 10,
+              "random_amount": 10
+            }
+          },
+          {
+            "identifier": "minecraft:seagrass",
+            "options": {
+              "base_amount": 4,
+              "random_amount": 2
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "animal",
+          "monster",
+          "overworld",
+          "river"
+        ]
+      }
+    }
+  }
+}
