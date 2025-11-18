@@ -51,11 +51,8 @@
             }
           },
           {
-            "identifier": "minecraft:plant",
+            "identifier": "minecraft:deadbush",
             "options": {
-              "plants": [
-                "minecraft:deadbush"
-              ],
               "base_amount": 2
             }
           }
