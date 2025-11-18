@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "mushroom_island_shore",
+      "id": 15,
+      "custom": false,
+      "is_spawnable": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.9,
+        "downfall": 1.0
+      },
+      "minecraft:water_color": {
+        "color": [
+          129,
+          129,
+          147,
+          165
+        ]
+      },
+      "minecraft:generation_rules": {
+        "priority": 1,
+        "base_height": 0.0,
+        "height_variation": 0.025
+      },
+      "minecraft:tags": {
+        "tags": [
+          "monster",
+          "overworld",
+          "mushroom_island_shore"
+        ]
+      }
+    }
+  }
+}
