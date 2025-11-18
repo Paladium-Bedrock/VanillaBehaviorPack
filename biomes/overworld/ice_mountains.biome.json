@@ -2,8 +2,8 @@
   "format_version": "1.0.0",
   "minecraft:biome": {
     "description": {
-      "identifier": "ice_plains",
-      "id": 12,
+      "identifier": "ice_mountains",
+      "id": 13,
       "custom": false
     },
     "components": {
@@ -13,20 +13,21 @@
       },
       "minecraft:water_color": {
         "color": [
-          20,
-          85,
-          155,
+          17,
+          86,
+          167,
           165
         ]
       },
       "minecraft:generation_rules": {
         "priority": 1,
-        "base_height": 0.125,
-        "height_variation": 0.05,
+        "base_height": 0.45,
+        "height_variation": 0.3,
         "max_temperature": -0.3791,
         "min_downfall": 0.0,
         "min_ocean": -0.1199,
-        "min_river": 0.04
+        "min_river": 0.04,
+        "max_hills": -0.0001
       },
       "minecraft:surface_parameters": {
         "surface_depth": 1,
@@ -40,7 +41,8 @@
             "identifier": "minecraft:tree",
             "options": {
               "type": "minecraft:spruce",
-              "base_amount": 1
+              "base_amount": 0,
+              "random_amount": 1
             }
           },
           {
@@ -63,14 +65,7 @@
             "options": {
               "plants": [
                 "minecraft:dandelion",
-                "minecraft:poppy",
-                "minecraft:azure_bluet",
-                "minecraft:red_tulip",
-                "minecraft:orange_tulip",
-                "minecraft:white_tulip",
-                "minecraft:pink_tulip",
-                "minecraft:cornflower",
-                "minecraft:lilac"
+                "minecraft:poppy"
               ],
               "base_amount": 3
             }
