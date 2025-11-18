@@ -1,0 +1,63 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "beach",
+      "id": 16,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.8,
+        "downfall": 0.4
+      },
+      "minecraft:water_color": {
+        "color": [
+          21,
+          124,
+          171,
+          165
+        ]
+      },
+      "minecraft:generation_rules": {
+        "priority": 1,
+        "base_height": 0.0,
+        "height_variation": 0.025,
+        "min_temperature": -0.379,
+        "min_ocean": -0.15,
+        "max_ocean": -0.12,
+        "min_river": 0.04
+      },
+      "minecraft:surface_parameters": {
+        "surface_depth": 3,
+        "surface_material": "minecraft:sand",
+        "ground_depth": 2,
+        "ground_material": "minecraft:sandstone"
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:sugarcane",
+            "options": {
+              "base_amount": 10
+            }
+          },
+          {
+            "identifier": "minecraft:cactus",
+            "options": {
+              "base_amount": 0,
+              "random_amount": 1
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "monster",
+          "overworld",
+          "beach"
+        ]
+      }
+    }
+  }
+}
