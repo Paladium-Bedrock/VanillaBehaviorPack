@@ -4,7 +4,8 @@
     "description": {
       "identifier": "end",
       "id": 9,
-      "custom": false
+      "custom": false,
+      "is_spawnable": false
     },
     "components": {
       "minecraft:climate": {

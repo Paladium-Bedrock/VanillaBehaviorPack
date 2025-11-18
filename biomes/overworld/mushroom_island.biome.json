@@ -2,33 +2,34 @@
   "format_version": "1.0.0",
   "minecraft:biome": {
     "description": {
-      "identifier": "hell",
-      "id": 8,
+      "identifier": "mushroom_island",
+      "id": 14,
       "custom": false,
       "is_spawnable": false
     },
     "components": {
       "minecraft:climate": {
-        "temperature": 2.0,
-        "downfall": 0.0
+        "temperature": 0.9,
+        "downfall": 1.0
       },
       "minecraft:water_color": {
         "color": [
-          144,
-          89,
-          87,
+          138,
+          137,
+          151,
           165
         ]
       },
       "minecraft:generation_rules": {
         "priority": 1,
-        "base_height": 0.0,
-        "height_variation": 0.0
+        "base_height": 0.2,
+        "height_variation": 0.3
       },
       "minecraft:tags": {
         "tags": [
-          "nether",
-          "hell"
+          "monster",
+          "overworld",
+          "mushroom_island"
         ]
       }
     }
