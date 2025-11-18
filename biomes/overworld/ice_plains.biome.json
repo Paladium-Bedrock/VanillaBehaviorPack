@@ -82,6 +82,10 @@
             }
           },
           {
+            "identifier": "minecraft:snow",
+            "options": {}
+          },
+          {
             "identifier": "minecraft:water_ice",
             "options": {}
           }

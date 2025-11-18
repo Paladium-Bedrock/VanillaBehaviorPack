@@ -13,7 +13,10 @@
       },
       "minecraft:water_color": {
         "color": [
-          24, 83, 144, 165
+          24,
+          83,
+          144,
+          165
         ]
       },
       "minecraft:generation_rules": {
@@ -92,6 +95,10 @@
               "base_amount": 4,
               "random_amount": 2
             }
+          },
+          {
+            "identifier": "minecraft:snow",
+            "options": {}
           },
           {
             "identifier": "minecraft:water_ice",
