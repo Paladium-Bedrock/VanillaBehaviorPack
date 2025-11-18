@@ -2,32 +2,29 @@
   "format_version": "1.0.0",
   "minecraft:biome": {
     "description": {
-      "identifier": "ocean",
-      "id": 0,
+      "identifier": "frozen_river",
+      "id": 11,
       "custom": false
     },
     "components": {
       "minecraft:climate": {
-        "temperature": 0.5,
+        "temperature": 0.0,
         "downfall": 0.5
       },
       "minecraft:water_color": {
         "color": [
-          23,
-          135,
-          212,
-          165
+          24, 83, 144, 165
         ]
       },
       "minecraft:generation_rules": {
-        "priority": 0,
-        "base_height": -1.0,
-        "height_variation": 0.1,
-        "min_temperature": -0.4,
-        "max_temperature": 0.5,
-        "max_downfall": 0.0,
-        "min_ocean": -0.65,
-        "max_ocean": -0.15
+        "priority": 1,
+        "base_height": -0.5,
+        "height_variation": 0.0,
+        "max_temperature": -0.4001,
+        "min_downfall": 0.2,
+        "max_downfall": -0.0001,
+        "min_ocean": 0.0,
+        "max_ocean": 0.0399
       },
       "minecraft:surface_parameters": {
         "surface_depth": 1,
@@ -49,7 +46,7 @@
                 "minecraft:grass_block",
                 "minecraft:dirt"
               ],
-              "base_amount": 2
+              "base_amount": 3
             }
           },
           {
@@ -83,26 +80,30 @@
             }
           },
           {
-            "identifier": "minecraft:seagrass",
+            "identifier": "minecraft:sugarcane",
             "options": {
-              "base_amount": 24,
-              "random_amount": 24
+              "base_amount": 10,
+              "random_amount": 10
             }
           },
           {
-            "identifier": "minecraft:kelp",
+            "identifier": "minecraft:seagrass",
             "options": {
-              "base_amount": 0,
-              "random_amount": 50
+              "base_amount": 4,
+              "random_amount": 2
             }
+          },
+          {
+            "identifier": "minecraft:water_ice",
+            "options": {}
           }
         ]
       },
       "minecraft:tags": {
         "tags": [
           "monster",
-          "ocean",
-          "overworld"
+          "overworld",
+          "frozen_ocean"
         ]
       }
     }
