@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "hell",
+      "id": 8,
+      "custom": false,
+      "is_spawnable": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 2.0,
+        "downfall": 0.0
+      },
+      "minecraft:water_color": {
+        "color": [
+          144,
+          89,
+          87,
+          165
+        ]
+      },
+      "minecraft:generation_rules": {
+        "priority": 1,
+        "base_height": 0.0,
+        "height_variation": 0.0
+      },
+      "minecraft:tags": {
+        "tags": [
+          "nether",
+          "hell"
+        ]
+      }
+    }
+  }
+}

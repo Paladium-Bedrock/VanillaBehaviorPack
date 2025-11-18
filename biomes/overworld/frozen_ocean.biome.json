@@ -1,0 +1,111 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "frozen_ocean",
+      "id": 10,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.0,
+        "downfall": 0.5
+      },
+      "minecraft:water_color": {
+        "color": [
+          37,
+          112,
+          181,
+          165
+        ]
+      },
+      "minecraft:generation_rules": {
+        "priority": 1,
+        "base_height": -0.5,
+        "height_variation": 0.0,
+        "max_temperature": -0.4001,
+        "min_downfall": 0.2,
+        "max_downfall": -0.0001,
+        "min_ocean": -1,
+        "max_ocean": -0.1501
+      },
+      "minecraft:surface_parameters": {
+        "surface_depth": 1,
+        "surface_material": "minecraft:sand",
+        "ground_depth": 4,
+        "ground_material": "minecraft:gravel"
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:underwater_floor",
+            "options": {
+              "block": "minecraft:sand",
+              "probability": 1.0,
+              "min_radius": 2,
+              "max_radius": 4,
+              "height_radius": 2,
+              "replacement_blocks": [
+                "minecraft:grass_block",
+                "minecraft:dirt"
+              ],
+              "base_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:underwater_floor",
+            "options": {
+              "block": "minecraft:clay",
+              "probability": 1.0,
+              "min_radius": 1,
+              "max_radius": 2,
+              "height_radius": 1,
+              "replacement_blocks": [
+                "minecraft:dirt",
+                "minecraft:clay"
+              ],
+              "base_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:underwater_floor",
+            "options": {
+              "block": "minecraft:gravel",
+              "probability": 1.0,
+              "min_radius": 2,
+              "max_radius": 3,
+              "height_radius": 2,
+              "replacement_blocks": [
+                "minecraft:grass_block",
+                "minecraft:dirt"
+              ],
+              "base_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:seagrass",
+            "options": {
+              "base_amount": 24,
+              "random_amount": 24
+            }
+          },
+          {
+            "identifier": "minecraft:snow",
+            "options": {}
+          },
+          {
+            "identifier": "minecraft:water_ice",
+            "options": {}
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "monster",
+          "overworld",
+          "frozen_ocean"
+        ]
+      }
+    }
+  }
+}

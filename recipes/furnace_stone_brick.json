@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_stone_brick"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "experience": 0.15,
+    "input": {
+      "item": "minecraft:stone_bricks"
+    },
+    "output": {
+      "item": "minecraft:cracked_stone_bricks"
+    }
+  }
+}

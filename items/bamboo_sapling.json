@@ -3,7 +3,7 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:bamboo_sapling",
-      "creative_category": "construction",
+      "creative_category": "nature",
       "custom": false
     },
     "components": {

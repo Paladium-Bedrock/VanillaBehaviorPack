@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_deepslate"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "experience": 0.1,
+    "input": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "output": {
+      "item": "minecraft:deepslate"
+    }
+  }
+}

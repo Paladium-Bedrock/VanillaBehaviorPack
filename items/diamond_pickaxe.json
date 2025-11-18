@@ -6,6 +6,9 @@
       "custom": false
     },
     "components": {
+      "minecraft:max_stack_size": {
+        "value": 1
+      },
       "minecraft:durability": {
         "max_durability": 1562
       },

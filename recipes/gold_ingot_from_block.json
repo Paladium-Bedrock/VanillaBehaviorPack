@@ -5,8 +5,7 @@
       "identifier": "minecraft:gold_ingot_from_block"
     },
     "tags": [
-      "crafting_table",
-      "crafting"
+      "crafting_table"
     ],
     "ingredients": [
       {

@@ -1,0 +1,85 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "extreme_hills",
+      "id": 3,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.2,
+        "downfall": 0.3
+      },
+      "minecraft:water_color": {
+        "color": [
+          0,
+          123,
+          247,
+          165
+        ]
+      },
+      "minecraft:generation_rules": {
+        "priority": 1,
+        "base_height": 0.2,
+        "height_variation": 0.3,
+        "max_temperature": -0.0001,
+        "min_downfall": -0.5,
+        "max_downfall": -0.0001,
+        "min_ocean": -0.12,
+        "min_river": 0.0,
+        "max_river": 1.0,
+        "max_hills": 0.2
+      },
+      "minecraft:surface_parameters": {
+        "surface_depth": 1,
+        "surface_material": "minecraft:grass_block",
+        "ground_depth": 4,
+        "ground_material": "minecraft:dirt"
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:grass",
+            "options": {
+              "base_amount": 30
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:tall_grass"
+              ],
+              "base_amount": 5
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:dandelion",
+                "minecraft:poppy"
+              ],
+              "base_amount": 3
+            }
+          },
+          {
+            "identifier": "minecraft:pumpkin",
+            "options": {
+              "chance": 20
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "animal",
+          "extreme_hills",
+          "monster",
+          "overworld"
+        ]
+      }
+    }
+  }
+}

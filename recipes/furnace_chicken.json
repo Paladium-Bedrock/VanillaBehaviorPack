@@ -1,0 +1,21 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_chicken"
+    },
+    "tags": [
+      "furnace",
+      "smoker",
+      "campfire",
+      "soul_campfire"
+    ],
+    "experience": 0.15,
+    "input": {
+      "item": "minecraft:chicken"
+    },
+    "output": {
+      "item": "minecraft:cooked_chicken"
+    }
+  }
+}
