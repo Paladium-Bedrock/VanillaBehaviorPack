@@ -1,13 +1,13 @@
 {
-    "format_version": "1.0.0",
-    "minecraft:item": {
-      "description": {
-        "identifier": "minecraft:sugar_cane",
-        "creative_category": "nature",
-        "custom": false
-      },
-      "components": {
-        "minecraft:icon": {
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:sugar_cane",
+      "creative_category": "nature",
+      "custom": false
+    },
+    "components": {
+      "minecraft:icon": {
         "texture": "reeds"
       },
       "minecraft:display_name": {
@@ -18,7 +18,8 @@
         "use_on": [
           "minecraft:grass_block",
           "minecraft:dirt",
-          "minecraft:sand"
+          "minecraft:sand",
+          "minecraft:reeds"
         ]
       }
     }
