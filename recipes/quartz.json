@@ -1,0 +1,20 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:quartz"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:quartz_block"
+      }
+    ],
+    "result": {
+      "item": "minecraft:quartz",
+      "count": 4
+    }
+  }
+}

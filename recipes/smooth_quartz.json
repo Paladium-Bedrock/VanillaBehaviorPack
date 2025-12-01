@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:smooth_quartz"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "experience": 0.1,
+    "input": {
+      "item": "minecraft:quartz_block"
+    },
+    "output": {
+      "item": "minecraft:smooth_quartz"
+    }
+  }
+}

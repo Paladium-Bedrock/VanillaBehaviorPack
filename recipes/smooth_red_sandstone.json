@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:smooth_red_sandstone"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "experience": 0.1,
+    "input": {
+      "item": "minecraft:red_sandstone"
+    },
+    "output": {
+      "item": "minecraft:smooth_red_sandstone"
+    }
+  }
+}

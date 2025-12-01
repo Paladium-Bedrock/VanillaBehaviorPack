@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:quartz_bricks"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:quartz_block"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:quartz_bricks",
+      "count": 4
+    }
+  }
+}
