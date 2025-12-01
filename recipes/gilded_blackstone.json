@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:gilded_blackstone"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " B ",
+      "BGB",
+      " B "
+    ],
+    "key": {
+      "B": [
+        {
+          "item": "minecraft:blackstone"
+        }
+      ],
+      "G": [
+        {
+          "item": "minecraft:gold_nugget"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:gilded_blackstone"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:smooth_quartz_slab"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:smooth_quartz"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:smooth_quartz_slab",
+      "count": 6
+    }
+  }
+}
