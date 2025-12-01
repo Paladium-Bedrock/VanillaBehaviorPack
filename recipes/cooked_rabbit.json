@@ -1,0 +1,21 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:cooked_rabbit"
+    },
+    "tags": [
+      "furnace",
+      "smoker",
+      "campfire",
+      "soul_campfire"
+    ],
+    "experience": 0.35,
+    "input": {
+      "item": "minecraft:rabbit"
+    },
+    "output": {
+      "item": "minecraft:cooked_rabbit"
+    }
+  }
+}
