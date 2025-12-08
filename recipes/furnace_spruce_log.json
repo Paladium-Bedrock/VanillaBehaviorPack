@@ -10,8 +10,11 @@
       "campfire",
       "soul_campfire"
     ],
-    "input": "minecraft:spruce_log",
-    "output": "minecraft:charcoal"
+    "input": {
+      "item": "minecraft:spruce_log"
+    },
+    "output": {
+      "item": "minecraft:charcoal"
+    }
   }
 }
-

@@ -8,8 +8,11 @@
       "furnace",
       "blast_furnace"
     ],
-    "input": "minecraft:diamond_ore",
-    "output": "minecraft:diamond"
+    "input": {
+      "item": "minecraft:diamond_ore"
+    },
+    "output": {
+      "item": "minecraft:diamond"
+    }
   }
 }
-

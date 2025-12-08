@@ -10,8 +10,11 @@
       "campfire",
       "soul_campfire"
     ],
-    "input": "minecraft:pale_oak_log",
-    "output": "minecraft:charcoal"
+    "input": {
+      "item": "minecraft:pale_oak_log"
+    },
+    "output": {
+      "item": "minecraft:charcoal"
+    }
   }
 }
-

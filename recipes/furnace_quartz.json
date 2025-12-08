@@ -8,8 +8,11 @@
       "furnace",
       "blast_furnace"
     ],
-    "input": "minecraft:quartz_ore",
-    "output": "minecraft:quartz"
+    "input": {
+      "item": "minecraft:quartz_ore"
+    },
+    "output": {
+      "item": "minecraft:quartz"
+    }
   }
 }
-
