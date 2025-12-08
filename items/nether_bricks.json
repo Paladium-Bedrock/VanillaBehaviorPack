@@ -2,13 +2,13 @@
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:nether_brick",
+      "identifier": "minecraft:nether_bricks",
       "creative_category": "construction",
       "custom": false
     },
     "components": {
       "minecraft:block": {
-        "block": "minecraft:nether_brick"
+        "block": "minecraft:nether_bricks"
       }
     }
   }
