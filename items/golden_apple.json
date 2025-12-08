@@ -1,0 +1,27 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:golden_apple",
+      "custom": false
+    },
+    "components": {
+      "minecraft:food": {
+        "nutrition": 4,
+        "saturation": 9.6,
+        "effects": [
+          {
+            "name": "regeneration",
+            "duration": 1,
+            "amplifier": 2
+          },
+          {
+            "name": "absorption",
+            "duration": 400,
+            "amplifier": 1
+          }
+        ]
+      }
+    }
+  }
+}
