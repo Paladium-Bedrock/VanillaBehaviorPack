@@ -1,17 +1,24 @@
 {
   "format_version": "1.0.0",
-  "minecraft:recipe_furnace": {
+  "minecraft:recipe_shaped": {
     "description": {
       "identifier": "minecraft:nether_brick"
     },
     "tags": [
-      "furnace"
+      "crafting_table"
     ],
-    "experience": 0.1,
-    "input": {
-      "item": "minecraft:netherrack"
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:netherbrick"
+        }
+      ]
     },
-    "output": {
+    "result": {
       "item": "minecraft:nether_brick"
     }
   }
