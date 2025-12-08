@@ -2,13 +2,13 @@
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:nether_bricks",
+      "identifier": "minecraft:soul_torch",
       "creative_category": "construction",
       "custom": false
     },
     "components": {
       "minecraft:block": {
-        "block": "minecraft:nether_bricks"
+        "block": "minecraft:soul_torch"
       }
     }
   }
