@@ -10,8 +10,11 @@
       "campfire",
       "soul_campfire"
     ],
-    "input": "minecraft:rabbit",
-    "output": "minecraft:cooked_rabbit"
+    "input": {
+      "item": "minecraft:rabbit"
+    },
+    "output": {
+      "item": "minecraft:cooked_rabbit"
+    }
   }
 }
-

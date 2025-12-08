@@ -8,8 +8,11 @@
       "furnace",
       "blast_furnace"
     ],
-    "input": "minecraft:redstone_ore",
-    "output": "minecraft:redstone"
+    "input": {
+      "item": "minecraft:redstone_ore"
+    },
+    "output": {
+      "item": "minecraft:redstone"
+    }
   }
 }
-

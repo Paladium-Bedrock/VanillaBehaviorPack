@@ -10,8 +10,11 @@
       "campfire",
       "soul_campfire"
     ],
-    "input": "minecraft:salmon",
-    "output": "minecraft:cooked_salmon"
+    "input": {
+      "item": "minecraft:salmon"
+    },
+    "output": {
+      "item": "minecraft:cooked_salmon"
+    }
   }
 }
-

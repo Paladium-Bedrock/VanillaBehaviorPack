@@ -8,8 +8,11 @@
       "furnace",
       "blast_furnace"
     ],
-    "input": "minecraft:coal_ore",
-    "output": "minecraft:coal"
+    "input": {
+      "item": "minecraft:coal_ore"
+    },
+    "output": {
+      "item": "minecraft:coal"
+    }
   }
 }
-

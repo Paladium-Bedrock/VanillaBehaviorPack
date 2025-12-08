@@ -10,8 +10,11 @@
       "campfire",
       "soul_campfire"
     ],
-    "input": "minecraft:potato",
-    "output": "minecraft:baked_potato"
+    "input": {
+      "item": "minecraft:potato"
+    },
+    "output": {
+      "item": "minecraft:baked_potato"
+    }
   }
 }
-

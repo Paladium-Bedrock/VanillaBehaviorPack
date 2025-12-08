@@ -2,16 +2,16 @@
   "format_version": "1.0.0",
   "minecraft:recipe_furnace": {
     "description": {
-      "identifier": "minecraft:furnace_brick"
+      "identifier": "minecraft:furnace_netherbrick"
     },
     "tags": [
       "furnace"
     ],
     "input": {
-      "item": "minecraft:clay_ball"
+      "item": "minecraft:netherrack"
     },
     "output": {
-      "item": "minecraft:brick"
+      "item": "minecraft:netherbrick"
     }
   }
 }

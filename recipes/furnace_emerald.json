@@ -8,8 +8,11 @@
       "furnace",
       "blast_furnace"
     ],
-    "input": "minecraft:emerald_ore",
-    "output": "minecraft:emerald"
+    "input": {
+      "item": "minecraft:emerald_ore"
+    },
+    "output": {
+      "item": "minecraft:emerald"
+    }
   }
 }
-

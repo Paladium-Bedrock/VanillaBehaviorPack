@@ -10,8 +10,11 @@
       "campfire",
       "soul_campfire"
     ],
-    "input": "minecraft:mangrove_log",
-    "output": "minecraft:charcoal"
+    "input": {
+      "item": "minecraft:mangrove_log"
+    },
+    "output": {
+      "item": "minecraft:charcoal"
+    }
   }
 }
-

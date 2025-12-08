@@ -14,7 +14,7 @@
     "key": {
       "#": [
         {
-          "item": "minecraft:nether_bricks"
+          "item": "minecraft:netherbrick"
         }
       ],
       "B": [
@@ -29,4 +29,3 @@
     }
   }
 }
-

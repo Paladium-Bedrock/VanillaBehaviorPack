@@ -8,8 +8,11 @@
       "furnace",
       "blast_furnace"
     ],
-    "input": "minecraft:lapis_ore",
-    "output": "minecraft:lapis_lazuli"
+    "input": {
+      "item": "minecraft:lapis_ore"
+    },
+    "output": {
+      "item": "minecraft:lapis_lazuli"
+    }
   }
 }
-
