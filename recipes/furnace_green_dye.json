@@ -7,8 +7,11 @@
     "tags": [
       "furnace"
     ],
-    "input": "minecraft:cactus",
-    "output": "minecraft:green_dye"
+    "input": {
+      "item": "minecraft:cactus"
+    },
+    "output": {
+      "item": "minecraft:green_dye"
+    }
   }
 }
-
