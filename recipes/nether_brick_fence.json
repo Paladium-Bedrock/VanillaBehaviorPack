@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:nether_brick_fence"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#B#",
+      "#B#"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:nether_bricks"
+        }
+      ],
+      "B": [
+        {
+          "item": "minecraft:nether_brick"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:nether_brick_fence",
+      "count": 6
+    }
+  }
+}
+

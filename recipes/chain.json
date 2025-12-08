@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:chain"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "N",
+      "#",
+      "N"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:iron_ingot"
+        }
+      ],
+      "N": [
+        {
+          "item": "minecraft:iron_nugget"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:chain",
+      "count": 1
+    }
+  }
+}
+

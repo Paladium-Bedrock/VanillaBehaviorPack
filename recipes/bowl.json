@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:bowl"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "# #",
+      " # "
+    ],
+    "key": {
+      "#": [
+        {
+          "tag": "minecraft:planks"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:bowl",
+      "count": 4
+    }
+  }
+}
+

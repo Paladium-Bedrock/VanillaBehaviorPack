@@ -1,0 +1,28 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:composter"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "# #",
+      "# #",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "tag": "minecraft:wooden_slabs"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:composter",
+      "count": 1
+    }
+  }
+}
+

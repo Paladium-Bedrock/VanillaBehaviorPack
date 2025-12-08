@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:pale_oak_trapdoor"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:pale_oak_planks"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:pale_oak_trapdoor",
+      "count": 2
+    }
+  }
+}
+

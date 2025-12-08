@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:fletching_table"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "FF",
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": [
+        {
+          "tag": "minecraft:planks"
+        }
+      ],
+      "F": [
+        {
+          "item": "minecraft:flint"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:fletching_table",
+      "count": 1
+    }
+  }
+}
+

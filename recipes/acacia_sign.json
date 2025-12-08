@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:acacia_sign"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:acacia_planks"
+        }
+      ],
+      "|": [
+        {
+          "item": "minecraft:stick"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:acacia_sign",
+      "count": 3
+    }
+  }
+}
+

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:raw_gold_from_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:raw_gold_block"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:raw_gold",
+      "count": 9
+    }
+  }
+}
+

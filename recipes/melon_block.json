@@ -1,0 +1,28 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:melon_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:melon_slice"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:melon_block",
+      "count": 1
+    }
+  }
+}
+

@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:observer"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "RRQ",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:cobblestone"
+        }
+      ],
+      "R": [
+        {
+          "item": "minecraft:redstone"
+        }
+      ],
+      "Q": [
+        {
+          "item": "minecraft:quartz"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:observer",
+      "count": 1
+    }
+  }
+}
+

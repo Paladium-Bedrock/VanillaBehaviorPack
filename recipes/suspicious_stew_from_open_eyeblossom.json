@@ -1,0 +1,29 @@
+﻿{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:suspicious_stew_from_open_eyeblossom"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:brown_mushroom"
+      },
+      {
+        "item": "minecraft:red_mushroom"
+      },
+      {
+        "item": "minecraft:bowl"
+      },
+      {
+        "item": "minecraft:open_eyeblossom"
+      }
+    ],
+    "result": {
+      "item": "minecraft:suspicious_stew",
+      "data": 11
+    }
+  }
+}

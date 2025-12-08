@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:smithing_table"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "##",
+      "II",
+      "II"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:iron_ingot"
+        }
+      ],
+      "I": [
+        {
+          "tag": "minecraft:planks"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:smithing_table",
+      "count": 1
+    }
+  }
+}
+

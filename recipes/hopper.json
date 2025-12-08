@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:hopper"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "# #",
+      "#C#",
+      " # "
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:iron_ingot"
+        }
+      ],
+      "C": [
+        {
+          "item": "minecraft:chest"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:hopper",
+      "count": 1
+    }
+  }
+}
+

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:beehive"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "HHH",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "tag": "minecraft:planks"
+        }
+      ],
+      "H": [
+        {
+          "item": "minecraft:honeycomb"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:beehive",
+      "count": 1
+    }
+  }
+}
+

@@ -1,0 +1,17 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_spruce_log"
+    },
+    "tags": [
+      "furnace",
+      "smoker",
+      "campfire",
+      "soul_campfire"
+    ],
+    "input": "minecraft:spruce_log",
+    "output": "minecraft:charcoal"
+  }
+}
+

@@ -1,0 +1,28 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:dried_kelp_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:dried_kelp"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:dried_kelp_block",
+      "count": 1
+    }
+  }
+}
+

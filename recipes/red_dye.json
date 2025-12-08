@@ -1,0 +1,21 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:red_dye"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:poppy"
+      }
+    ],
+    "result": {
+      "item": "minecraft:red_dye",
+      "count": 1
+    }
+  }
+}
+
