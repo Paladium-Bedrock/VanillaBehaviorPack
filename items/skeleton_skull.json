@@ -9,6 +9,11 @@
     "components": {
       "minecraft:block": {
         "block": "minecraft:skeleton_skull"
+      },
+      "minecraft:wearable": {
+        "slot": "slot.armor.head",
+        "protection": 0,
+        "equip_sound": "armor.equip_leather"
       }
     }
   }

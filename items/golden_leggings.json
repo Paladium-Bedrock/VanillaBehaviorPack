@@ -1,0 +1,43 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:golden_leggings",
+      "custom": false
+    },
+    "components": {
+      "minecraft:max_stack_size": {
+        "value": 1
+      },
+      "minecraft:durability": {
+        "max_durability": 106
+      },
+      "minecraft:wearable": {
+        "slot": "slot.armor.legs",
+        "protection": 3,
+        "equip_sound": "armor.equip_gold"
+      },
+      "minecraft:repairable":{
+        "repair_items": [
+          {
+            "items": [
+              "minecraft:gold_ingot"
+            ],
+            "repair_amount": "math.min(q.remaining_durability + c.other->q.remaining_durability + math.floor(q.max_durability / 20), c.other->q.max_durability)"
+          }
+        ]
+      },
+      "minecraft:enchantable": {
+        "slot": "armor_legs",
+        "value": 9
+      },
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:gold_tier",
+          "minecraft:is_armor",
+          "minecraft:trimmable_armors"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_potato"
+    },
+    "tags": [
+      "furnace",
+      "smoker",
+      "campfire",
+      "soul_campfire"
+    ],
+    "input": {
+      "item": "minecraft:potato"
+    },
+    "output": {
+      "item": "minecraft:baked_potato"
+    }
+  }
+}

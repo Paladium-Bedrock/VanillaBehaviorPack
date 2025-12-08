@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:acacia_hanging_sign"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "| |",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:stripped_acacia_log"
+        }
+      ],
+      "|": [
+        {
+          "item": "minecraft:iron_chain"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:acacia_hanging_sign",
+      "count": 6
+    }
+  }
+}
+

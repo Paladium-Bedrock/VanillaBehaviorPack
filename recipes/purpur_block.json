@@ -2,7 +2,7 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:nether_brick"
+      "identifier": "minecraft:purpur_block"
     },
     "tags": [
       "crafting_table"
@@ -14,12 +14,14 @@
     "key": {
       "#": [
         {
-          "item": "minecraft:netherbrick"
+          "item": "minecraft:popped_chorus_fruit"
         }
       ]
     },
     "result": {
-      "item": "minecraft:nether_brick"
+      "item": "minecraft:purpur_block",
+      "count": 4
     }
   }
 }
+

@@ -1,0 +1,20 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_rabbit"
+    },
+    "tags": [
+      "furnace",
+      "smoker",
+      "campfire",
+      "soul_campfire"
+    ],
+    "input": {
+      "item": "minecraft:rabbit"
+    },
+    "output": {
+      "item": "minecraft:cooked_rabbit"
+    }
+  }
+}

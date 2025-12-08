@@ -2,24 +2,25 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:nether_brick"
+      "identifier": "minecraft:stone_pressure_plate"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
       "##"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:netherbrick"
+          "item": "minecraft:stone"
         }
       ]
     },
     "result": {
-      "item": "minecraft:nether_brick"
+      "item": "minecraft:stone_pressure_plate",
+      "count": 1
     }
   }
 }
+

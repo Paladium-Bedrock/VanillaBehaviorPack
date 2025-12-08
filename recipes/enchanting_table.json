@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:enchanting_table"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " B ",
+      "DOD",
+      "OOO"
+    ],
+    "key": {
+      "B": [
+        {
+          "item": "minecraft:book"
+        }
+      ],
+      "D": [
+        {
+          "item": "minecraft:diamond"
+        }
+      ],
+      "O": [
+        {
+          "item": "minecraft:obsidian"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:enchanting_table",
+      "count": 1
+    }
+  }
+}
+

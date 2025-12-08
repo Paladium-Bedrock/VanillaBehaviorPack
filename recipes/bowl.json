@@ -2,24 +2,26 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:nether_brick"
+      "identifier": "minecraft:bowl"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
-      "##"
+      "# #",
+      " # "
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:netherbrick"
+          "tag": "minecraft:planks"
         }
       ]
     },
     "result": {
-      "item": "minecraft:nether_brick"
+      "item": "minecraft:bowl",
+      "count": 4
     }
   }
 }
+

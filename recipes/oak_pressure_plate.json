@@ -2,24 +2,25 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:nether_brick"
+      "identifier": "minecraft:oak_pressure_plate"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
       "##"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:netherbrick"
+          "item": "minecraft:oak_planks"
         }
       ]
     },
     "result": {
-      "item": "minecraft:nether_brick"
+      "item": "minecraft:wooden_pressure_plate",
+      "count": 1
     }
   }
 }
+
