@@ -2,16 +2,14 @@
   "format_version": "1.0.0",
   "minecraft:recipe_furnace": {
     "description": {
-      "identifier": "minecraft:furnace_mangrove_log"
+      "identifier": "minecraft:furnace_charcoal"
     },
     "tags": [
-      "furnace",
-      "smoker",
-      "campfire",
-      "soul_campfire"
+      "furnace"
     ],
+    "experience": 0.15,
     "input": {
-      "item": "minecraft:mangrove_log"
+      "tag": "minecraft:logs"
     },
     "output": {
       "item": "minecraft:charcoal"
