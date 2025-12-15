@@ -3,13 +3,16 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:beetroot_seeds",
+      "creative_category": "nature",
       "custom": false
     },
-    "minecraft:block_placer": {
-      "block": "minecraft:beetroot",
-      "use_on": [
-        "minecraft:farmland"
-      ]
+    "components": {
+      "minecraft:block_placer": {
+        "block": "minecraft:beetroot",
+        "use_on": [
+          "minecraft:farmland"
+        ]
+      }
     }
   }
 }
