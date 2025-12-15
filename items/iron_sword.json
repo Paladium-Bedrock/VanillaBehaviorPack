@@ -35,7 +35,6 @@
       "minecraft:tags": {
         "tags": [
           "minecraft:iron_tier",
-          "minecraft:digger",
           "minecraft:is_sword",
           "minecraft:is_tool"
         ]
