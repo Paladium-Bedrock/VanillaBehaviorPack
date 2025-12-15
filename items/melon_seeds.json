@@ -2,13 +2,13 @@
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:pumpkin_seeds",
+      "identifier": "minecraft:melon_seeds",
       "creative_category": "nature",
       "custom": false
     },
     "components": {
       "minecraft:block_placer": {
-        "block": "minecraft:pumpkin_stem",
+        "block": "minecraft:melon_stem",
         "use_on": [
           "minecraft:farmland"
         ]
