@@ -7,6 +7,9 @@
       "custom": false
     },
     "components": {
+      "minecraft:max_stack_size": {
+        "value": 16
+      },
       "minecraft:projectile": {
         "projectile_entity": "minecraft:ender_pearl"
       }
