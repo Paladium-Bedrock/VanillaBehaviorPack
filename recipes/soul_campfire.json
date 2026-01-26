@@ -1,0 +1,41 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:soul_campfire"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " S ",
+      "S#S",
+      "LLL"
+    ],
+    "key": {
+      "S": [
+        {
+          "item": "minecraft:stick"
+        }
+      ],
+      "#": [
+        {
+          "item": "minecraft:soul_soil"
+        },
+        {
+          "item": "minecraft:soul_sand"
+        }
+      ],
+      "L": [
+        {
+          "tag": "minecraft:logs"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:soul_campfire",
+      "count": 1
+    }
+  }
+}
+

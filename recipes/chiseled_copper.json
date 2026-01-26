@@ -2,24 +2,26 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:nether_brick"
+      "identifier": "minecraft:chiseled_copper"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
-      "##"
+      "#",
+      "#"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:netherbrick"
+          "item": "minecraft:cut_copper_slab"
         }
       ]
     },
     "result": {
-      "item": "minecraft:nether_brick"
+      "item": "minecraft:chiseled_copper",
+      "count": 1
     }
   }
 }
+

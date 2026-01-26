@@ -2,24 +2,27 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:nether_brick"
+      "identifier": "minecraft:cut_copper_stairs"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
-      "##"
+      "#  ",
+      "## ",
+      "###"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:netherbrick"
+          "item": "minecraft:cut_copper"
         }
       ]
     },
     "result": {
-      "item": "minecraft:nether_brick"
+      "item": "minecraft:cut_copper_stairs",
+      "count": 4
     }
   }
 }
+

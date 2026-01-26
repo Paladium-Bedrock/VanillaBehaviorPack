@@ -2,24 +2,27 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:nether_brick"
+      "identifier": "minecraft:copper_door"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
       "##",
+      "##",
       "##"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:netherbrick"
+          "item": "minecraft:copper_ingot"
         }
       ]
     },
     "result": {
-      "item": "minecraft:nether_brick"
+      "item": "minecraft:copper_door",
+      "count": 3
     }
   }
 }
+

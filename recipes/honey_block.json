@@ -2,7 +2,7 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:nether_brick"
+      "identifier": "minecraft:honey_block"
     },
     "tags": [
       "crafting_table"
@@ -14,12 +14,14 @@
     "key": {
       "#": [
         {
-          "item": "minecraft:netherbrick"
+          "item": "minecraft:honey_bottle"
         }
       ]
     },
     "result": {
-      "item": "minecraft:nether_brick"
+      "item": "minecraft:honey_block",
+      "count": 1
     }
   }
 }
+

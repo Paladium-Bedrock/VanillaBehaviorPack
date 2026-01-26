@@ -1,0 +1,20 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_jungle_log"
+    },
+    "tags": [
+      "furnace",
+      "smoker",
+      "campfire",
+      "soul_campfire"
+    ],
+    "input": {
+      "item": "minecraft:jungle_log"
+    },
+    "output": {
+      "item": "minecraft:charcoal"
+    }
+  }
+}

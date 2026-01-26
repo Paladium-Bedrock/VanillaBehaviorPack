@@ -2,24 +2,25 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:nether_brick"
+      "identifier": "minecraft:raw_iron_from_block"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
-      "##"
+      "#"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:netherbrick"
+          "item": "minecraft:raw_iron_block"
         }
       ]
     },
     "result": {
-      "item": "minecraft:nether_brick"
+      "item": "minecraft:raw_iron",
+      "count": 9
     }
   }
 }
+

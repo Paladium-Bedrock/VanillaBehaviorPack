@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:golden_rail"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "# #",
+      "#S#",
+      "#R#"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:gold_ingot"
+        }
+      ],
+      "S": [
+        {
+          "item": "minecraft:stick"
+        }
+      ],
+      "R": [
+        {
+          "item": "minecraft:redstone"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:golden_rail",
+      "count": 6
+    }
+  }
+}
+

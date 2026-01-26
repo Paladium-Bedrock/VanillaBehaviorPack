@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_emerald"
+    },
+    "tags": [
+      "furnace",
+      "blast_furnace"
+    ],
+    "input": {
+      "item": "minecraft:emerald_ore"
+    },
+    "output": {
+      "item": "minecraft:emerald"
+    }
+  }
+}

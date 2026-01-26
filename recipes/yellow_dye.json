@@ -1,0 +1,21 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:yellow_dye"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:dandelion"
+      }
+    ],
+    "result": {
+      "item": "minecraft:yellow_dye",
+      "count": 1
+    }
+  }
+}
+

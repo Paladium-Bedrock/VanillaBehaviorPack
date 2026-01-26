@@ -2,24 +2,32 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:nether_brick"
+      "identifier": "minecraft:smoker"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
-      "##"
+      " # ",
+      "#F#",
+      " # "
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:netherbrick"
+          "tag": "minecraft:logs"
+        }
+      ],
+      "F": [
+        {
+          "item": "minecraft:furnace"
         }
       ]
     },
     "result": {
-      "item": "minecraft:nether_brick"
+      "item": "minecraft:smoker",
+      "count": 1
     }
   }
 }
+

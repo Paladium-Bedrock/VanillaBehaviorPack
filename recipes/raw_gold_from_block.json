@@ -2,24 +2,25 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:nether_brick"
+      "identifier": "minecraft:raw_gold_from_block"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "##",
-      "##"
+      "#"
     ],
     "key": {
       "#": [
         {
-          "item": "minecraft:netherbrick"
+          "item": "minecraft:raw_gold_block"
         }
       ]
     },
     "result": {
-      "item": "minecraft:nether_brick"
+      "item": "minecraft:raw_gold",
+      "count": 9
     }
   }
 }
+
