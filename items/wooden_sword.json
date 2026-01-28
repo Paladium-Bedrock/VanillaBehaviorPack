@@ -24,7 +24,6 @@
       "minecraft:tags": {
         "tags": [
           "minecraft:wooden_tier",
-          "minecraft:digger",
           "minecraft:is_sword",
           "minecraft:is_tool"
         ]
