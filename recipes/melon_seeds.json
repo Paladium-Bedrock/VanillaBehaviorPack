@@ -2,26 +2,23 @@
   "format_version": "1.0.0",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:melon_block"
+      "identifier": "minecraft:melon_seeds"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "###",
-      "###",
-      "###"
+      "M"
     ],
     "key": {
-      "#": [
+      "M": [
         {
           "item": "minecraft:melon_slice"
         }
       ]
     },
     "result": {
-      "item": "minecraft:melon_block"
+      "item": "minecraft:melon_seeds"
     }
   }
 }
-
