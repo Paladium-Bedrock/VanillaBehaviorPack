@@ -2,7 +2,7 @@
   "format_version": "1.0.0",
   "minecraft:recipe_furnace": {
     "description": {
-      "identifier": "minecraft:furnace_mutton_raw"
+      "identifier": "minecraft:furnace_mutton"
     },
     "tags": [
       "furnace",
