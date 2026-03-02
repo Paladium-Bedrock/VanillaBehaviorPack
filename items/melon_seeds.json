@@ -1,0 +1,17 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:melon_seeds",
+      "custom": false
+    },
+    "components": {
+      "minecraft:block_placer": {
+        "block": "minecraft:melon_stem",
+        "use_on": [
+          "minecraft:farmland"
+        ]
+      }
+    }
+  }
+}
