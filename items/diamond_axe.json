@@ -25,7 +25,7 @@
             "items": [
               "minecraft:diamond"
             ],
-            "repair_amount": "math.min(q.remaining_durability + c.other->q.remaining_durability + math.floor(q.max_durability / 20), c.other->q.max_durability)"
+            "repair_amount": "c.other->q.remaining_durability + (q.max_durability * 0.25)"
           }
         ]
       },
