@@ -4,7 +4,8 @@
     "description": {
       "identifier": "minecraft:cooked_beef",
       "creative_category": "nature",
-      "custom": false
+      "custom": false,
+      "legacy": true
     },
     "components": {
       "minecraft:food": {

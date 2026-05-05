@@ -3,12 +3,17 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:enchanted_golden_apple",
-      "custom": false
+      "custom": false,
+      "legacy": true
     },
     "components": {
+      "minecraft:icon": {
+        "texture": "enchanted_golden_apple"
+      },
       "minecraft:food": {
         "nutrition": 4,
         "saturation": 2.4,
+        "can_always_eat": true,
         "effects": [
           {
             "name": "regeneration",

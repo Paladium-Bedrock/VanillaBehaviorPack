@@ -4,7 +4,8 @@
     "description": {
       "identifier": "minecraft:melon_slice",
       "creative_category": "nature",
-      "custom": false
+      "custom": false,
+      "legacy": true
     },
     "components": {
       "minecraft:food": {
