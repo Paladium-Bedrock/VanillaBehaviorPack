@@ -3,7 +3,8 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:carrot",
-      "custom": false
+      "custom": false,
+      "legacy": true
     },
     "components": {
       "minecraft:block_placer": {

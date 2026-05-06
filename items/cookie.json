@@ -3,7 +3,8 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:cookie",
-      "custom": false
+      "custom": false,
+      "legacy": true
     },
     "components": {
       "minecraft:food": {

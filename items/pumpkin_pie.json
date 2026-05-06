@@ -3,7 +3,8 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:pumpkin_pie",
-      "custom": false
+      "custom": false,
+      "legacy": true
     },
     "components": {
       "minecraft:food": {
