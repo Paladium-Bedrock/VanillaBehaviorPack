@@ -1,0 +1,25 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:amethyst_block_to_shard"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A"
+    ],
+    "key": {
+      "A": [
+        {
+          "item": "minecraft:amethyst_block"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:amethyst_shard",
+      "count": 4
+    }
+  }
+}
