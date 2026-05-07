@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_kelp"
+    },
+    "tags": [
+      "furnace",
+      "smoker"
+    ],
+    "input": {
+      "item": "minecraft:kelp"
+    },
+    "output": {
+      "item": "minecraft:dried_kelp"
+    }
+  }
+}
