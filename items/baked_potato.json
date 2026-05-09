@@ -3,8 +3,7 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:baked_potato",
-      "custom": false,
-      "legacy": true
+      "custom": false
     },
     "components": {
       "minecraft:food": {
