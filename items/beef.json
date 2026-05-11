@@ -4,8 +4,7 @@
     "description": {
       "identifier": "minecraft:beef",
       "creative_category": "nature",
-      "custom": false,
-      "legacy": true
+      "custom": false
     },
     "components": {
       "minecraft:food": {

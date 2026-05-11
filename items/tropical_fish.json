@@ -3,8 +3,7 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:tropical_fish",
-      "custom": false,
-      "legacy": true
+      "custom": false
     },
     "components": {
       "minecraft:food": {

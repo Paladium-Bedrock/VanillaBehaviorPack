@@ -916,7 +916,7 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:blue_orchruntime_id",
+        "id": "minecraft:blue_orchid",
         "runtime_id": -830,
         "version": 2,
         "componentBased": false
@@ -1402,7 +1402,7 @@
         "componentBased": true
       },
       {
-        "id": "minecraft:cave_spruntime_ider_spawn_egg",
+        "id": "minecraft:cave_spider_spawn_egg",
         "runtime_id": 490,
         "version": 2,
         "componentBased": false
@@ -2488,7 +2488,7 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:crying_obsruntime_idian",
+        "id": "minecraft:crying_obsidian",
         "runtime_id": -289,
         "version": 2,
         "componentBased": false
@@ -4378,7 +4378,7 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:fermented_spruntime_ider_eye",
+        "id": "minecraft:fermented_spider_eye",
         "runtime_id": 461,
         "version": 2,
         "componentBased": false
@@ -4642,7 +4642,7 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:glow_squruntime_id_spawn_egg",
+        "id": "minecraft:glow_squid_spawn_egg",
         "runtime_id": 538,
         "version": 2,
         "componentBased": false
@@ -4654,7 +4654,7 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:glowingobsruntime_idian",
+        "id": "minecraft:glowingobsidian",
         "runtime_id": 246,
         "version": 2,
         "componentBased": false
@@ -7048,7 +7048,7 @@
         "componentBased": true
       },
       {
-        "id": "minecraft:music_disc_othersruntime_ide",
+        "id": "minecraft:music_disc_otherside",
         "runtime_id": 668,
         "version": 2,
         "componentBased": true
@@ -7114,7 +7114,7 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:id_tag",
+        "id": "minecraft:name_tag",
         "runtime_id": 587,
         "version": 2,
         "componentBased": false
@@ -7432,7 +7432,7 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:obsruntime_idian",
+        "id": "minecraft:obsidian",
         "runtime_id": 49,
         "version": 2,
         "componentBased": false
@@ -7564,97 +7564,97 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_chiseled_copper",
+        "id": "minecraft:oxidized_chiseled_copper",
         "runtime_id": -763,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_copper",
+        "id": "minecraft:oxidized_copper",
         "runtime_id": -343,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_copper_bars",
+        "id": "minecraft:oxidized_copper_bars",
         "runtime_id": -1069,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_copper_bulb",
+        "id": "minecraft:oxidized_copper_bulb",
         "runtime_id": -779,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_copper_chain",
+        "id": "minecraft:oxidized_copper_chain",
         "runtime_id": -1077,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_copper_chest",
+        "id": "minecraft:oxidized_copper_chest",
         "runtime_id": -1034,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_copper_door",
+        "id": "minecraft:oxidized_copper_door",
         "runtime_id": -787,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_copper_golem_statue",
+        "id": "minecraft:oxidized_copper_golem_statue",
         "runtime_id": -1042,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_copper_grate",
+        "id": "minecraft:oxidized_copper_grate",
         "runtime_id": -771,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_copper_lantern",
+        "id": "minecraft:oxidized_copper_lantern",
         "runtime_id": -1086,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_copper_trapdoor",
+        "id": "minecraft:oxidized_copper_trapdoor",
         "runtime_id": -795,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_cut_copper",
+        "id": "minecraft:oxidized_cut_copper",
         "runtime_id": -350,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_cut_copper_slab",
+        "id": "minecraft:oxidized_cut_copper_slab",
         "runtime_id": -364,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_cut_copper_stairs",
+        "id": "minecraft:oxidized_cut_copper_stairs",
         "runtime_id": -357,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_double_cut_copper_slab",
+        "id": "minecraft:oxidized_double_cut_copper_slab",
         "runtime_id": -371,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:oxruntime_idized_lightning_rod",
+        "id": "minecraft:oxidized_lightning_rod",
         "runtime_id": -1061,
         "version": 2,
         "componentBased": false
@@ -8716,7 +8716,7 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:rabbit_hruntime_ide",
+        "id": "minecraft:rabbit_hide",
         "runtime_id": 568,
         "version": 2,
         "componentBased": false
@@ -8746,7 +8746,7 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:rapruntime_id_fertilizer",
+        "id": "minecraft:rapid_fertilizer",
         "runtime_id": 640,
         "version": 2,
         "componentBased": false
@@ -9598,13 +9598,13 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:spruntime_ider_eye",
+        "id": "minecraft:spider_eye",
         "runtime_id": 307,
         "version": 0,
         "componentBased": false
       },
       {
-        "id": "minecraft:spruntime_ider_spawn_egg",
+        "id": "minecraft:spider_spawn_egg",
         "runtime_id": 479,
         "version": 2,
         "componentBased": false
@@ -9766,7 +9766,7 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:squruntime_id_spawn_egg",
+        "id": "minecraft:squid_spawn_egg",
         "runtime_id": 483,
         "version": 2,
         "componentBased": false
@@ -9958,7 +9958,7 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:strruntime_ider_spawn_egg",
+        "id": "minecraft:strider_spawn_egg",
         "runtime_id": 529,
         "version": 2,
         "componentBased": false
@@ -10114,7 +10114,7 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:structure_voruntime_id",
+        "id": "minecraft:structure_void",
         "runtime_id": 217,
         "version": 2,
         "componentBased": false
@@ -10276,7 +10276,7 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:truntime_ide_armor_trim_smithing_template",
+        "id": "minecraft:tide_armor_trim_smithing_template",
         "runtime_id": 731,
         "version": 2,
         "componentBased": false
@@ -10360,7 +10360,7 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:trruntime_ident",
+        "id": "minecraft:trident",
         "runtime_id": 585,
         "version": 2,
         "componentBased": false
@@ -10966,97 +10966,97 @@
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_chiseled_copper",
+        "id": "minecraft:waxed_oxidized_chiseled_copper",
         "runtime_id": -766,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_copper",
+        "id": "minecraft:waxed_oxidized_copper",
         "runtime_id": -446,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_copper_bars",
+        "id": "minecraft:waxed_oxidized_copper_bars",
         "runtime_id": -1073,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_copper_bulb",
+        "id": "minecraft:waxed_oxidized_copper_bulb",
         "runtime_id": -783,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_copper_chain",
+        "id": "minecraft:waxed_oxidized_copper_chain",
         "runtime_id": -1081,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_copper_chest",
+        "id": "minecraft:waxed_oxidized_copper_chest",
         "runtime_id": -1038,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_copper_door",
+        "id": "minecraft:waxed_oxidized_copper_door",
         "runtime_id": -791,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_copper_golem_statue",
+        "id": "minecraft:waxed_oxidized_copper_golem_statue",
         "runtime_id": -1046,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_copper_grate",
+        "id": "minecraft:waxed_oxidized_copper_grate",
         "runtime_id": -775,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_copper_lantern",
+        "id": "minecraft:waxed_oxidized_copper_lantern",
         "runtime_id": -1090,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_copper_trapdoor",
+        "id": "minecraft:waxed_oxidized_copper_trapdoor",
         "runtime_id": -799,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_cut_copper",
+        "id": "minecraft:waxed_oxidized_cut_copper",
         "runtime_id": -447,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_cut_copper_slab",
+        "id": "minecraft:waxed_oxidized_cut_copper_slab",
         "runtime_id": -449,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_cut_copper_stairs",
+        "id": "minecraft:waxed_oxidized_cut_copper_stairs",
         "runtime_id": -448,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_double_cut_copper_slab",
+        "id": "minecraft:waxed_oxidized_double_cut_copper_slab",
         "runtime_id": -450,
         "version": 2,
         "componentBased": false
       },
       {
-        "id": "minecraft:waxed_oxruntime_idized_lightning_rod",
+        "id": "minecraft:waxed_oxidized_lightning_rod",
         "runtime_id": -1065,
         "version": 2,
         "componentBased": false
@@ -11650,6 +11650,5 @@
         "componentBased": false
       }
     ]
-  
   }
 }

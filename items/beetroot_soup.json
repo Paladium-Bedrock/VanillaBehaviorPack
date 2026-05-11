@@ -3,8 +3,7 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:beetroot_soup",
-      "custom": false,
-      "legacy": true
+      "custom": false
     },
     "components": {
       "minecraft:max_stack_size": {
