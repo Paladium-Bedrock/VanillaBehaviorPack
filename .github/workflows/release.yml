@@ -28,6 +28,6 @@ jobs:
             Version : ${{ github.ref_name }}
             - Commit : ${{ github.sha }}
             - Auteur : ${{ github.actor }}
-          files: release-${{ github.ref_name }}.zip
+          files: VanillaBehaviorPack.zip
           draft: false
           prerelease: false
