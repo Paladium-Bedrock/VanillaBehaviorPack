@@ -22,7 +22,7 @@
           {
             "name": "absorption",
             "duration": 400,
-            "amplifier": 1
+            "amplifier": 0
           }
         ]
       }
