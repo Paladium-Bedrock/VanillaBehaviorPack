@@ -7,8 +7,9 @@
       "custom": false
     },
     "components": {
-      "minecraft:block": {
-        "block": "minecraft:beetroot"
+      "minecraft:food": {
+        "nutrition": 1,
+        "saturation": 1.2
       }
     }
   }
