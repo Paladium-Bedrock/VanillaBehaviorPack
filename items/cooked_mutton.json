@@ -3,7 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:cooked_mutton",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.cookedFood"
+      }
     },
     "components": {
       "minecraft:food": {

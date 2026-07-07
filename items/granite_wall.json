@@ -3,8 +3,10 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:mossy_cobblestone_wall",
-      "creative_category": "construction",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "construction"
+      }
     },
     "components": {
       "minecraft:block": {

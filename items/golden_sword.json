@@ -3,7 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:golden_sword",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.sword"
+      }
     },
     "components": {
       "minecraft:max_stack_size": {
@@ -18,7 +22,7 @@
       "minecraft:hand_equipped": {
         "enabled": true
       },
-      "minecraft:repairable":{
+      "minecraft:repairable": {
         "repair_items": [
           {
             "items": [

@@ -3,8 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:nether_brick_fence",
-      "creative_category": "construction",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "construction",
+        "group": "itemGroup.name.fence"
+      }
     },
     "components": {
       "minecraft:block": {

@@ -3,7 +3,10 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:glowstone_dust",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "items"
+      }
     }
   }
 }

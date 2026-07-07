@@ -3,8 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:wither_skeleton_skull",
-      "creative_category": "construction",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "items",
+        "group": "itemGroup.name.skull"
+      }
     },
     "components": {
       "minecraft:block": {

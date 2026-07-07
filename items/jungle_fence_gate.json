@@ -3,8 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:jungle_fence_gate",
-      "creative_category": "construction",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "construction",
+        "group": "itemGroup.name.fenceGate"
+      }
     },
     "components": {
       "minecraft:block": {

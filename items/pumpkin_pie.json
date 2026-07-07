@@ -3,7 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:pumpkin_pie",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.miscFood"
+      }
     },
     "components": {
       "minecraft:food": {

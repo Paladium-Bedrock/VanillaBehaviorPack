@@ -3,8 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:gilded_blackstone",
-      "creative_category": "construction",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "construction",
+        "group": "itemGroup.name.stoneBrick"
+      }
     },
     "components": {
       "minecraft:block": {

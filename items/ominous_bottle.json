@@ -3,7 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:ominous_bottle",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.ominousBottle"
+      }
     }
   }
 }

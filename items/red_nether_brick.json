@@ -3,8 +3,10 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:red_nether_brick",
-      "creative_category": "construction",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "construction"
+      }
     },
     "components": {
       "minecraft:block": {

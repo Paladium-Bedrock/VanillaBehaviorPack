@@ -3,8 +3,10 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:end_stone",
-      "creative_category": "construction",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "nature"
+      }
     },
     "components": {
       "minecraft:block": {

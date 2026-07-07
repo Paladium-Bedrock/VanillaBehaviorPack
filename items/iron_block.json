@@ -3,8 +3,10 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:iron_block",
-      "creative_category": "construction",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "construction"
+      }
     },
     "components": {
       "minecraft:block": {

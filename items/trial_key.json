@@ -3,8 +3,10 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:trial_key",
-      "creative_category": "items",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "items"
+      }
     },
     "components": {
       "minecraft:icon": {

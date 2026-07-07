@@ -3,7 +3,10 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:nether_wart",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "nature"
+      }
     }
   }
 }

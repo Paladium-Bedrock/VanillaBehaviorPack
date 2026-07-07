@@ -3,8 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:tuff_brick_stairs",
-      "creative_category": "construction",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "construction",
+        "group": "itemGroup.name.stairs"
+      }
     },
     "components": {
       "minecraft:block": {

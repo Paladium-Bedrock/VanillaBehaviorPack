@@ -3,7 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:netherite_boots",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.boots"
+      }
     },
     "components": {
       "minecraft:max_stack_size": {
@@ -19,7 +23,7 @@
         "equip_sound": "armor.equip_netherite"
       },
       "minecraft:lava_resistant": {},
-      "minecraft:repairable":{
+      "minecraft:repairable": {
         "repair_items": [
           {
             "items": [

@@ -3,8 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:fire_coral_fan",
-      "creative_category": "construction",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "nature",
+        "group": "itemGroup.name.coral_decorations"
+      }
     },
     "components": {
       "minecraft:block": {

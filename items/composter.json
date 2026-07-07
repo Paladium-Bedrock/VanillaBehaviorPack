@@ -1,15 +1,17 @@
 {
-    "format_version": "1.0.0",
-    "minecraft:item": {
-      "description": {
-        "identifier": "minecraft:composter",
-        "creative_category": "construction",
-        "custom": false
-      },
-      "components": {
-        "minecraft:block": {
-          "block": "minecraft:composter"
-        }
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:composter",
+      "custom": false,
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:composter"
       }
     }
   }
+}

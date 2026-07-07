@@ -3,8 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:yellow_candle",
-      "creative_category": "construction",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "items",
+        "group": "itemGroup.name.candles"
+      }
     },
     "components": {
       "minecraft:block": {

@@ -3,7 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:golden_boots",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.boots"
+      }
     },
     "components": {
       "minecraft:max_stack_size": {
@@ -17,7 +21,7 @@
         "protection": 1,
         "equip_sound": "armor.equip_gold"
       },
-      "minecraft:repairable":{
+      "minecraft:repairable": {
         "repair_items": [
           {
             "items": [

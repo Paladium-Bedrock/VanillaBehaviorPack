@@ -3,7 +3,10 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:shulker_shell",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "items"
+      }
     }
   }
 }

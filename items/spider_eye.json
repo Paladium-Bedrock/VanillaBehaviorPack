@@ -3,7 +3,10 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:spider_eye",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "nature"
+      }
     },
     "components": {
       "minecraft:food": {

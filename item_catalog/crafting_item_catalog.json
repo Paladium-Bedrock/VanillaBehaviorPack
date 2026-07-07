@@ -1,0 +1,411 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:crafting_items_catalog": {
+    "categories": [
+      {
+        "category_name": "construction",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "minecraft:oak_planks",
+              "name": "itemGroup.name.planks"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:cobblestone_wall",
+              "name": "itemGroup.name.walls"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:oak_fence",
+              "name": "itemGroup.name.fence"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:fence_gate",
+              "name": "itemGroup.name.fenceGate"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:stone_stairs",
+              "name": "itemGroup.name.stairs"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:wooden_door",
+              "name": "itemGroup.name.door"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:trapdoor",
+              "name": "itemGroup.name.trapdoor"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:iron_bars",
+              "name": "itemGroup.name.bars"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:glass",
+              "name": "itemGroup.name.glass"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:glass_pane",
+              "name": "itemGroup.name.glassPane"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:smooth_stone_slab",
+              "name": "itemGroup.name.slab"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:stone_bricks",
+              "name": "itemGroup.name.stoneBrick"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:sandstone",
+              "name": "itemGroup.name.sandstone"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:copper_block",
+              "name": "itemGroup.name.copper"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:white_wool",
+              "name": "itemGroup.name.wool"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:white_carpet",
+              "name": "itemGroup.name.woolCarpet"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:white_concrete_powder",
+              "name": "itemGroup.name.concretePowder"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:white_concrete",
+              "name": "itemGroup.name.concrete"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:hardened_clay",
+              "name": "itemGroup.name.stainedClay"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:white_glazed_terracotta",
+              "name": "itemGroup.name.glazedTerracotta"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "minecraft:leather_helmet",
+              "name": "itemGroup.name.helmet"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:leather_chestplate",
+              "name": "itemGroup.name.chestplate"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:leather_leggings",
+              "name": "itemGroup.name.leggings"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:leather_boots",
+              "name": "itemGroup.name.boots"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:wooden_sword",
+              "name": "itemGroup.name.sword"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:wooden_axe",
+              "name": "itemGroup.name.axe"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:wooden_pickaxe",
+              "name": "itemGroup.name.pickaxe"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:wooden_shovel",
+              "name": "itemGroup.name.shovel"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:wooden_hoe",
+              "name": "itemGroup.name.hoe"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:arrow",
+              "name": "itemGroup.name.arrow"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:cooked_chicken",
+              "name": "itemGroup.name.cookedFood"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:bread",
+              "name": "itemGroup.name.miscFood"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:leather_horse_armor",
+              "name": "itemGroup.name.horseArmor"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:ominous_bottle",
+              "name": "itemGroup.name.ominousBottle"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "items",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "minecraft:bed",
+              "name": "itemGroup.name.bed"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:lantern",
+              "name": "itemGroup.name.lanterns"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:candle",
+              "name": "itemGroup.name.candles"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:anvil",
+              "name": "itemGroup.name.anvil"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:chest",
+              "name": "itemGroup.name.chest"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:oak_sign",
+              "name": "itemGroup.name.sign"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:oak_hanging_sign",
+              "name": "itemGroup.name.hanging_sign"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:skeleton_skull",
+              "name": "itemGroup.name.skull"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:enchanted_book",
+              "name": "itemGroup.name.enchantedBook"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:rail",
+              "name": "itemGroup.name.rail"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:wooden_button",
+              "name": "itemGroup.name.buttons"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:wooden_pressure_plate",
+              "name": "itemGroup.name.pressurePlate"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:banner",
+              "name": "itemGroup.name.banner"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:iron_chain",
+              "name": "itemGroup.name.chains"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "nature",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "minecraft:iron_ore",
+              "name": "itemGroup.name.ore"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:stone",
+              "name": "itemGroup.name.stone"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:oak_log",
+              "name": "itemGroup.name.log"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:oak_wood",
+              "name": "itemGroup.name.wood"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:oak_leaves",
+              "name": "itemGroup.name.leaves"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:oak_sapling",
+              "name": "itemGroup.name.sapling"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:wheat_seeds",
+              "name": "itemGroup.name.seed"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:wheat",
+              "name": "itemGroup.name.crop"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:fern",
+              "name": "itemGroup.name.grass"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:fire_coral",
+              "name": "itemGroup.name.coral_decorations"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:dandelion",
+              "name": "itemGroup.name.flower"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:yellow_dye",
+              "name": "itemGroup.name.dye"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:chicken",
+              "name": "itemGroup.name.rawFood"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:brown_mushroom",
+              "name": "itemGroup.name.mushroom"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:chicken_spawn_egg",
+              "name": "itemGroup.name.mobEgg"
+            }
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:tube_coral_block",
+              "name": "itemGroup.name.coral"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,10 +1,14 @@
-﻿{
+{
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:sweet_berries",
       "category": "nature",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "nature",
+        "group": "itemGroup.name.crop"
+      }
     },
     "components": {
       "minecraft:food": {
