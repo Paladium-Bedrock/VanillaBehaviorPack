@@ -2,10 +2,11 @@
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:mossy_cobblestone_wall",
+      "identifier": "minecraft:granite_wall",
       "custom": false,
       "menu_category": {
-        "category": "construction"
+        "category": "construction",
+        "group": "itemGroup.name.walls"
       }
     },
     "components": {
