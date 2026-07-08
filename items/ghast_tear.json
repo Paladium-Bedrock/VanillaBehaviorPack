@@ -3,7 +3,10 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:ghast_tear",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "items"
+      }
     }
   }
 }

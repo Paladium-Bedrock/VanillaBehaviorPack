@@ -3,7 +3,10 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:gold_ingot",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "items"
+      }
     }
   }
 }

@@ -3,8 +3,10 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:honey_block",
-      "creative_category": "nature",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "construction"
+      }
     },
     "components": {
       "minecraft:block": {

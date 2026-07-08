@@ -3,8 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:white_tulip",
-      "creative_category": "construction",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "nature",
+        "group": "itemGroup.name.flower"
+      }
     },
     "components": {
       "minecraft:block_placer": {

@@ -1,18 +1,21 @@
 {
-    "format_version": "1.0.0",
-    "minecraft:item": {
-      "description": {
-        "identifier": "minecraft:pumpkin_seeds",
-        "creative_category": "construction",
-        "custom": false
-      },
-      "components": {
-        "minecraft:block_placer": {
-          "block": "minecraft:pumpkin_stem",
-          "use_on": [
-            "minecraft:farmland"
-          ]
-        }
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:pumpkin_seeds",
+      "custom": false,
+      "menu_category": {
+        "category": "nature",
+        "group": "itemGroup.name.seed"
+      }
+    },
+    "components": {
+      "minecraft:block_placer": {
+        "block": "minecraft:pumpkin_stem",
+        "use_on": [
+          "minecraft:farmland"
+        ]
       }
     }
   }
+}

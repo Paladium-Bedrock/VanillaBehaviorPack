@@ -3,8 +3,10 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:packed_mud",
-      "creative_category": "nature",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "construction"
+      }
     },
     "components": {
       "minecraft:block": {

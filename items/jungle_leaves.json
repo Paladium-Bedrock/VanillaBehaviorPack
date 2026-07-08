@@ -3,8 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:jungle_leaves",
-      "creative_category": "construction",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "nature",
+        "group": "itemGroup.name.leaves"
+      }
     },
     "components": {
       "minecraft:block": {

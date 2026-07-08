@@ -3,7 +3,10 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:slime_ball",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "items"
+      }
     }
   }
 }

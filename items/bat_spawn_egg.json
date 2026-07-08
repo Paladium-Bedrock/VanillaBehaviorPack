@@ -3,8 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:bat_spawn_egg",
-      "creative_category": "nature",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "nature",
+        "group": "itemGroup.name.mobEgg"
+      }
     },
     "components": {
       "minecraft:entity_placer": {

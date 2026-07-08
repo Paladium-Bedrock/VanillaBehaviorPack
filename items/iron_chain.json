@@ -3,8 +3,11 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:iron_chain",
-      "creative_category": "construction",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "items",
+        "group": "itemGroup.name.chains"
+      }
     },
     "components": {
       "minecraft:block": {

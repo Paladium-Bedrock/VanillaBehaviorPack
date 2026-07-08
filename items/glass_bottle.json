@@ -3,7 +3,10 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:glass_bottle",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "equipment"
+      }
     }
   }
 }

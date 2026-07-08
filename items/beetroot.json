@@ -3,12 +3,16 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:beetroot",
-      "creative_category": "construction",
-      "custom": false
+      "custom": false,
+      "menu_category": {
+        "category": "nature",
+        "group": "itemGroup.name.crop"
+      }
     },
     "components": {
-      "minecraft:block": {
-        "block": "minecraft:beetroot"
+      "minecraft:food": {
+        "nutrition": 1,
+        "saturation": 1.2
       }
     }
   }
