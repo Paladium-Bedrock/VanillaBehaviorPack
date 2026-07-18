@@ -20,7 +20,7 @@
         "tier": 3
       },
       "minecraft:damage": {
-        "damage": 3
+        "damage": 1
       },
       "minecraft:hand_equipped": {
         "enabled": true

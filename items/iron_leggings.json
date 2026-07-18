@@ -14,11 +14,11 @@
         "value": 1
       },
       "minecraft:durability": {
-        "max_durability": 196
+        "max_durability": 226
       },
       "minecraft:wearable": {
         "slot": "slot.armor.legs",
-        "protection": 2,
+        "protection": 5,
         "equip_sound": "armor.equip_iron"
       },
       "minecraft:repairable": {
