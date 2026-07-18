@@ -21,7 +21,7 @@
         "multiplier": 9.0
       },
       "minecraft:damage": {
-        "damage": 8
+        "damage": 7
       },
       "minecraft:hand_equipped": {
         "enabled": true

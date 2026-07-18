@@ -16,6 +16,12 @@
       "minecraft:durability": {
         "max_durability": 1562
       },
+      "minecraft:damage": {
+        "damage": 4
+      },
+      "minecraft:hand_equipped": {
+        "enabled": true
+      },
       "minecraft:shovel": {
         "tier": 6,
         "multiplier": 8.0
