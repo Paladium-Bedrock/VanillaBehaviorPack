@@ -1,0 +1,17 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:small_dripleaf_block",
+      "custom": false,
+      "menu_category": {
+        "category": "nature"
+      }
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:small_dripleaf_block"
+      }
+    }
+  }
+}

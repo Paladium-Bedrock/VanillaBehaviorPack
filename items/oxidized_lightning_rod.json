@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:oxidized_lightning_rod",
+      "custom": false,
+      "menu_category": { "category": "equipment" }
+    },
+    "components": { "minecraft:block": { "block": "minecraft:oxidized_lightning_rod" } }
+  }
+}

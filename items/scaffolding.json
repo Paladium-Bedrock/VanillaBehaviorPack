@@ -1,0 +1,17 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:scaffolding",
+      "custom": false,
+      "menu_category": {
+        "category": "construction"
+      }
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:scaffolding"
+      }
+    }
+  }
+}
