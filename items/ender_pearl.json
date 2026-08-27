@@ -13,7 +13,8 @@
         "value": 16
       },
       "minecraft:projectile": {
-        "projectile_entity": "minecraft:ender_pearl"
+        "projectile_entity": "minecraft:ender_pearl",
+        "cooldown": 20
       }
     }
   }

@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:copper_chain",
+      "custom": false,
+      "menu_category": { "category": "construction" }
+    },
+    "components": { "minecraft:block": { "block": "minecraft:copper_chain" } }
+  }
+}

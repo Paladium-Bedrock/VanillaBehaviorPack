@@ -1,0 +1,17 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:cactus_flower",
+      "custom": false,
+      "menu_category": {
+        "category": "nature"
+      }
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:cactus_flower"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:mushroom_stem",
+      "custom": false,
+      "menu_category": {
+        "category": "nature"
+      }
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:mushroom_stem"
+      }
+    }
+  }
+}

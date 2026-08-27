@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:end_rod",
+      "custom": false,
+      "menu_category": { "category": "items" }
+    },
+    "components": { "minecraft:block": { "block": "minecraft:end_rod" } }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:weeping_vines",
+      "custom": false,
+      "menu_category": { "category": "nature" }
+    },
+    "components": { "minecraft:block": { "block": "minecraft:weeping_vines" } }
+  }
+}

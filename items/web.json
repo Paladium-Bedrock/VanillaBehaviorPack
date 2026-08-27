@@ -1,0 +1,17 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:web",
+      "custom": false,
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:web"
+      }
+    }
+  }
+}

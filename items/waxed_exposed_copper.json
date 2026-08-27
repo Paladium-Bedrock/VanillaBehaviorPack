@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:waxed_exposed_copper",
+      "custom": false,
+      "menu_category": {
+        "category": "construction",
+        "group": "itemGroup.name.copper"
+      }
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:waxed_exposed_copper"
+      }
+    }
+  }
+}

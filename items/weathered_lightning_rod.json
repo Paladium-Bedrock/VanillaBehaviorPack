@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:weathered_lightning_rod",
+      "custom": false,
+      "menu_category": { "category": "equipment" }
+    },
+    "components": { "minecraft:block": { "block": "minecraft:weathered_lightning_rod" } }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:torchflower_crop",
+      "custom": false,
+      "menu_category": { "category": "nature" }
+    },
+    "components": { "minecraft:block": { "block": "minecraft:torchflower_crop" } }
+  }
+}
