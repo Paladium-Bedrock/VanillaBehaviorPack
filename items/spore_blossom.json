@@ -1,0 +1,17 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:spore_blossom",
+      "custom": false,
+      "menu_category": {
+        "category": "nature"
+      }
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:spore_blossom"
+      }
+    }
+  }
+}
