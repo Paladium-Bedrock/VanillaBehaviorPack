@@ -21,6 +21,10 @@
       "minecraft:use_duration": {
         "value": 72000
       },
+      "minecraft:enchantable": {
+        "slot": "bow",
+        "value": 1
+      },
       "minecraft:bow": {}
     }
   }
