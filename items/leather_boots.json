@@ -32,7 +32,7 @@
         ]
       },
       "minecraft:enchantable": {
-        "slot": "armor_legs",
+        "slot": "armor_feet",
         "value": 15
       },
       "minecraft:tags": {
