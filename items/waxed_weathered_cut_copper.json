@@ -2,16 +2,16 @@
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:infested_deepslate",
+      "identifier": "minecraft:waxed_weathered_cut_copper",
       "custom": false,
       "menu_category": {
-        "category": "nature",
-        "group": "itemGroup.name.monsterStoneEgg"
+        "category": "construction",
+        "group": "itemGroup.name.copper"
       }
     },
     "components": {
       "minecraft:block": {
-        "block": "minecraft:infested_deepslate"
+        "block": "minecraft:waxed_weathered_cut_copper"
       }
     }
   }

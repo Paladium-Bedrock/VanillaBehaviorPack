@@ -2,16 +2,16 @@
   "format_version": "1.0.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:infested_deepslate",
+      "identifier": "minecraft:oxidized_copper_bulb",
       "custom": false,
       "menu_category": {
-        "category": "nature",
-        "group": "itemGroup.name.monsterStoneEgg"
+        "category": "construction",
+        "group": "itemGroup.name.copper"
       }
     },
     "components": {
       "minecraft:block": {
-        "block": "minecraft:infested_deepslate"
+        "block": "minecraft:oxidized_copper_bulb"
       }
     }
   }
