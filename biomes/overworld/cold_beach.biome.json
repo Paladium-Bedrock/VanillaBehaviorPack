@@ -1,0 +1,49 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "cold_beach",
+      "id": 26,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.05,
+        "downfall": 0.3,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          20,
+          99,
+          165,
+          165
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:snow",
+            "options": {}
+          },
+          {
+            "identifier": "minecraft:water_ice",
+            "options": {}
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "beach",
+          "cold",
+          "monster",
+          "overworld",
+          "spawns_cold_variant_farm_animals",
+          "spawns_cold_variant_frogs",
+          "spawns_snow_foxes",
+          "spawns_white_rabbits"
+        ]
+      }
+    }
+  }
+}

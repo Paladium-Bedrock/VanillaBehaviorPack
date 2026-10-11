@@ -1,0 +1,101 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "legacy_frozen_ocean",
+      "id": 10,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.0,
+        "downfall": 0.5,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          96,
+          183,
+          255,
+          166
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:underwater_floor",
+            "options": {
+              "block": "minecraft:sand",
+              "probability": 1.0,
+              "min_radius": 2,
+              "max_radius": 4,
+              "height_radius": 2,
+              "replacement_blocks": [
+                "minecraft:grass_block",
+                "minecraft:dirt"
+              ],
+              "base_amount": 3
+            }
+          },
+          {
+            "identifier": "minecraft:underwater_floor",
+            "options": {
+              "block": "minecraft:clay",
+              "probability": 1.0,
+              "min_radius": 1,
+              "max_radius": 2,
+              "height_radius": 1,
+              "replacement_blocks": [
+                "minecraft:dirt",
+                "minecraft:clay"
+              ],
+              "base_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:underwater_floor",
+            "options": {
+              "block": "minecraft:gravel",
+              "probability": 1.0,
+              "min_radius": 2,
+              "max_radius": 3,
+              "height_radius": 2,
+              "replacement_blocks": [
+                "minecraft:grass_block",
+                "minecraft:dirt"
+              ],
+              "base_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:seagrass",
+            "options": {
+              "base_amount": 12,
+              "random_amount": 12
+            }
+          },
+          {
+            "identifier": "minecraft:snow",
+            "options": {}
+          },
+          {
+            "identifier": "minecraft:water_ice",
+            "options": {}
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "legacy",
+          "frozen",
+          "ocean",
+          "overworld",
+          "spawns_cold_variant_farm_animals",
+          "spawns_polar_bears_on_alternate_blocks",
+          "fast_fishing",
+          "high_seas"
+        ]
+      }
+    }
+  }
+}

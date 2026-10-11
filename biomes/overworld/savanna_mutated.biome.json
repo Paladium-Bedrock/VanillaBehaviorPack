@@ -1,0 +1,63 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "savanna_mutated",
+      "id": 163,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 2.0,
+        "downfall": 0.0,
+        "rain": false
+      },
+      "minecraft:water_color": {
+        "color": [
+          96,
+          183,
+          255,
+          166
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:acacia",
+              "base_amount": 1,
+              "random_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:grass",
+            "options": {
+              "base_amount": 40
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:tall_grass"
+              ],
+              "base_amount": 8
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "animal",
+          "monster",
+          "mutated",
+          "overworld",
+          "savanna",
+          "spawns_savanna_mobs",
+          "spawns_warm_variant_farm_animals"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:poplar_log",
+      "custom": false,
+      "menu_category": {
+        "category": "nature",
+        "group": "itemGroup.name.log"
+      }
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:poplar_log"
+      }
+    }
+  }
+}

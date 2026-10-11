@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "stone_beach",
+      "id": 25,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.2,
+        "downfall": 0.3,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          13,
+          103,
+          187,
+          165
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "beach",
+          "monster",
+          "overworld",
+          "stone"
+        ]
+      }
+    }
+  }
+}

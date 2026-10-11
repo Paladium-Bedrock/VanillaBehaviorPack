@@ -9,13 +9,14 @@
     "components": {
       "minecraft:climate": {
         "temperature": 0.25,
-        "downfall": 0.8
+        "downfall": 0.8,
+        "rain": true
       },
       "minecraft:water_color": {
         "color": [
-          30,
-          151,
-          242,
+          40,
+          112,
+          130,
           165
         ]
       },
@@ -42,32 +43,83 @@
             "identifier": "minecraft:tree",
             "options": {
               "type": "minecraft:spruce",
-              "base_amount": 10
+              "base_amount": 4,
+              "random_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:pine",
+              "base_amount": 1,
+              "random_amount": 1
             }
           },
           {
             "identifier": "minecraft:grass",
             "options": {
-              "base_amount": 30
+              "base_amount": 10
             }
           },
           {
             "identifier": "minecraft:plant",
             "options": {
               "plants": [
-                "minecraft:tall_grass"
+                "minecraft:fern"
               ],
-              "base_amount": 5
+              "base_amount": 6
             }
           },
           {
             "identifier": "minecraft:plant",
             "options": {
               "plants": [
-                "minecraft:dandelion",
-                "minecraft:poppy"
+                "minecraft:large_fern"
               ],
-              "base_amount": 3
+              "base_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:sweet_berry_bush"
+              ],
+              "base_amount": 1,
+              "chance": 8
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:brown_mushroom"
+              ],
+              "base_amount": 1,
+              "chance": 4
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:red_mushroom"
+              ],
+              "base_amount": 1,
+              "chance": 8
+            }
+          },
+          {
+            "identifier": "minecraft:pumpkin",
+            "options": {
+              "chance": 300
+            }
+          },
+          {
+            "identifier": "minecraft:sugarcane",
+            "options": {
+              "base_amount": 0,
+              "random_amount": 4
             }
           }
         ]
@@ -75,9 +127,13 @@
       "minecraft:tags": {
         "tags": [
           "animal",
+          "forest",
           "monster",
           "overworld",
-          "taiga"
+          "taiga",
+          "has_structure_trail_ruins",
+          "spawns_cold_variant_farm_animals",
+          "has_structure_abandoned_camp"
         ]
       }
     }

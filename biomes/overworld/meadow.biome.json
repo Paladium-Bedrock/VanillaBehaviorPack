@@ -1,0 +1,85 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "meadow",
+      "id": 186,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.3,
+        "downfall": 0.8,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          96,
+          183,
+          255,
+          166
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:oak",
+              "base_amount": 1,
+              "chance": 50
+            }
+          },
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:birch",
+              "base_amount": 1,
+              "chance": 100
+            }
+          },
+          {
+            "identifier": "minecraft:grass",
+            "options": {
+              "base_amount": 60
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:tall_grass"
+              ],
+              "base_amount": 15
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:dandelion",
+                "minecraft:poppy",
+                "minecraft:allium",
+                "minecraft:azure_bluet",
+                "minecraft:oxeye_daisy",
+                "minecraft:cornflower"
+              ],
+              "base_amount": 10,
+              "random_amount": 5
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "mountains",
+          "monster",
+          "overworld",
+          "meadow",
+          "bee_habitat",
+          "has_structure_abandoned_camp"
+        ]
+      }
+    }
+  }
+}

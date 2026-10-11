@@ -3,13 +3,14 @@
   "minecraft:biome": {
     "description": {
       "identifier": "frozen_ocean",
-      "id": 10,
+      "id": 46,
       "custom": false
     },
     "components": {
       "minecraft:climate": {
         "temperature": 0.0,
-        "downfall": 0.5
+        "downfall": 0.5,
+        "rain": true
       },
       "minecraft:water_color": {
         "color": [
@@ -18,22 +19,6 @@
           181,
           165
         ]
-      },
-      "minecraft:generation_rules": {
-        "priority": 1,
-        "base_height": -0.5,
-        "height_variation": 0.0,
-        "max_temperature": -0.4001,
-        "min_downfall": 0.2,
-        "max_downfall": -0.0001,
-        "min_ocean": -1,
-        "max_ocean": -0.1501
-      },
-      "minecraft:surface_parameters": {
-        "surface_depth": 1,
-        "surface_material": "minecraft:sand",
-        "ground_depth": 4,
-        "ground_material": "minecraft:gravel"
       },
       "minecraft:populators": {
         "populators": [
@@ -49,7 +34,7 @@
                 "minecraft:grass_block",
                 "minecraft:dirt"
               ],
-              "base_amount": 2
+              "base_amount": 3
             }
           },
           {
@@ -85,8 +70,8 @@
           {
             "identifier": "minecraft:seagrass",
             "options": {
-              "base_amount": 24,
-              "random_amount": 24
+              "base_amount": 12,
+              "random_amount": 12
             }
           },
           {
@@ -101,9 +86,17 @@
       },
       "minecraft:tags": {
         "tags": [
+          "frozen",
           "monster",
+          "ocean",
           "overworld",
-          "frozen_ocean"
+          "spawns_polar_bears_on_alternate_blocks",
+          "spawns_cold_variant_farm_animals",
+          "spawns_cold_variant_frogs",
+          "spawns_snow_foxes",
+          "spawns_white_rabbits",
+          "fast_fishing",
+          "high_seas"
         ]
       }
     }

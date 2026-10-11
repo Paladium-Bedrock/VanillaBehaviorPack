@@ -9,7 +9,8 @@
     "components": {
       "minecraft:climate": {
         "temperature": 0.0,
-        "downfall": 0.5
+        "downfall": 0.5,
+        "rain": true
       },
       "minecraft:water_color": {
         "color": [
@@ -83,16 +84,9 @@
             }
           },
           {
-            "identifier": "minecraft:sugarcane",
-            "options": {
-              "base_amount": 10,
-              "random_amount": 10
-            }
-          },
-          {
             "identifier": "minecraft:seagrass",
             "options": {
-              "base_amount": 4,
+              "base_amount": 2,
               "random_amount": 2
             }
           },
@@ -108,9 +102,14 @@
       },
       "minecraft:tags": {
         "tags": [
-          "monster",
+          "frozen",
           "overworld",
-          "frozen_river"
+          "river",
+          "spawns_cold_variant_farm_animals",
+          "spawns_cold_variant_frogs",
+          "spawns_river_mobs",
+          "spawns_snow_foxes",
+          "spawns_white_rabbits"
         ]
       }
     }

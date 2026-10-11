@@ -1,0 +1,99 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "bamboo_jungle",
+      "id": 48,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.95,
+        "downfall": 0.9,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          20,
+          162,
+          197,
+          165
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:bamboo",
+            "options": {
+              "base_amount": 20,
+              "random_amount": 15,
+              "podzol_chance": 0.2
+            }
+          },
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:mega_jungle",
+              "base_amount": 1,
+              "chance": 3
+            }
+          },
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:jungle",
+              "base_amount": 3,
+              "random_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:grass",
+            "options": {
+              "base_amount": 20
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:fern"
+              ],
+              "base_amount": 8
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:large_fern"
+              ],
+              "base_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:melon_block"
+              ],
+              "base_amount": 2,
+              "chance": 8
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "animal",
+          "bamboo",
+          "jungle",
+          "monster",
+          "overworld",
+          "spawns_jungle_mobs",
+          "spawns_warm_variant_farm_animals",
+          "has_structure_abandoned_camp"
+        ]
+      }
+    }
+  }
+}

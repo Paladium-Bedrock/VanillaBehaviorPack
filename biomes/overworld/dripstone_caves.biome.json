@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "dripstone_caves",
+      "id": 188,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.2,
+        "downfall": 0.0,
+        "rain": false
+      },
+      "minecraft:water_color": {
+        "color": [
+          96,
+          183,
+          255,
+          166
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "caves",
+          "overworld",
+          "dripstone_caves",
+          "monster"
+        ]
+      }
+    }
+  }
+}

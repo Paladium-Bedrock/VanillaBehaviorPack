@@ -1,0 +1,100 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "lukewarm_ocean",
+      "id": 42,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.5,
+        "downfall": 0.5,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          13,
+          150,
+          219,
+          165
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:underwater_floor",
+            "options": {
+              "block": "minecraft:sand",
+              "probability": 1.0,
+              "min_radius": 2,
+              "max_radius": 4,
+              "height_radius": 2,
+              "replacement_blocks": [
+                "minecraft:grass_block",
+                "minecraft:dirt"
+              ],
+              "base_amount": 3
+            }
+          },
+          {
+            "identifier": "minecraft:underwater_floor",
+            "options": {
+              "block": "minecraft:clay",
+              "probability": 1.0,
+              "min_radius": 1,
+              "max_radius": 2,
+              "height_radius": 1,
+              "replacement_blocks": [
+                "minecraft:dirt",
+                "minecraft:clay"
+              ],
+              "base_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:underwater_floor",
+            "options": {
+              "block": "minecraft:gravel",
+              "probability": 1.0,
+              "min_radius": 2,
+              "max_radius": 3,
+              "height_radius": 2,
+              "replacement_blocks": [
+                "minecraft:grass_block",
+                "minecraft:dirt"
+              ],
+              "base_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:seagrass",
+            "options": {
+              "base_amount": 40,
+              "random_amount": 40
+            }
+          },
+          {
+            "identifier": "minecraft:kelp",
+            "options": {
+              "base_amount": 0,
+              "random_amount": 40
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "lukewarm",
+          "monster",
+          "ocean",
+          "overworld",
+          "spawns_warm_variant_farm_animals",
+          "fast_fishing",
+          "high_seas",
+          "temperate_ocean"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:poplar_wood",
+      "custom": false,
+      "menu_category": {
+        "category": "nature",
+        "group": "itemGroup.name.wood"
+      }
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:poplar_wood"
+      },
+      "minecraft:fuel": {
+        "duration": 300
+      }
+    }
+  }
+}

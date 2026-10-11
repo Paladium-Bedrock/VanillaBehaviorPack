@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "sulfur_caves",
+      "id": 194,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.8,
+        "downfall": 0.4,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          96,
+          183,
+          255,
+          166
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "caves",
+          "sulfur_caves",
+          "overworld",
+          "monster"
+        ]
+      }
+    }
+  }
+}

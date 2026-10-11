@@ -10,7 +10,8 @@
     "components": {
       "minecraft:climate": {
         "temperature": 2.0,
-        "downfall": 0.0
+        "downfall": 0.0,
+        "rain": false
       },
       "minecraft:water_color": {
         "color": [
@@ -28,6 +29,14 @@
       "minecraft:tags": {
         "tags": [
           "nether",
+          "nether_wastes",
+          "spawn_endermen",
+          "spawn_few_piglins",
+          "spawn_ghast",
+          "spawn_magma_cubes",
+          "spawns_nether_mobs",
+          "spawn_zombified_piglin",
+          "spawns_warm_variant_farm_animals",
           "hell"
         ]
       }

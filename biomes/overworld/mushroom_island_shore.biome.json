@@ -10,7 +10,8 @@
     "components": {
       "minecraft:climate": {
         "temperature": 0.9,
-        "downfall": 1.0
+        "downfall": 1.0,
+        "rain": true
       },
       "minecraft:water_color": {
         "color": [
@@ -27,9 +28,10 @@
       },
       "minecraft:tags": {
         "tags": [
-          "monster",
+          "mooshroom_island",
           "overworld",
-          "mushroom_island_shore"
+          "shore",
+          "spawns_without_patrols"
         ]
       }
     }
