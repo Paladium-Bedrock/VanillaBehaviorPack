@@ -1,0 +1,50 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "snowy_slopes",
+      "id": 184,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": -0.3,
+        "downfall": 0.9,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          96,
+          183,
+          255,
+          166
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:snow",
+            "options": {}
+          },
+          {
+            "identifier": "minecraft:water_ice",
+            "options": {}
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "mountains",
+          "monster",
+          "overworld",
+          "frozen",
+          "spawns_cold_variant_frogs",
+          "spawns_snow_foxes",
+          "spawns_white_rabbits",
+          "snowy_slopes",
+          "spawns_cold_variant_farm_animals"
+        ]
+      }
+    }
+  }
+}

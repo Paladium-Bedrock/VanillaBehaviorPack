@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:cinnabar_brick_wall",
+      "custom": false,
+      "menu_category": {
+        "category": "construction",
+        "group": "itemGroup.name.walls"
+      }
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:cinnabar_brick_wall"
+      }
+    }
+  }
+}

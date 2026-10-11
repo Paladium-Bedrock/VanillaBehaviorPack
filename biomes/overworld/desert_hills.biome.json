@@ -9,7 +9,8 @@
     "components": {
       "minecraft:climate": {
         "temperature": 2.0,
-        "downfall": 0.0
+        "downfall": 0.0,
+        "rain": false
       },
       "minecraft:water_color": {
         "color": [
@@ -41,29 +42,34 @@
           {
             "identifier": "minecraft:sugarcane",
             "options": {
-              "base_amount": 10
+              "base_amount": 0,
+              "random_amount": 5
             }
           },
           {
             "identifier": "minecraft:cactus",
             "options": {
-              "base_amount": 2
+              "base_amount": 1,
+              "random_amount": 1
             }
           },
           {
             "identifier": "minecraft:deadbush",
             "options": {
-              "base_amount": 2
+              "base_amount": 2,
+              "random_amount": 0
             }
           }
         ]
       },
       "minecraft:tags": {
         "tags": [
-          "animal",
-          "desert_hills",
+          "desert",
+          "hills",
           "monster",
-          "overworld"
+          "overworld",
+          "spawns_gold_rabbits",
+          "spawns_warm_variant_farm_animals"
         ]
       }
     }

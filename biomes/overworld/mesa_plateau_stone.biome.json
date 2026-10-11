@@ -1,0 +1,72 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "mesa_plateau_stone",
+      "id": 38,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 2.0,
+        "downfall": 0.0,
+        "rain": false
+      },
+      "minecraft:water_color": {
+        "color": [
+          85,
+          128,
+          158,
+          165
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:oak",
+              "base_amount": 4,
+              "random_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:grass",
+            "options": {
+              "base_amount": 10
+            }
+          },
+          {
+            "identifier": "minecraft:deadbush",
+            "options": {
+              "base_amount": 2,
+              "random_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:cactus",
+            "options": {
+              "base_amount": 0,
+              "random_amount": 2
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "animal",
+          "mesa",
+          "monster",
+          "overworld",
+          "plateau",
+          "rare",
+          "stone",
+          "spawns_mesa_mobs",
+          "spawns_warm_variant_farm_animals",
+          "surface_mineshaft",
+          "has_structure_abandoned_camp"
+        ]
+      }
+    }
+  }
+}

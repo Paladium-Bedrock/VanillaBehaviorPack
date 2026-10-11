@@ -10,7 +10,8 @@
     "components": {
       "minecraft:climate": {
         "temperature": 0.9,
-        "downfall": 1.0
+        "downfall": 1.0,
+        "rain": true
       },
       "minecraft:water_color": {
         "color": [
@@ -25,11 +26,51 @@
         "base_height": 0.2,
         "height_variation": 0.3
       },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:huge_brown_mushroom",
+              "base_amount": 0,
+              "random_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:huge_red_mushroom",
+              "base_amount": 0,
+              "random_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:brown_mushroom"
+              ],
+              "base_amount": 2,
+              "random_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:red_mushroom"
+              ],
+              "base_amount": 1,
+              "random_amount": 2
+            }
+          }
+        ]
+      },
       "minecraft:tags": {
         "tags": [
-          "monster",
+          "mooshroom_island",
           "overworld",
-          "mushroom_island"
+          "spawns_without_patrols"
         ]
       }
     }

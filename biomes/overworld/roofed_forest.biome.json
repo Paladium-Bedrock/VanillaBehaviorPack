@@ -1,0 +1,103 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "roofed_forest",
+      "id": 29,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.7,
+        "downfall": 0.8,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          59,
+          108,
+          209,
+          165
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:dark_oak",
+              "base_amount": 6,
+              "random_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:oak",
+              "base_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:birch",
+              "base_amount": 0,
+              "random_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:grass",
+            "options": {
+              "base_amount": 10
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:dandelion",
+                "minecraft:poppy",
+                "minecraft:lily_of_the_valley"
+              ],
+              "base_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:brown_mushroom",
+                "minecraft:red_mushroom"
+              ],
+              "base_amount": 1,
+              "random_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:pumpkin",
+            "options": {
+              "chance": 300
+            }
+          },
+          {
+            "identifier": "minecraft:sugarcane",
+            "options": {
+              "base_amount": 0,
+              "random_amount": 4
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "animal",
+          "forest",
+          "monster",
+          "no_legacy_worldgen",
+          "overworld",
+          "roofed"
+        ]
+      }
+    }
+  }
+}

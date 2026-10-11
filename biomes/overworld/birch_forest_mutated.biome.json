@@ -1,0 +1,89 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "birch_forest_mutated",
+      "id": 155,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.6,
+        "downfall": 0.6,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          6,
+          119,
+          206,
+          165
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:birch",
+              "base_amount": 6,
+              "random_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:grass",
+            "options": {
+              "base_amount": 15
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:tall_grass"
+              ],
+              "base_amount": 3
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:dandelion",
+                "minecraft:poppy",
+                "minecraft:lily_of_the_valley"
+              ],
+              "base_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:pumpkin",
+            "options": {
+              "chance": 300
+            }
+          },
+          {
+            "identifier": "minecraft:sugarcane",
+            "options": {
+              "base_amount": 0,
+              "random_amount": 4
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "animal",
+          "birch",
+          "forest",
+          "monster",
+          "mutated",
+          "bee_habitat",
+          "has_structure_trail_ruins",
+          "has_structure_abandoned_camp",
+          "overworld"
+        ]
+      }
+    }
+  }
+}

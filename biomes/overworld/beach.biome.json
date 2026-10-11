@@ -9,7 +9,8 @@
     "components": {
       "minecraft:climate": {
         "temperature": 0.8,
-        "downfall": 0.4
+        "downfall": 0.4,
+        "rain": true
       },
       "minecraft:water_color": {
         "color": [
@@ -39,23 +40,18 @@
           {
             "identifier": "minecraft:sugarcane",
             "options": {
-              "base_amount": 10
-            }
-          },
-          {
-            "identifier": "minecraft:cactus",
-            "options": {
-              "base_amount": 0,
-              "random_amount": 1
+              "base_amount": 2,
+              "random_amount": 3
             }
           }
         ]
       },
       "minecraft:tags": {
         "tags": [
+          "beach",
           "monster",
           "overworld",
-          "beach"
+          "warm"
         ]
       }
     }

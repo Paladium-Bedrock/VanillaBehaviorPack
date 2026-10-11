@@ -1,0 +1,62 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "mangrove_swamp",
+      "id": 191,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.8,
+        "downfall": 0.9,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          96,
+          183,
+          255,
+          166
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:mangrove",
+              "base_amount": 12,
+              "random_amount": 6
+            }
+          },
+          {
+            "identifier": "minecraft:lily_pad",
+            "options": {
+              "base_amount": 3,
+              "random_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:seagrass",
+            "options": {
+              "base_amount": 6,
+              "random_amount": 4
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "mangrove_swamp",
+          "overworld",
+          "monster",
+          "spawns_slimes_on_surface",
+          "spawns_warm_variant_farm_animals",
+          "spawns_warm_variant_frogs",
+          "slime"
+        ]
+      }
+    }
+  }
+}

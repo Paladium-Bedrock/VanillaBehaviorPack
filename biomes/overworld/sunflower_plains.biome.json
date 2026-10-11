@@ -1,0 +1,101 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "sunflower_plains",
+      "id": 129,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.8,
+        "downfall": 0.4,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          96,
+          183,
+          255,
+          166
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:oak",
+              "base_amount": 1,
+              "chance": 20
+            }
+          },
+          {
+            "identifier": "minecraft:grass",
+            "options": {
+              "base_amount": 50
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:tall_grass"
+              ],
+              "base_amount": 8
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:sunflower"
+              ],
+              "base_amount": 8
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:dandelion",
+                "minecraft:poppy",
+                "minecraft:azure_bluet",
+                "minecraft:red_tulip",
+                "minecraft:orange_tulip",
+                "minecraft:white_tulip",
+                "minecraft:pink_tulip",
+                "minecraft:oxeye_daisy",
+                "minecraft:cornflower"
+              ],
+              "base_amount": 3
+            }
+          },
+          {
+            "identifier": "minecraft:pumpkin",
+            "options": {
+              "chance": 300
+            }
+          },
+          {
+            "identifier": "minecraft:sugarcane",
+            "options": {
+              "base_amount": 0,
+              "random_amount": 4
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "animal",
+          "monster",
+          "mutated",
+          "overworld",
+          "plains",
+          "bee_habitat"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "mesa_bryce",
+      "id": 165,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 2.0,
+        "downfall": 0.0,
+        "rain": false
+      },
+      "minecraft:water_color": {
+        "color": [
+          20,
+          162,
+          197,
+          165
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:deadbush",
+            "options": {
+              "base_amount": 3,
+              "random_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:cactus",
+            "options": {
+              "base_amount": 1,
+              "random_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:sugarcane",
+            "options": {
+              "base_amount": 2,
+              "random_amount": 3
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "animal",
+          "mesa",
+          "monster",
+          "mutated",
+          "overworld",
+          "spawns_mesa_mobs",
+          "spawns_warm_variant_farm_animals",
+          "surface_mineshaft"
+        ]
+      }
+    }
+  }
+}

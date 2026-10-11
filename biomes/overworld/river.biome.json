@@ -9,7 +9,8 @@
     "components": {
       "minecraft:climate": {
         "temperature": 0.5,
-        "downfall": 0.5
+        "downfall": 0.5,
+        "rain": true
       },
       "minecraft:water_color": {
         "color": [
@@ -81,25 +82,27 @@
             }
           },
           {
-            "identifier": "minecraft:sugarcane",
+            "identifier": "minecraft:seagrass",
             "options": {
-              "base_amount": 10,
-              "random_amount": 10
+              "base_amount": 6,
+              "random_amount": 4
             }
           },
           {
-            "identifier": "minecraft:seagrass",
+            "identifier": "minecraft:sugarcane",
             "options": {
-              "base_amount": 4,
-              "random_amount": 2
+              "base_amount": 5,
+              "random_amount": 5
             }
           }
         ]
       },
       "minecraft:tags": {
         "tags": [
-          "monster",
           "overworld",
+          "spawns_more_frequent_drowned",
+          "spawns_reduced_water_ambient_mobs",
+          "spawns_river_mobs",
           "river"
         ]
       }

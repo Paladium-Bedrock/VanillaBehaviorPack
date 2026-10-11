@@ -1,0 +1,21 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:poplar_fence_gate",
+      "custom": false,
+      "menu_category": {
+        "category": "construction",
+        "group": "itemGroup.name.fenceGate"
+      }
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:poplar_fence_gate"
+      },
+      "minecraft:fuel": {
+        "duration": 300
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "grove",
+      "id": 185,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": -0.2,
+        "downfall": 0.8,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          96,
+          183,
+          255,
+          166
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:spruce",
+              "base_amount": 3,
+              "random_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:pine",
+              "base_amount": 0,
+              "random_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:snow",
+            "options": {}
+          },
+          {
+            "identifier": "minecraft:water_ice",
+            "options": {}
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "mountains",
+          "cold",
+          "monster",
+          "overworld",
+          "grove",
+          "spawns_cold_variant_farm_animals",
+          "spawns_cold_variant_frogs",
+          "spawns_snow_foxes",
+          "spawns_white_rabbits"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "stony_peaks",
+      "id": 189,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 1.0,
+        "downfall": 0.3,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          96,
+          183,
+          255,
+          166
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "mountains",
+          "monster",
+          "overworld",
+          "spawns_cold_variant_farm_animals"
+        ]
+      }
+    }
+  }
+}

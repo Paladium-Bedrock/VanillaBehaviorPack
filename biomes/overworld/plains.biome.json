@@ -9,7 +9,8 @@
     "components": {
       "minecraft:climate": {
         "temperature": 0.8,
-        "downfall": 0.4
+        "downfall": 0.4,
+        "rain": true
       },
       "minecraft:water_color": {
         "color": [
@@ -40,13 +41,14 @@
             "identifier": "minecraft:tree",
             "options": {
               "type": "minecraft:oak",
-              "base_amount": 1
+              "base_amount": 1,
+              "chance": 20
             }
           },
           {
             "identifier": "minecraft:grass",
             "options": {
-              "base_amount": 30
+              "base_amount": 50
             }
           },
           {
@@ -55,7 +57,7 @@
               "plants": [
                 "minecraft:tall_grass"
               ],
-              "base_amount": 5
+              "base_amount": 8
             }
           },
           {
@@ -69,8 +71,8 @@
                 "minecraft:orange_tulip",
                 "minecraft:white_tulip",
                 "minecraft:pink_tulip",
-                "minecraft:cornflower",
-                "minecraft:lilac"
+                "minecraft:oxeye_daisy",
+                "minecraft:cornflower"
               ],
               "base_amount": 3
             }
@@ -78,7 +80,14 @@
           {
             "identifier": "minecraft:pumpkin",
             "options": {
-              "chance": 20
+              "chance": 300
+            }
+          },
+          {
+            "identifier": "minecraft:sugarcane",
+            "options": {
+              "base_amount": 0,
+              "random_amount": 4
             }
           }
         ]
@@ -88,7 +97,8 @@
           "animal",
           "monster",
           "overworld",
-          "plains"
+          "plains",
+          "bee_habitat"
         ]
       }
     }

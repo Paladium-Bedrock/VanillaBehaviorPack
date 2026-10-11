@@ -9,7 +9,8 @@
     "components": {
       "minecraft:climate": {
         "temperature": 0.7,
-        "downfall": 0.8
+        "downfall": 0.8,
+        "rain": true
       },
       "minecraft:water_color": {
         "color": [
@@ -42,22 +43,23 @@
           {
             "identifier": "minecraft:tree",
             "options": {
-              "type": "minecraft:birch",
-              "base_amount": 3
+              "type": "minecraft:oak",
+              "base_amount": 4,
+              "random_amount": 2
             }
           },
           {
             "identifier": "minecraft:tree",
             "options": {
-              "type": "minecraft:oak",
+              "type": "minecraft:birch",
               "base_amount": 1,
-              "random_amount": 7
+              "random_amount": 1
             }
           },
           {
             "identifier": "minecraft:grass",
             "options": {
-              "base_amount": 30
+              "base_amount": 15
             }
           },
           {
@@ -66,7 +68,7 @@
               "plants": [
                 "minecraft:tall_grass"
               ],
-              "base_amount": 5
+              "base_amount": 3
             }
           },
           {
@@ -75,12 +77,54 @@
               "plants": [
                 "minecraft:dandelion",
                 "minecraft:poppy",
-                "minecraft:lily_of_the_valley",
+                "minecraft:lily_of_the_valley"
+              ],
+              "base_amount": 2
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
                 "minecraft:lilac",
                 "minecraft:rose_bush",
                 "minecraft:peony"
               ],
-              "base_amount": 3
+              "base_amount": 1,
+              "random_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:brown_mushroom"
+              ],
+              "base_amount": 1,
+              "chance": 4
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:red_mushroom"
+              ],
+              "base_amount": 1,
+              "chance": 8
+            }
+          },
+          {
+            "identifier": "minecraft:pumpkin",
+            "options": {
+              "chance": 300
+            }
+          },
+          {
+            "identifier": "minecraft:sugarcane",
+            "options": {
+              "base_amount": 0,
+              "random_amount": 4
             }
           }
         ]
@@ -88,9 +132,12 @@
       "minecraft:tags": {
         "tags": [
           "animal",
+          "forest",
           "monster",
           "overworld",
-          "forest"
+          "bee_habitat",
+          "has_structure_abandoned_camp",
+          "oak_forest"
         ]
       }
     }

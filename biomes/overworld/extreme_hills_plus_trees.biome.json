@@ -1,0 +1,85 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "extreme_hills_plus_trees",
+      "id": 34,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.2,
+        "downfall": 0.3,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          14,
+          99,
+          171,
+          165
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:spruce",
+              "base_amount": 1,
+              "random_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:oak",
+              "base_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:grass",
+            "options": {
+              "base_amount": 10
+            }
+          },
+          {
+            "identifier": "minecraft:plant",
+            "options": {
+              "plants": [
+                "minecraft:dandelion",
+                "minecraft:poppy"
+              ],
+              "base_amount": 1
+            }
+          },
+          {
+            "identifier": "minecraft:pumpkin",
+            "options": {
+              "chance": 300
+            }
+          },
+          {
+            "identifier": "minecraft:sugarcane",
+            "options": {
+              "base_amount": 0,
+              "random_amount": 4
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "animal",
+          "extreme_hills",
+          "forest",
+          "monster",
+          "mountain",
+          "overworld",
+          "spawns_cold_variant_farm_animals",
+          "has_structure_abandoned_camp"
+        ]
+      }
+    }
+  }
+}

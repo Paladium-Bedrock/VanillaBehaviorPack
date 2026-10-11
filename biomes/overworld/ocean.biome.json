@@ -9,7 +9,8 @@
     "components": {
       "minecraft:climate": {
         "temperature": 0.5,
-        "downfall": 0.5
+        "downfall": 0.5,
+        "rain": true
       },
       "minecraft:water_color": {
         "color": [
@@ -49,7 +50,7 @@
                 "minecraft:grass_block",
                 "minecraft:dirt"
               ],
-              "base_amount": 2
+              "base_amount": 3
             }
           },
           {
@@ -102,7 +103,9 @@
         "tags": [
           "monster",
           "ocean",
-          "overworld"
+          "overworld",
+          "fast_fishing",
+          "high_seas"
         ]
       }
     }

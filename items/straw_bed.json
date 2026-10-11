@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:straw_bed",
+      "custom": false,
+      "menu_category": {
+        "category": "items",
+        "group": "itemGroup.name.bed"
+      }
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:straw_bed"
+      }
+    }
+  }
+}

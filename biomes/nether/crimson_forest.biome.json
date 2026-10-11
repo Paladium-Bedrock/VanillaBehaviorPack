@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "crimson_forest",
+      "id": 179,
+      "custom": false,
+      "is_spawnable": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 2.0,
+        "downfall": 0.0,
+        "rain": false
+      },
+      "minecraft:water_color": {
+        "color": [
+          144,
+          89,
+          87,
+          165
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "nether",
+          "netherwart_forest",
+          "crimson_forest",
+          "spawn_few_zombified_piglins",
+          "spawn_piglin",
+          "spawns_warm_variant_farm_animals"
+        ]
+      }
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "format_version": "1.0.0",
   "minecraft:biome": {
     "description": {
-      "identifier": "end",
+      "identifier": "the_end",
       "id": 9,
       "custom": false,
       "is_spawnable": false

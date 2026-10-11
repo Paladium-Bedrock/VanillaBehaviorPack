@@ -8,8 +8,9 @@
     },
     "components": {
       "minecraft:climate": {
-        "temperature": 0.0,
-        "downfall": 2.0
+        "temperature": 2.0,
+        "downfall": 0.0,
+        "rain": false
       },
       "minecraft:water_color": {
         "color": [
@@ -20,14 +21,13 @@
         ]
       },
       "minecraft:generation_rules": {
-        "priority": 1,
-        "base_height": 0.125,
-        "height_variation": 0.05,
+        "priority": 2,
+        "base_height": 0.1,
+        "height_variation": 0.3,
         "min_temperature": 0.5,
-        "max_downfall": 0.0,
-        "min_ocean": 0.0,
-        "min_river": 1.0,
-        "min_hills": 0.0
+        "max_downfall": -0.1,
+        "min_ocean": -0.1199,
+        "min_river": 0.04
       },
       "minecraft:surface_parameters": {
         "surface_depth": 3,
@@ -40,29 +40,34 @@
           {
             "identifier": "minecraft:sugarcane",
             "options": {
-              "base_amount": 10,
-              "random_amount": 40
+              "base_amount": 0,
+              "random_amount": 5
             }
           },
           {
             "identifier": "minecraft:cactus",
             "options": {
-              "base_amount": 2
+              "base_amount": 1,
+              "random_amount": 1
             }
           },
           {
             "identifier": "minecraft:deadbush",
             "options": {
-              "base_amount": 2
+              "base_amount": 2,
+              "random_amount": 0
             }
           }
         ]
       },
       "minecraft:tags": {
         "tags": [
+          "desert",
           "monster",
           "overworld",
-          "desert"
+          "spawns_gold_rabbits",
+          "spawns_warm_variant_farm_animals",
+          "spawns_warm_variant_frogs"
         ]
       }
     }

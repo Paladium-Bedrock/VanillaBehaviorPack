@@ -1,0 +1,61 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "extreme_hills_mutated",
+      "id": 131,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.2,
+        "downfall": 0.3,
+        "rain": true
+      },
+      "minecraft:water_color": {
+        "color": [
+          14,
+          99,
+          171,
+          165
+        ]
+      },
+      "minecraft:populators": {
+        "populators": [
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:spruce",
+              "base_amount": 1,
+              "chance": 10
+            }
+          },
+          {
+            "identifier": "minecraft:tree",
+            "options": {
+              "type": "minecraft:oak",
+              "base_amount": 1,
+              "chance": 20
+            }
+          },
+          {
+            "identifier": "minecraft:grass",
+            "options": {
+              "base_amount": 10
+            }
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "animal",
+          "extreme_hills",
+          "monster",
+          "mutated",
+          "overworld",
+          "spawns_cold_variant_farm_animals"
+        ]
+      }
+    }
+  }
+}

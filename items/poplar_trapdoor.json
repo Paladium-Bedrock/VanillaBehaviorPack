@@ -1,0 +1,21 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:poplar_trapdoor",
+      "custom": false,
+      "menu_category": {
+        "category": "construction",
+        "group": "itemGroup.name.trapdoor"
+      }
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:poplar_trapdoor"
+      },
+      "minecraft:fuel": {
+        "duration": 300
+      }
+    }
+  }
+}

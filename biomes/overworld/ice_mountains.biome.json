@@ -9,7 +9,8 @@
     "components": {
       "minecraft:climate": {
         "temperature": 0.0,
-        "downfall": 0.5
+        "downfall": 0.5,
+        "rain": true
       },
       "minecraft:water_color": {
         "color": [
@@ -41,39 +42,8 @@
             "identifier": "minecraft:tree",
             "options": {
               "type": "minecraft:spruce",
-              "base_amount": 0,
-              "random_amount": 1
-            }
-          },
-          {
-            "identifier": "minecraft:grass",
-            "options": {
-              "base_amount": 30
-            }
-          },
-          {
-            "identifier": "minecraft:plant",
-            "options": {
-              "plants": [
-                "minecraft:tall_grass"
-              ],
-              "base_amount": 5
-            }
-          },
-          {
-            "identifier": "minecraft:plant",
-            "options": {
-              "plants": [
-                "minecraft:dandelion",
-                "minecraft:poppy"
-              ],
-              "base_amount": 3
-            }
-          },
-          {
-            "identifier": "minecraft:pumpkin",
-            "options": {
-              "chance": 20
+              "base_amount": 1,
+              "chance": 10
             }
           },
           {
@@ -88,10 +58,14 @@
       },
       "minecraft:tags": {
         "tags": [
-          "animal",
-          "monster",
+          "frozen",
+          "ice",
+          "mountain",
           "overworld",
-          "ice_mountains"
+          "spawns_cold_variant_farm_animals",
+          "spawns_cold_variant_frogs",
+          "spawns_snow_foxes",
+          "spawns_white_rabbits"
         ]
       }
     }
