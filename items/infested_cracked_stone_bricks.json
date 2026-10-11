@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:infested_cracked_stone_bricks",
+      "custom": false,
+      "menu_category": {
+        "category": "nature",
+        "group": "itemGroup.name.monsterStoneEgg"
+      }
+    },
+    "components": {
+      "minecraft:block": {
+        "block": "minecraft:infested_cracked_stone_bricks"
+      }
+    }
+  }
+}
