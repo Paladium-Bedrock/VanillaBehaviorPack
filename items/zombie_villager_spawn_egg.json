@@ -1,0 +1,21 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:zombie_villager_spawn_egg",
+      "custom": false,
+      "menu_category": {
+        "category": "nature",
+        "group": "itemGroup.name.mobEgg"
+      }
+    },
+    "components": {
+      "minecraft:entity_placer": {
+        "entity": "minecraft:zombie_villager_v2"
+      },
+      "minecraft:max_stack_size": {
+        "value": 16
+      }
+    }
+  }
+}

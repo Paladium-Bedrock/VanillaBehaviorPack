@@ -1,0 +1,21 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:parrot_spawn_egg",
+      "custom": false,
+      "menu_category": {
+        "category": "nature",
+        "group": "itemGroup.name.mobEgg"
+      }
+    },
+    "components": {
+      "minecraft:entity_placer": {
+        "entity": "minecraft:parrot"
+      },
+      "minecraft:max_stack_size": {
+        "value": 16
+      }
+    }
+  }
+}
