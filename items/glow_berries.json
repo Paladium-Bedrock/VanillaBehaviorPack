@@ -3,6 +3,7 @@
   "minecraft:item": {
     "description": {
       "identifier": "minecraft:glow_berries",
+      "category": "nature",
       "custom": false,
       "menu_category": {
         "category": "nature",
@@ -12,7 +13,10 @@
     "components": {
       "minecraft:food": {
         "nutrition": 2,
-        "saturation": 1.2
+        "saturation": 0.4
+      },
+      "minecraft:block_placer": {
+        "block": "minecraft:cave_vines"
       }
     }
   }
