@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:poplar_trapdoor"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:poplar_planks"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:poplar_trapdoor",
+      "count": 2
+    }
+  }
+}

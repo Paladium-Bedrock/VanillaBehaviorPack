@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_light_blue_terracotta"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "experience": 0.1,
+    "input": {
+      "item": "minecraft:light_blue_terracotta"
+    },
+    "output": {
+      "item": "minecraft:light_blue_glazed_terracotta"
+    }
+  }
+}

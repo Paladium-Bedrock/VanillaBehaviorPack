@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_hardened_clay"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "experience": 0.35,
+    "input": {
+      "item": "minecraft:clay"
+    },
+    "output": {
+      "item": "minecraft:hardened_clay"
+    }
+  }
+}
