@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "ice_caves",
+      "id": 196,
+      "custom": false
+    },
+    "components": {
+      "minecraft:climate": {
+        "temperature": 0.0,
+        "downfall": 0.0,
+        "rain": false
+      },
+      "minecraft:water_color": {
+        "color": [
+          20,
+          85,
+          155,
+          165
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "caves",
+          "ice_caves",
+          "overworld",
+          "monster",
+          "no_dirt",
+          "no_granite",
+          "hosted_ores",
+          "intrusive_deposits",
+          "no_glow_lichen"
+        ]
+      }
+    }
+  }
+}

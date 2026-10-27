@@ -1,7 +1,7 @@
 {
   "format_version": "1.0.0",
   "minecraft:items_runtime": {
-    "game_version": "1.26.50",
+    "game_version": "1.26.60",
     "items": [
       {
         "id": "minecraft:acacia_boat",
@@ -3394,6 +3394,12 @@
         "component_based": false
       },
       {
+        "id": "minecraft:disc_press",
+        "runtime_id": -1249,
+        "version": 2,
+        "component_based": false
+      },
+      {
         "id": "minecraft:dispenser",
         "runtime_id": 23,
         "version": 2,
@@ -4726,6 +4732,12 @@
         "component_based": false
       },
       {
+        "id": "minecraft:frostbite_spawn_egg",
+        "runtime_id": 885,
+        "version": 2,
+        "component_based": false
+      },
+      {
         "id": "minecraft:frosted_ice",
         "runtime_id": 207,
         "version": 2,
@@ -5668,8 +5680,26 @@
         "component_based": false
       },
       {
+        "id": "minecraft:ice_ball",
+        "runtime_id": 884,
+        "version": 2,
+        "component_based": true
+      },
+      {
         "id": "minecraft:ice_bomb",
         "runtime_id": 611,
+        "version": 2,
+        "component_based": false
+      },
+      {
+        "id": "minecraft:ice_crystal",
+        "runtime_id": -1248,
+        "version": 2,
+        "component_based": false
+      },
+      {
+        "id": "minecraft:icicle",
+        "runtime_id": -1247,
         "version": 2,
         "component_based": false
       },
