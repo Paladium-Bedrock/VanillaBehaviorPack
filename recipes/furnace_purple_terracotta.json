@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_purple_terracotta"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "experience": 0.1,
+    "input": {
+      "item": "minecraft:purple_terracotta"
+    },
+    "output": {
+      "item": "minecraft:purple_glazed_terracotta"
+    }
+  }
+}

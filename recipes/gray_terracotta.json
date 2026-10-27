@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:gray_terracotta"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:hardened_clay"
+        }
+      ],
+      "X": [
+        {
+          "item": "minecraft:gray_dye"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:gray_terracotta",
+      "count": 8
+    }
+  }
+}
