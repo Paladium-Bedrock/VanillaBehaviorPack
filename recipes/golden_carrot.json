@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:golden_carrot"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "XXX",
+      "X#X",
+      "XXX"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:carrot"
+        }
+      ],
+      "X": [
+        {
+          "item": "minecraft:gold_nugget"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:golden_carrot",
+      "count": 1
+    }
+  }
+}
