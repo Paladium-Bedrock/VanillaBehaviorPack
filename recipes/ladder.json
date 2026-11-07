@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:ladder"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A A",
+      "AAA",
+      "A A"
+    ],
+    "key": {
+      "A": [
+        {
+          "item": "minecraft:stick"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:ladder",
+      "count": 3
+    }
+  }
+}
