@@ -11,6 +11,11 @@
     "components": {
       "minecraft:block": {
         "block": "minecraft:carved_pumpkin"
+      },
+      "minecraft:wearable": {
+        "slot": "slot.armor.head",
+        "protection": 0,
+        "equip_sound": "armor.equip_generic"
       }
     }
   }

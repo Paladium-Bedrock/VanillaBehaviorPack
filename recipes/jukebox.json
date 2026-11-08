@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:jukebox"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "#D#",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "tag": "minecraft:planks"
+        }
+      ],
+      "D": [
+        {
+          "item": "minecraft:diamond"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:jukebox",
+      "count": 1
+    }
+  }
+}
