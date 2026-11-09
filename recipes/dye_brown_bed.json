@@ -1,0 +1,24 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:dye_brown_bed"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:bed",
+        "meta": 0
+      },
+      {
+        "item": "minecraft:brown_dye"
+      }
+    ],
+    "result": {
+      "item": "minecraft:bed",
+      "meta": 12
+    }
+  }
+}
