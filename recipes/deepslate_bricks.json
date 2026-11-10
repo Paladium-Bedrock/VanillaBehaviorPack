@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:deepslate_bricks"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:polished_deepslate"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:deepslate_bricks",
+      "count": 4
+    }
+  }
+}
