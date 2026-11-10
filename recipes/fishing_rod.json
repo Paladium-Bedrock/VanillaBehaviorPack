@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:fishing_rod"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "  #",
+      " #X",
+      "# X"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:stick"
+        }
+      ],
+      "X": [
+        {
+          "item": "minecraft:string"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:fishing_rod"
+    }
+  }
+}
