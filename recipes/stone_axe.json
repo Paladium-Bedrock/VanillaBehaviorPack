@@ -21,6 +21,12 @@
       "X": [
         {
           "item": "minecraft:cobblestone"
+        },
+        {
+          "item": "minecraft:cobbled_deepslate"
+        },
+        {
+          "item": "minecraft:blackstone"
         }
       ]
     },
