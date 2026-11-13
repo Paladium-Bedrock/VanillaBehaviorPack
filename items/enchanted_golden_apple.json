@@ -20,22 +20,22 @@
         "effects": [
           {
             "name": "regeneration",
-            "duration": 30,
-            "amplifier": 4
+            "duration": 600,
+            "amplifier": 1
           },
           {
             "name": "absorption",
-            "duration": 120,
+            "duration": 2400,
             "amplifier": 3
           },
           {
             "name": "resistance",
-            "duration": 300,
+            "duration": 6000,
             "amplifier": 0
           },
           {
             "name": "fire_resistance",
-            "duration": 300,
+            "duration": 6000,
             "amplifier": 0
           }
         ]
