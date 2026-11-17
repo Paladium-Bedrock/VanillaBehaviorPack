@@ -1,0 +1,20 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:cyan_dye_from_pitcher_plant"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:pitcher_plant"
+      }
+    ],
+    "result": {
+      "item": "minecraft:cyan_dye",
+      "count": 2
+    }
+  }
+}
